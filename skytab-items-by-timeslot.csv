@@ -1,0 +1,4002 @@
+SlotID,TimeSlot,Item,QtySold,SalesAmt,Discounts,Deletes,DeletesAmt
+32,"7:00 AM","Advantage Program",0,2.37,0,0,0
+32,"7:00 AM","Muffin",3,15,0,0,0
+32,"7:00 AM","Cappuccino",1,5.5,0,0,0
+32,"7:00 AM","Matcha Latte",1,8,0,0,0
+32,"7:00 AM","Latte",1,6,0,0,0
+32,"7:00 AM","Add Syrup",1,1,0,0,0
+32,"7:00 AM","Americano",1,4,0,0,0
+32,"7:00 AM","French Toast Casserole",1,24,0,0,0
+33,"7:15 AM","Advantage Program",0,112.87,0,0,0
+33,"7:15 AM","Open Food",5,118.5,0,0,0
+33,"7:15 AM","Focaccia - Petit",7,105,0,0,0
+33,"7:15 AM","Whipped ricotta",2,24,0,0,0
+33,"7:15 AM","Breakfast Sandwich",20,200,0,1,10
+33,"7:15 AM","Benton's Bacon",1,30,0,0,0
+33,"7:15 AM","Benton's Ham",1,18,0,0,0
+33,"7:15 AM","Baked Ziti W/ Meatballs",1,36,0,0,0
+33,"7:15 AM","Chocolate Chip Cookie",18,72,0,0,0
+33,"7:15 AM","Dog Treats",3,15,0,0,0
+33,"7:15 AM","Muffin",24,120,0,0,0
+33,"7:15 AM","Beef Stroganoff",1,38,0,0,0
+33,"7:15 AM","Resin Napkin Rings",2,14,0,0,0
+33,"7:15 AM","Le Bon Garcon - Cider + Spice",1,23,0,0,0
+33,"7:15 AM","Taper Candles Color Block",1,17,0,0,0
+33,"7:15 AM","Taper Candles - Greentree",1,16,0,0,0
+33,"7:15 AM","Orange Surprise Ball",2,28,0,0,0
+33,"7:15 AM","Tinsel Rolls",1,6,0,0,0
+33,"7:15 AM","Bloody Mary Crackers",1,16,0,0,0
+33,"7:15 AM","Golden Milk Lattee",1,7,0,0,0
+33,"7:15 AM","Cappuccino",18,99,0,0,0
+33,"7:15 AM","Matcha Latte",11,84.4,0,0,0
+33,"7:15 AM","Chai Latte",4,24,0,0,0
+33,"7:15 AM","Cortado",12,54,0,0,0
+33,"7:15 AM","Espresso",6,18,0,0,0
+33,"7:15 AM","Latte",64,383.4,0,3,17.4
+33,"7:15 AM","Tea",3,12,0,0,0
+33,"7:15 AM","Add Syrup",43,42.9,0,0,0
+33,"7:15 AM","Americano",21,84,0,0,0
+33,"7:15 AM","Peach Syrup",1,2,0,0,0
+33,"7:15 AM","Le Fluffernut",5,39.2,0,1,8
+33,"7:15 AM","Cold Brew",5,32.5,0,0,0
+33,"7:15 AM","Open Retail",2,30,0,0,0
+33,"7:15 AM","Pm tumbler",1,40,0,0,0
+33,"7:15 AM","Cookie Asst.",12,48,0,0,0
+33,"7:15 AM","Thai Beef Curry",1,38,0,0,0
+33,"7:15 AM","Rotating Salad",2,36,0,0,0
+33,"7:15 AM","Pound Cake",1,5,0,0,0
+33,"7:15 AM","Chicken Picata",0,0,0,1,32
+33,"7:15 AM","Its Complicated being a Wizard - BBCO",1,18,0,0,0
+33,"7:15 AM","GIDDY UP NUTS - Rosemary Garlic",1,19,0,0,0
+33,"7:15 AM","GIDDY UP NUTS - Original",2,38,0,0,0
+33,"7:15 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+33,"7:15 AM","Butternut Squash Soup SMALL",1,12,0,0,0
+33,"7:15 AM","Meatloaf 2",1,28,0,0,0
+33,"7:15 AM","Meatloaf with Brussels",2,72,0,0,0
+33,"7:15 AM","Frosty",2,16,0,0,0
+33,"7:15 AM","Turkey Sandwich",2,26,0,0,0
+33,"7:15 AM","Ham & Brie",6,78,0,0,0
+33,"7:15 AM","Sparkling Apple Juice",2,10,0,0,0
+33,"7:15 AM","Sm Saratoga Water",1,4,0,0,0
+33,"7:15 AM","Roast Chicken Sandwich",3,39,0,0,0
+33,"7:15 AM","Sweet potato chorizo",1,14,0,0,0
+33,"7:15 AM","Le Bon Garcon - Strawberry Sakura Caramels",1,28,0,0,0
+33,"7:15 AM","Buffalo Chicken Dip",1,16,0,0,0
+33,"7:15 AM","Cinnamon Rolls",2,50,0,0,0
+33,"7:15 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",2,32,0,0,0
+33,"7:15 AM","Maeve Spring Mix",1,25,0,0,0
+33,"7:15 AM","Mini Sockerbit Flowers and bunnies",1,14,0,0,0
+33,"7:15 AM","Bon bon Sour BLACKBERRY Fish Candy",1,8,0,0,0
+33,"7:15 AM","Passerine Brut Blanca",1,30,0,0,0
+33,"7:15 AM","Ayoh Dill Pickle Mayo Sando Sauce",2,18,0,0,0
+33,"7:15 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+33,"7:15 AM","Kombucha Pear",1,6.5,0,0,0
+33,"7:15 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",2,16,0,0,0
+33,"7:15 AM","Card Amy Zhang",1,5,0,0,0
+34,"7:30 AM","Advantage Program",0,168.42,0,0,0
+34,"7:30 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+34,"7:30 AM","Open Food",3,53,0,0,0
+34,"7:30 AM","Open Beverage",1,6.5,0,0,0
+34,"7:30 AM","Open Beer",1,30,0,0,0
+34,"7:30 AM","Focaccia - Petit",3,45,0,0,0
+34,"7:30 AM","Pimento Cheese",2,28,0,0,0
+34,"7:30 AM","Whipped ricotta",1,12,0,0,0
+34,"7:30 AM","Breakfast Sandwich",11,110,0,0,0
+34,"7:30 AM","Benton's Bacon",2,60,0,0,0
+34,"7:30 AM","Baked Ziti W/ Meatballs",6,220,0,0,0
+34,"7:30 AM","Chocolate Chip Cookie",16,64,0,0,0
+34,"7:30 AM","Dog Treats",2,10,0,0,0
+34,"7:30 AM","Muffin",33,165,0,0,0
+34,"7:30 AM","Beef Stroganoff",3,114,0,0,0
+34,"7:30 AM","Crunchy Pony Peanut Butter",1,8,0,0,0
+34,"7:30 AM","SHARE Zaatar Crackers",1,12,0,0,0
+34,"7:30 AM","Sausage - Mild Pork",1,24,0,0,0
+34,"7:30 AM","Resin Napkin Rings",2,14,0,0,0
+34,"7:30 AM","Dozen Eggs",1,12,0,0,0
+34,"7:30 AM","Taper Candles Color Block",1,17,0,0,0
+34,"7:30 AM","Hester & Cook Coloring Haunted House Placemats",2,60,0,0,0
+34,"7:30 AM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+34,"7:30 AM","Bravo - Isatopia Card",2,14,0,0,0
+34,"7:30 AM","Potter's Flat Breads",1,15,0,0,0
+34,"7:30 AM","Food Orament",1,18,0,0,0
+34,"7:30 AM","Golden Milk Lattee",2,14,0,0,0
+34,"7:30 AM","Cappuccino",22,121,0,2,11
+34,"7:30 AM","Matcha Latte",23,182,0,0,0
+34,"7:30 AM","Chai Latte",6,35.4,0,0,0
+34,"7:30 AM","Cortado",8,36,0,0,0
+34,"7:30 AM","Espresso",6,18,0,0,0
+34,"7:30 AM","Latte",59,349.8,0,1,6
+34,"7:30 AM","Tea",1,1.8,0,0,0
+34,"7:30 AM","Add Syrup",55,54.3,0,0,0
+34,"7:30 AM","Americano",20,80,0,0,0
+34,"7:30 AM","Peach Syrup",1,2,0,0,0
+34,"7:30 AM","Le Fluffernut",7,53.6,0,0,0
+34,"7:30 AM","Cold Brew",2,13,0,0,0
+34,"7:30 AM","Open Retail",8,147,0,0,0
+34,"7:30 AM","Cookie Asst.",13,52,0,0,0
+34,"7:30 AM","Pound Cake",2,10,0,0,0
+34,"7:30 AM","Frankie's Classic New York Deli Pickles",1,13,0,0,0
+34,"7:30 AM","EDISTO - HONEY",2,36,0,0,0
+34,"7:30 AM","Maldon Salt Regular",1,12,0,0,0
+34,"7:30 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+34,"7:30 AM","Le Bon Garcon - P.O.G. Caramels",1,16.8,0,0,0
+34,"7:30 AM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+34,"7:30 AM","MASA - Tortilla Chips BLUE",2,32,0,0,0
+34,"7:30 AM","TOYO Toolbox",1,70,0,0,0
+34,"7:30 AM","Turkey and the Wolf Flavor Trippin' in New Orleans",1,30,0,0,0
+34,"7:30 AM","GIDDY UP NUTS - Rosemary Garlic",1,19,0,0,0
+34,"7:30 AM","GIDDY UP NUTS - Original",1,19,0,0,0
+34,"7:30 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",2,24,0,0,0
+34,"7:30 AM","VANDY - Herbs de Provence",1,16,0,0,0
+34,"7:30 AM","Pop tart",3,15,0,0,0
+34,"7:30 AM","Small Matchboxes",1,13,0,0,0
+34,"7:30 AM","SALT & TWINE - Prosciutto",1,9,0,0,0
+34,"7:30 AM","MALDON - Chili Salt",1,12,0,0,0
+34,"7:30 AM","rotating - tandem",2,40,0,0,0
+34,"7:30 AM","Gingerbread Man",1,8,0,0,0
+34,"7:30 AM","maeve - pumpkin spice",1,7,0,0,0
+34,"7:30 AM","Heart Box Chocolates Maeve",1,12,0,0,0
+34,"7:30 AM","Night Chocolates Maeve",1,14,0,0,0
+34,"7:30 AM","Carrot Surprise Tops",3,45,0,0,0
+34,"7:30 AM","Chick Surprise Ball",3,45,0,0,0
+34,"7:30 AM","Coeurs Dark Choc Heart Bar",1,13,0,0,0
+34,"7:30 AM","Turkey Sandwich",2,26,0,0,0
+34,"7:30 AM","Ham & Brie",7,84.5,0,0,0
+34,"7:30 AM","EDISTO - HOT HONEY",1,18,0,0,0
+34,"7:30 AM","Whipped Honey",1,18,0,0,0
+34,"7:30 AM","Lg Saratoga Water",1,4,0,0,0
+34,"7:30 AM","Orange Juice",1,8,0,0,0
+34,"7:30 AM","Sparkling Apple Juice",1,5,0,0,0
+34,"7:30 AM","Sm Saratoga Water",2,8,0,0,0
+34,"7:30 AM","Sm Sparkling - Saratoga",2,8,0,0,0
+34,"7:30 AM","Roast Chicken Sandwich",8,102.7,0,0,0
+34,"7:30 AM","VANDY - Original",2,32,0,0,0
+34,"7:30 AM","Tomato Soup small",3,36,0,0,0
+34,"7:30 AM","Chicken Curry",3,75,0,0,0
+34,"7:30 AM","Cobb Chardonnay Sonoma",1,66,0,0,0
+34,"7:30 AM","Drink Ticket House of Gleason cocktail napkins",1,52,0,0,0
+34,"7:30 AM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+34,"7:30 AM","Fattoria di Sammontana Chianti",1,28,0,0,0
+34,"7:30 AM","Notelet Archivist card",2,10,0,0,0
+34,"7:30 AM","Cookie Cake",2,30,0,0,0
+34,"7:30 AM","Francis Blanchet Pouilly Fume",1,32,0,0,0
+34,"7:30 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+34,"7:30 AM","Cinnamon Rolls",1,25,0,0,0
+34,"7:30 AM","SHARE Everything Crackers",2,24,0,0,0
+34,"7:30 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+34,"7:30 AM","Pra Morandina Valpolicella",1,33,0,0,0
+34,"7:30 AM","Poggio Anima Montepulciano D'Abruzzo",1,22,0,0,0
+34,"7:30 AM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+34,"7:30 AM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+34,"7:30 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+34,"7:30 AM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+34,"7:30 AM","Hot Girl Pickles Original Dill",1,14,0,0,0
+34,"7:30 AM","Sugar Roses & Flowers",1,20,0,0,0
+34,"7:30 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",1,8,0,0,0
+34,"7:30 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+34,"7:30 AM","MASA Tortilla Chips Traditional",1,16,0,0,0
+34,"7:30 AM","Card Amy Zhang",3,15,0,0,0
+35,"7:45 AM","Advantage Program",0,185.41,0,0,0
+35,"7:45 AM","Open Food",17,229.01,0,0,0
+35,"7:45 AM","Open Beverage",1,0.01,0,0,0
+35,"7:45 AM","Focaccia - Petit",10,150,0,0,0
+35,"7:45 AM","Pimento Cheese",1,14,0,0,0
+35,"7:45 AM","Whipped ricotta",6,72,0,0,0
+35,"7:45 AM","Breakfast Sandwich",7,70,0,0,0
+35,"7:45 AM","Benton's Bacon",3,90,0,0,0
+35,"7:45 AM","Baked Ziti W/ Meatballs",0,0,0,1,36
+35,"7:45 AM","Chocolate Chip Cookie",24,96,0,0,0
+35,"7:45 AM","Dog Treats",2,10,0,0,0
+35,"7:45 AM","Muffin",34,170,0,0,0
+35,"7:45 AM","Beef Stroganoff",1,38,0,0,0
+35,"7:45 AM","Cider",1,4,0,0,0
+35,"7:45 AM","Crunchy Pony Peanut Butter",1,8,0,0,0
+35,"7:45 AM","Chicken w Ratatouille",1,36,0,0,0
+35,"7:45 AM","Lemon Scones",5,30,0,0,0
+35,"7:45 AM","Jose Gourmet Tuna Pate",1,8,0,0,0
+35,"7:45 AM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+35,"7:45 AM","Chocolate Sardines",1,32,0,0,0
+35,"7:45 AM","Resin Napkin Rings",14,98,0,0,0
+35,"7:45 AM","moutarde - cognac",1,24,0,0,0
+35,"7:45 AM","Rayos Uva Olivier Riviere Vinos",1,34,0,0,0
+35,"7:45 AM","Dozen Eggs",1,12,0,0,0
+35,"7:45 AM","Chucktown Acres - Bacon",1,30,0,0,0
+35,"7:45 AM","Orange Surprise Ball",6,84,0,0,0
+35,"7:45 AM","Bloody Mary Crackers",2,32,0,0,0
+35,"7:45 AM","Golden Milk Lattee",8,56,0,0,0
+35,"7:45 AM","Cappuccino",23,125.95,0,0,0
+35,"7:45 AM","Matcha Latte",24,177.6,0,0,0
+35,"7:45 AM","Chai Latte",4,24,0,0,0
+35,"7:45 AM","Cortado",10,45,0,0,0
+35,"7:45 AM","Espresso",8,24,0,0,0
+35,"7:45 AM","Latte",87,513,0,1,6
+35,"7:45 AM","Add Syrup",75,74,0,0,0
+35,"7:45 AM","Americano",15,60,0,0,0
+35,"7:45 AM","Peach Syrup",8,15.8,0,0,0
+35,"7:45 AM","Le Fluffernut",5,40,0,0,0
+35,"7:45 AM","Cold Brew",13,84.5,0,0,0
+35,"7:45 AM","Open Retail",2,64,0,0,0
+35,"7:45 AM","Pm tumbler",0,0,0,1,40
+35,"7:45 AM","OG Legally Addictive",1,9,0,0,0
+35,"7:45 AM","Cookie Asst.",5,20,0,0,0
+35,"7:45 AM","Thai Beef Curry",2,76,0,0,0
+35,"7:45 AM","Rotating Salad",1,18,0,0,0
+35,"7:45 AM","Chicken and Broccoli",3,108,0,0,0
+35,"7:45 AM","EDISTO - HONEY",1,18,0,0,0
+35,"7:45 AM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+35,"7:45 AM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+35,"7:45 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,16.5,0,0,0
+35,"7:45 AM","Chucktown Acres - Ground Beef",1,20,0,0,0
+35,"7:45 AM","GIDDY UP NUTS - Original",2,38,0,0,0
+35,"7:45 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",2,18,0,0,0
+35,"7:45 AM","SALT & TWINE - Prosciutto",1,9,0,0,0
+35,"7:45 AM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+35,"7:45 AM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+35,"7:45 AM","one trick pony - popcorn",1,8,0,0,0
+35,"7:45 AM","Table Cards Hester & Cook",2,32,0,0,0
+35,"7:45 AM","House Small - Greentree",1,46,0,0,0
+35,"7:45 AM","Frosty",1,8,0,0,0
+35,"7:45 AM","Maeve Bon Bon Box",1,24,0,0,0
+35,"7:45 AM","Peanut Butter Banana Bar Maeve",1,7.5,0,0,0
+35,"7:45 AM","Chick Surprise Ball",2,30,0,0,0
+35,"7:45 AM","Coeurs Dark Choc Heart Bar",1,13,0,1,13
+35,"7:45 AM","Turkey Sandwich",5,63.7,0,0,0
+35,"7:45 AM","Ham & Brie",7,91,0,0,0
+35,"7:45 AM","EDISTO - HOT HONEY",1,18,0,0,0
+35,"7:45 AM","Whipped Honey",1,18,0,0,0
+35,"7:45 AM","Orange Juice",1,8,0,0,0
+35,"7:45 AM","Sm Saratoga Water",3,12,0,0,0
+35,"7:45 AM","Rotating Sandwich",1,13,0,0,0
+35,"7:45 AM","Roast Chicken Sandwich",8,102.7,0,0,0
+35,"7:45 AM","Ranger Station Candle",1,40,0,0,0
+35,"7:45 AM","Chicken Curry",1,25,0,0,0
+35,"7:45 AM","Long Matchbox",1,21,0,0,0
+35,"7:45 AM","Cookie Box Valentine",2,80,0,0,0
+35,"7:45 AM","Roast Beef Sandwich",1,13,0,0,0
+35,"7:45 AM","Cinnamon Rolls",3,75,0,0,0
+35,"7:45 AM","Hot Girl Pickles Bread and Butter Chips",2,28,0,0,0
+35,"7:45 AM","Date Better - ROYAL CINNAMON BAKLAVA",2,16,0,0,0
+35,"7:45 AM","SHARE Everything Crackers",3,36,0,0,0
+35,"7:45 AM","Wishie Fishies",1,14,0,0,0
+35,"7:45 AM","Date Better - PEANUT BUTTER CRUNCH",4,32,0,0,0
+35,"7:45 AM","Bon bon Sour BLACKBERRY Fish Candy",3,24,0,0,0
+35,"7:45 AM","Disciples el Coco",1,120,0,0,0
+35,"7:45 AM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+35,"7:45 AM","Lange Sea Salt Pure Flake",1,25,0,0,0
+35,"7:45 AM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+35,"7:45 AM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+35,"7:45 AM","Mini Strawberry sockerbit",1,5,0,0,0
+35,"7:45 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",2,16,0,0,0
+35,"7:45 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",2,16,0,0,0
+35,"7:45 AM","Card Amy Zhang",4,20,0,0,0
+36,"8:00 AM","Advantage Program",0,199.73,0,0,0
+36,"8:00 AM","Comptoir Du Cacao",1,12,0,0,0
+36,"8:00 AM","Open Food",8,158,0,0,0
+36,"8:00 AM","Open Beverage",1,6.5,0,0,0
+36,"8:00 AM","Focaccia - Petit",13,195,0,0,0
+36,"8:00 AM","Pimento Cheese",1,14,0,0,0
+36,"8:00 AM","Whipped ricotta",4,48,0,0,0
+36,"8:00 AM","Breakfast Sandwich",9,90,0,0,0
+36,"8:00 AM","Benton's Bacon",2,60,0,0,0
+36,"8:00 AM","Baked Ziti W/ Meatballs",2,72,0,0,0
+36,"8:00 AM","Chocolate Chip Cookie",36,142,0,0,0
+36,"8:00 AM","Dog Treats",3,14.5,0,0,0
+36,"8:00 AM","Muffin",41,201.25,0,0,0
+36,"8:00 AM","Beef Stroganoff",3,114,0,0,0
+36,"8:00 AM","Chicken w Ratatouille",1,36,0,0,0
+36,"8:00 AM","White Loaf",1,14,0,0,0
+36,"8:00 AM","Corn Chowder",3,66,0,0,0
+36,"8:00 AM","Senate Bean Soup",1,22,0,0,0
+36,"8:00 AM","Resin Napkin Rings",8,56,0,0,0
+36,"8:00 AM","Shepherd's Pie",1,38,0,0,0
+36,"8:00 AM","Dozen Eggs",3,36,0,0,0
+36,"8:00 AM","Forx Farm Butter",1,22,0,0,0
+36,"8:00 AM","Sausage - Sweet Italian",1,18,0,0,0
+36,"8:00 AM","Taper Candles Color Block",1,17,0,0,0
+36,"8:00 AM","Chucktown Acres - Bacon",2,60,0,0,0
+36,"8:00 AM","Colu Cooks Easy Fancy Food Colu Henry",1,35,0,0,0
+36,"8:00 AM","Golden Milk Lattee",3,21,0,0,0
+36,"8:00 AM","Cappuccino",18,98.45,0,0,0
+36,"8:00 AM","Matcha Latte",23,180.4,0,0,0
+36,"8:00 AM","Chai Latte",9,54,0,0,0
+36,"8:00 AM","Cortado",12,54,0,0,0
+36,"8:00 AM","Espresso",3,9,0,1,3
+36,"8:00 AM","Latte",121,715.5,0,0,0
+36,"8:00 AM","Tea",2,8,0,0,0
+36,"8:00 AM","Add Syrup",73,71.7,0,1,1
+36,"8:00 AM","Americano",22,88,0,0,0
+36,"8:00 AM","Lemonade",1,5,0,0,0
+36,"8:00 AM","Peach Syrup",4,8,0,0,0
+36,"8:00 AM","Le Fluffernut",1,8,0,0,0
+36,"8:00 AM","Cold Brew",8,50.7,0,0,0
+36,"8:00 AM","Open Retail",7,71,0,0,0
+36,"8:00 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+36,"8:00 AM","Cookie Asst.",16,63.6,0,0,0
+36,"8:00 AM","Thai Beef Curry",3,114,0,0,0
+36,"8:00 AM","Rotating Salad",3,54,0,0,0
+36,"8:00 AM","Pound Cake",3,15,0,0,0
+36,"8:00 AM","Chicken and Broccoli",1,36,0,0,0
+36,"8:00 AM","Frankie's Classic New York Deli Pickles",1,13,0,0,0
+36,"8:00 AM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+36,"8:00 AM","Maldon Salt Regular",1,12,0,0,0
+36,"8:00 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",1,11,0,0,0
+36,"8:00 AM","One Trick Pony Crunchy Peanut Butter",3,33,0,0,0
+36,"8:00 AM","Turkey and the Wolf Flavor Trippin' in New Orleans",1,30,0,0,0
+36,"8:00 AM","Haute Terres Autres Rouge",1,30,0,0,0
+36,"8:00 AM","Cru monplaisir",2,76,0,0,0
+36,"8:00 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+36,"8:00 AM","VANDY - Herbs de Provence",3,48,0,0,0
+36,"8:00 AM","Pop tart",1,5,0,0,0
+36,"8:00 AM","Chocolate Mousse Trifles",1,6,0,0,0
+36,"8:00 AM","rotating - tandem",1,20,0,0,0
+36,"8:00 AM","Meatloaf with Brussels",3,108,0,0,0
+36,"8:00 AM","Frosty",1,8,0,0,0
+36,"8:00 AM","Gingerbread Man",1,8,0,0,0
+36,"8:00 AM","Maeve Bon Bon Box",3,72,0,0,0
+36,"8:00 AM","Turkey Sandwich",6,78,0,0,0
+36,"8:00 AM","Ham & Brie",7,91,0,0,0
+36,"8:00 AM","Whipped Honey",1,18,0,0,0
+36,"8:00 AM","Lg Flat Water - Saratoga",1,4,0,0,0
+36,"8:00 AM","Orange Juice",1,8,0,0,0
+36,"8:00 AM","Sm Saratoga Water",2,8,0,0,0
+36,"8:00 AM","Roast Chicken Sandwich",11,143,0,0,0
+36,"8:00 AM","VANDY - Original",1,16,0,0,0
+36,"8:00 AM","Sweet potato chorizo",2,28,0,0,0
+36,"8:00 AM","Chicken Curry",1,25,0,0,0
+36,"8:00 AM","Hot Chocolate",3,15,0,0,0
+36,"8:00 AM","Buffalo Chicken Dip",1,15,0,0,0
+36,"8:00 AM","Square matchbox",1,15,0,0,0
+36,"8:00 AM","Archivist card",1,5,0,0,0
+36,"8:00 AM","Bang Matches",1,21,0,0,0
+36,"8:00 AM","Cookie Box Valentine",1,40,0,0,0
+36,"8:00 AM","Cinnamon Rolls",4,100,0,0,0
+36,"8:00 AM","Oyster Cocktail Napkins",1,34,0,0,0
+36,"8:00 AM","Roasted Chicken for two",1,28,0,0,0
+36,"8:00 AM","Mini Sockerbit Flowers and bunnies",1,14,0,0,0
+36,"8:00 AM","SHARE Everything Crackers",1,12,0,0,0
+36,"8:00 AM","Bon bon Sour BLACKBERRY Fish Candy",6,48,0,0,0
+36,"8:00 AM","Pra Morandina Valpolicella",1,33,0,0,0
+36,"8:00 AM","Asparagus Chowder",1,14,0,0,0
+36,"8:00 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",2,16,0,0,0
+36,"8:00 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+36,"8:00 AM","MASA Tortilla Chips Traditional",1,16,0,0,0
+36,"8:00 AM","Gummy Easter Sockerbit",2,32,0,0,0
+36,"8:00 AM","Card Amy Zhang",5,25,0,0,0
+37,"8:15 AM","Advantage Program",0,217.56,0,0,0
+37,"8:15 AM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+37,"8:15 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+37,"8:15 AM","Open Food",11,183,0,0,0
+37,"8:15 AM","Open Wine",1,80,0,0,0
+37,"8:15 AM","Focaccia - Petit",10,150,0,0,0
+37,"8:15 AM","Whipped ricotta",4,48,0,0,0
+37,"8:15 AM","Breakfast Sandwich",25,250,0,0,0
+37,"8:15 AM","Benton's Bacon",3,90,0,0,0
+37,"8:15 AM","Benton's Ham",1,18,0,0,0
+37,"8:15 AM","Taper Candles Merida",1,12,0,0,0
+37,"8:15 AM","Baked Ziti W/ Meatballs",6,220,0,0,0
+37,"8:15 AM","Chocolate Chip Cookie",29,116,0,1,4
+37,"8:15 AM","Dog Treats",4,20,0,0,0
+37,"8:15 AM","Muffin",33,164,0,0,0
+37,"8:15 AM","dialed in",1,6,0,0,0
+37,"8:15 AM","Gut Check",1,7,0,0,0
+37,"8:15 AM","Chicken w Ratatouille",4,144,0,0,0
+37,"8:15 AM","Corn Chowder",1,22,0,0,0
+37,"8:15 AM","Olive Tapenade",1,10,0,0,0
+37,"8:15 AM","Lemon Scones",2,10.8,0,0,0
+37,"8:15 AM","Tomato Soup",1,22,0,0,0
+37,"8:15 AM","Chucktown Acres - NY Strip Steak",2,76,0,0,0
+37,"8:15 AM","Sausage - Mild Pork",1,24,0,0,0
+37,"8:15 AM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+37,"8:15 AM","Shepherd's Pie",2,76,0,0,0
+37,"8:15 AM","Dozen Eggs",1,12,0,0,0
+37,"8:15 AM","The Dinner Party",1,42,0,0,0
+37,"8:15 AM","Oyster Ornaments",1,16,0,0,0
+37,"8:15 AM","Golden Milk Lattee",1,7,0,0,0
+37,"8:15 AM","Cappuccino",16,88,0,0,0
+37,"8:15 AM","Matcha Latte",16,123.6,0,0,0
+37,"8:15 AM","Chai Latte",9,53.4,0,1,6
+37,"8:15 AM","Cortado",7,30.6,0,0,0
+37,"8:15 AM","Espresso",6,17.4,0,0,0
+37,"8:15 AM","Latte",127,743.4,0,1,6
+37,"8:15 AM","Tea",4,16,0,0,0
+37,"8:15 AM","Add Syrup",86,83.6,0,2,2
+37,"8:15 AM","Americano",15,59.6,0,0,0
+37,"8:15 AM","Peach Syrup",1,2,0,0,0
+37,"8:15 AM","Le Fluffernut",5,40,0,0,0
+37,"8:15 AM","Cold Brew",8,52,0,0,0
+37,"8:15 AM","Open Retail",3,122,0,0,0
+37,"8:15 AM","Pm Bumper Sticker",1,5,0,0,0
+37,"8:15 AM","OG Legally Addictive",1,11,0,0,0
+37,"8:15 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+37,"8:15 AM","Brownie",2,12,0,0,0
+37,"8:15 AM","Cookie Asst.",10,40,0,0,0
+37,"8:15 AM","Pound Cake",2,10,0,0,0
+37,"8:15 AM","EDISTO - HONEY",1,18,0,0,0
+37,"8:15 AM","Maldon Salt Regular",1,12,0,0,0
+37,"8:15 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+37,"8:15 AM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+37,"8:15 AM","Mini Card - Lady Fingers",1,3,0,0,0
+37,"8:15 AM","Le Bon Garcon - P.O.G. Caramels",1,28,0,0,0
+37,"8:15 AM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+37,"8:15 AM","GIDDY UP NUTS - Original",1,19,0,0,0
+37,"8:15 AM","Pop tart",1,4.5,0,0,0
+37,"8:15 AM","SALT & TWINE - Prosciutto",2,18,0,0,0
+37,"8:15 AM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+37,"8:15 AM","Butternut Squash Soup LARGE",1,22,0,0,0
+37,"8:15 AM","Safety Matches",1,21,0,0,0
+37,"8:15 AM","Frosty",2,16,0,0,0
+37,"8:15 AM","Gingerbread Man",2,16,0,0,0
+37,"8:15 AM","maeve - pumpkin spice",1,7,0,0,0
+37,"8:15 AM","Heart Box Chocolates Maeve",2,24,0,0,0
+37,"8:15 AM","Night Chocolates Maeve",1,14,0,0,0
+37,"8:15 AM","Coeurs Pink Heart Chocolate Bar",1,13,0,0,0
+37,"8:15 AM","Coeurs Dark Choc Heart Bar",1,13,0,0,0
+37,"8:15 AM","Turkey Sandwich",9,117,0,0,0
+37,"8:15 AM","Ham & Brie",8,104,0,0,0
+37,"8:15 AM","EDISTO - HOT HONEY",2,36,0,0,0
+37,"8:15 AM","Orange Juice",2,16,0,0,0
+37,"8:15 AM","Sm Saratoga Water",4,16,0,0,0
+37,"8:15 AM","Rotating Sandwich",1,13,0,0,0
+37,"8:15 AM","Roast Chicken Sandwich",6,76.7,0,0,0
+37,"8:15 AM","Vandy Smokehouse BBQ",1,16,0,0,0
+37,"8:15 AM","Ranger Station Candle",1,40,0,0,0
+37,"8:15 AM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+37,"8:15 AM","Hot Chocolate",1,5,0,0,0
+37,"8:15 AM","Chicken Chili Small",1,14,0,0,0
+37,"8:15 AM","Cookie Cake",3,45,0,0,0
+37,"8:15 AM","Heart cocktail napkins",1,58,0,0,0
+37,"8:15 AM","Birthday Truffle Bar Maeve",3,21,0,0,0
+37,"8:15 AM","Dirt Pile Truffle Bar",1,7.5,0,0,0
+37,"8:15 AM","Cinnamon Rolls",6,150,0,0,0
+37,"8:15 AM","French Toast Casserole",1,24,0,0,0
+37,"8:15 AM","Roasted Chicken for two",1,25,0,0,0
+37,"8:15 AM","Mini Sockerbit Flowers and bunnies",1,14,0,0,0
+37,"8:15 AM","Biscuits",3,48,0,0,0
+37,"8:15 AM","SHARE Everything Crackers",1,12,0,0,0
+37,"8:15 AM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+37,"8:15 AM","Ve Ve Vinho Verde",1,22,0,0,0
+37,"8:15 AM","Date Better - HAZELNUT PRALINE",3,24,0,0,0
+37,"8:15 AM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+37,"8:15 AM","Ayoh Hot Giardinayo Sando Sauce",2,24,0,0,0
+37,"8:15 AM","Hot Girl Pickles Honey Harissa",2,28,0,0,0
+37,"8:15 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+37,"8:15 AM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+37,"8:15 AM","Hot Girl Pickles Original Dill",1,14,0,0,0
+37,"8:15 AM","Mini Strawberry sockerbit",6,22.5,0,0,0
+37,"8:15 AM","TLO Matcha Lemonade",1,7,0,0,0
+37,"8:15 AM","Chicken",1,34,0,0,0
+37,"8:15 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",5,40,0,0,0
+37,"8:15 AM","MASA Tortilla Chips Traditional",2,32,0,0,0
+37,"8:15 AM","Lorenza Rosé",1,30,0,0,0
+37,"8:15 AM","TLO Pandan Coconut",1,7,0,0,0
+37,"8:15 AM","Gummy Easter Sockerbit",1,14,0,0,0
+37,"8:15 AM","Card Amy Zhang",13,65,0,0,0
+38,"8:30 AM","Advantage Program",0,214.46,0,0,0
+38,"8:30 AM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+38,"8:30 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+38,"8:30 AM","Open Food",5,105,0,0,0
+38,"8:30 AM","Open Wine",1,28,0,0,0
+38,"8:30 AM","Focaccia - Petit",12,180,0,0,0
+38,"8:30 AM","Whipped ricotta",3,36,0,0,0
+38,"8:30 AM","Breakfast Sandwich",21,209,0,0,0
+38,"8:30 AM","Benton's Bacon",2,60,0,0,0
+38,"8:30 AM","Baked Ziti W/ Meatballs",1,36,0,0,0
+38,"8:30 AM","Chocolate Chip Cookie",39,155.2,0,0,0
+38,"8:30 AM","Dog Treats",4,20,0,0,0
+38,"8:30 AM","Muffin",44,219.5,0,0,0
+38,"8:30 AM","Beef Stroganoff",1,38,0,0,0
+38,"8:30 AM","Creamy Pony Peanut Butter",1,8,0,0,0
+38,"8:30 AM","Chilled Green Corn Soup",1,22,0,0,0
+38,"8:30 AM","Chicken Soup",1,22,0,0,0
+38,"8:30 AM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+38,"8:30 AM","Lemon Scones",2,11.4,0,0,0
+38,"8:30 AM","Tomato Soup",2,44,0,0,0
+38,"8:30 AM","Masison Marc Cornichons",1,18,0,0,0
+38,"8:30 AM","Salchichon Iberico",1,18,0,0,0
+38,"8:30 AM","Chocolate Sardines",1,32,0,0,0
+38,"8:30 AM","Shepherd's Pie",1,38,0,0,0
+38,"8:30 AM","Dozen Eggs",1,10.8,0,0,0
+38,"8:30 AM","Potter's Flat Breads",2,30,0,0,0
+38,"8:30 AM","Ina Gardner Ornament",1,24,0,0,0
+38,"8:30 AM","Cappuccino",29,158.95,0,0,0
+38,"8:30 AM","Matcha Latte",24,173.2,0,0,0
+38,"8:30 AM","Chai Latte",12,70.2,0,0,0
+38,"8:30 AM","Cortado",11,49.5,0,0,0
+38,"8:30 AM","Espresso",5,15,0,0,0
+38,"8:30 AM","Latte",98,559.2,0,2,9
+38,"8:30 AM","Tea",1,4,0,0,0
+38,"8:30 AM","Add Syrup",85,82.4,0,1,1
+38,"8:30 AM","Americano",18,72,0,0,0
+38,"8:30 AM","Lemonade",1,5,0,0,0
+38,"8:30 AM","Peach Syrup",5,9.6,0,0,0
+38,"8:30 AM","Le Fluffernut",2,16,0,0,0
+38,"8:30 AM","Cold Brew",12,78,0,0,0
+38,"8:30 AM","Open Retail",7,179,0,0,0
+38,"8:30 AM","Pm tumbler",2,80,0,0,0
+38,"8:30 AM","Brownie",1,6,0,0,0
+38,"8:30 AM","Cookie Asst.",15,60,0,0,0
+38,"8:30 AM","Rotating Salad",4,72,0,0,0
+38,"8:30 AM","Pound Cake",2,10,0,0,0
+38,"8:30 AM","Chicken Picata",2,64,0,0,0
+38,"8:30 AM","Chicken and Broccoli",2,72,0,0,0
+38,"8:30 AM","Maldon Salt Regular",1,12,0,0,0
+38,"8:30 AM","Pecans Roasted and Salted Zorro",4,76,0,0,0
+38,"8:30 AM","MASA - Tortilla Chips CHURRO",1,16,0,0,0
+38,"8:30 AM","Thierry Germain Domaine Des Roches Neuves Saumur C",1,40,0,0,0
+38,"8:30 AM","GIDDY UP NUTS - Original",1,19,0,0,0
+38,"8:30 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",2,24,0,0,0
+38,"8:30 AM","Bjorn Qorn CLASSIC",1,8,0,0,0
+38,"8:30 AM","Butternut Squash Soup SMALL",2,24,0,0,0
+38,"8:30 AM","rotating - tandem",1,20,0,0,0
+38,"8:30 AM","Safety Matches",1,12.6,0,0,0
+38,"8:30 AM","Table Cards Hester & Cook",1,16,0,0,0
+38,"8:30 AM","Merci - Isatopia Card",1,7,0,0,0
+38,"8:30 AM","Happy Birthday BIRD - Isatopia Card",1,7,0,0,0
+38,"8:30 AM","Frosty",3,24,0,0,0
+38,"8:30 AM","Gingerbread Man",3,24,0,0,0
+38,"8:30 AM","Maeve Bon Bon Box",3,72,0,0,0
+38,"8:30 AM","Peanut Butter Banana Bar Maeve",2,15,0,0,0
+38,"8:30 AM","Cherry Surprise Ball",6,78,0,0,0
+38,"8:30 AM","Heart Surprise Tops",3,90,0,0,0
+38,"8:30 AM","Turkey Sandwich",9,117,0,0,0
+38,"8:30 AM","Ham & Brie",10,130,0,0,0
+38,"8:30 AM","Whipped Honey",1,18,0,0,0
+38,"8:30 AM","Orange Juice",1,8,0,0,0
+38,"8:30 AM","Flat Apple Juice",1,8,0,0,0
+38,"8:30 AM","Sm Saratoga Water",1,3.6,0,0,0
+38,"8:30 AM","Aqua Panna",1,6,0,0,0
+38,"8:30 AM","Rotating Sandwich",2,26,0,0,0
+38,"8:30 AM","Roast Chicken Sandwich",10,130,0,0,0
+38,"8:30 AM","Sweet potato chorizo",3,42,0,0,0
+38,"8:30 AM","Soellner Gruner Toni Veltliner",1,24,0,0,0
+38,"8:30 AM","Badenhorst Secateurs Chenin Blanc",1,28,0,0,0
+38,"8:30 AM","Charcoal Brioche",1,15,0,0,0
+38,"8:30 AM","Le Bon Garcon - Classic Sea Salt Caramels",1,28,0,0,0
+38,"8:30 AM","Archivist card",1,7,0,0,0
+38,"8:30 AM","Bang Matches",1,21,0,0,0
+38,"8:30 AM","Cookie Cake",2,30,0,0,0
+38,"8:30 AM","Roast Beef Sandwich",1,13,0,0,0
+38,"8:30 AM","Birthday Truffle Bar Maeve",2,13.3,0,0,0
+38,"8:30 AM","Tumeric and Super Seed Granola",1,18,0,0,0
+38,"8:30 AM","Merci La Vie Cabernet Franc",1,38,0,0,0
+38,"8:30 AM","PM Sweatshirt",1,71,0,0,0
+38,"8:30 AM","Maeve Spring Mix",1,26,0,0,0
+38,"8:30 AM","Biscuits",1,16,0,0,0
+38,"8:30 AM","SHARE Everything Crackers",1,12,0,0,0
+38,"8:30 AM","Wishie Fishies",1,14,0,0,0
+38,"8:30 AM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+38,"8:30 AM","Bon bon Sour BLACKBERRY Fish Candy",3,23.2,0,0,0
+38,"8:30 AM","Dilenquente-Weeping Juan",1,30,0,0,0
+38,"8:30 AM","Cedre Heritage Malbec Cahors",1,30,0,0,0
+38,"8:30 AM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+38,"8:30 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+38,"8:30 AM","MASA Tortilla Chips COBANERO",5,80,0,0,0
+38,"8:30 AM","Date Better - SNICKERDOODLE",1,8,0,0,0
+38,"8:30 AM","Mini Strawberry sockerbit",3,13.5,0,0,0
+38,"8:30 AM","Focaccia",1,18,0,0,0
+38,"8:30 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",1,8,0,0,0
+38,"8:30 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",2,16,0,0,0
+38,"8:30 AM","Gummy Easter Sockerbit",2,28,0,0,0
+38,"8:30 AM","Card Amy Zhang",3,15,0,0,0
+38,"8:30 AM","Kombucha Yuzu",1,6.5,0,0,0
+39,"8:45 AM","Advantage Program",0,223.03,0,0,0
+39,"8:45 AM","Date Better - ALMOND JAVA CRUNCH",1,8,0,0,0
+39,"8:45 AM","Open Food",15,161,0,0,0
+39,"8:45 AM","Open Beverage",3,48,0,0,0
+39,"8:45 AM","Open Wine",2,58,0,0,0
+39,"8:45 AM","Focaccia - Petit",9,135,0,0,0
+39,"8:45 AM","Whipped ricotta",3,36,0,0,0
+39,"8:45 AM","Breakfast Sandwich",23,229,0,0,0
+39,"8:45 AM","Benton's Bacon",0,0,0,1,30
+39,"8:45 AM","Baked Ziti W/ Meatballs",2,72,0,0,0
+39,"8:45 AM","Chocolate Chip Cookie",24,93.6,0,0,0
+39,"8:45 AM","Dog Treats",3,15,0,0,0
+39,"8:45 AM","Muffin",60,299,0,0,0
+39,"8:45 AM","dialed in",1,6,0,0,0
+39,"8:45 AM","Matcha -Berry",2,16,0,0,0
+39,"8:45 AM","Cider",1,8,0,0,0
+39,"8:45 AM","Crunchy Pony Peanut Butter",2,16,0,0,0
+39,"8:45 AM","Creamy Pony Peanut Butter",1,8,0,0,0
+39,"8:45 AM","MY DRAP - SMALL NAPKIN ROLL DARK GREY",1,20,0,0,0
+39,"8:45 AM","SHARE Zaatar Crackers",2,24,0,0,0
+39,"8:45 AM","Lemon Scones",2,12,0,0,0
+39,"8:45 AM","Moonstruck Love Spell Bar Milk Chocolate",1,8,0,0,0
+39,"8:45 AM","Shepherd's Pie",2,76,0,0,0
+39,"8:45 AM","Forx Farm Butter",1,22,0,0,0
+39,"8:45 AM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+39,"8:45 AM","Golden Milk Lattee",1,7,0,0,0
+39,"8:45 AM","Cappuccino",20,109.45,0,1,5.5
+39,"8:45 AM","Matcha Latte",12,90,0,0,0
+39,"8:45 AM","Chai Latte",12,71.4,0,0,0
+39,"8:45 AM","Cortado",12,54,0,0,0
+39,"8:45 AM","Espresso",4,12,0,0,0
+39,"8:45 AM","Latte",170,1001.4,0,0,0
+39,"8:45 AM","Add Syrup",120,119.2,0,0,0
+39,"8:45 AM","Americano",25,100,0,0,0
+39,"8:45 AM","Peach Syrup",1,2,0,0,0
+39,"8:45 AM","Le Fluffernut",4,31.2,0,0,0
+39,"8:45 AM","Cold Brew",11,71.5,0,0,0
+39,"8:45 AM","Open Retail",5,82,0,0,0
+39,"8:45 AM","Pm tumbler",1,40,0,0,0
+39,"8:45 AM","Pumpkin Spice Maple Syrup",1,16,0,0,0
+39,"8:45 AM","Surprise Party Legally Addictive",1,9,0,0,0
+39,"8:45 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+39,"8:45 AM","Brownie",1,6,0,0,0
+39,"8:45 AM","Cookie Asst.",17,63.2,0,0,0
+39,"8:45 AM","Honey Wheat Loaf",1,14,0,0,0
+39,"8:45 AM","Rotating Salad",4,72,0,0,0
+39,"8:45 AM","Pound Cake",1,5,0,0,0
+39,"8:45 AM","Chicken Picata",1,32,0,0,0
+39,"8:45 AM","Chicken and Broccoli",4,144,0,0,0
+39,"8:45 AM","EDISTO - HONEY",1,18,0,0,0
+39,"8:45 AM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+39,"8:45 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+39,"8:45 AM","Tiki Cocktails 180+ Dreamy Drinks and Luau-inspire",1,24.95,0,0,0
+39,"8:45 AM","Delinquente Screaming Betty Vermentino",1,32,0,0,0
+39,"8:45 AM","Got Grapes -",1,30,0,0,0
+39,"8:45 AM","Sorgente Prosecco",0,0,0,1,30
+39,"8:45 AM","Boal de Arousa Albariño",1,28,0,0,0
+39,"8:45 AM","Cru monplaisir",1,38,0,0,0
+39,"8:45 AM","Luna Duna Naranjo",1,28,0,0,0
+39,"8:45 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+39,"8:45 AM","SALT & TWINE - Salted Fennel",2,18,0,0,0
+39,"8:45 AM","Birthday Cake Card",2,8,0,0,0
+39,"8:45 AM","Ramona Sparkling Rose",1,26,0,0,0
+39,"8:45 AM","Butternut Squash Soup SMALL",2,24,0,0,0
+39,"8:45 AM","rotating - tandem",2,40,0,0,0
+39,"8:45 AM","Pizza Camp",2,65,0,0,0
+39,"8:45 AM","maine beer - woods and waters",2,24,0,0,0
+39,"8:45 AM","Placecards Hester & Cook",2,24,0,0,0
+39,"8:45 AM","Table Cards Hester & Cook",1,16,0,0,0
+39,"8:45 AM","Happy Birthday BIRD - Isatopia Card",1,7,0,0,0
+39,"8:45 AM","Merry Christmas Card",1,5,0,0,0
+39,"8:45 AM","Gingerbread Man",4,31.2,0,0,0
+39,"8:45 AM","Peanut Butter Banana Bar Maeve",1,7.5,0,0,0
+39,"8:45 AM","Turkey Sandwich",12,156,0,0,0
+39,"8:45 AM","Ham & Brie",9,117,0,0,0
+39,"8:45 AM","EDISTO - HOT HONEY",2,36,0,0,0
+39,"8:45 AM","Whipped Honey",1,18,0,0,0
+39,"8:45 AM","Cheerwine Soda",1,3,0,0,0
+39,"8:45 AM","Orange Juice",6,48,0,0,0
+39,"8:45 AM","Flat Apple Juice",2,16,0,0,0
+39,"8:45 AM","Sm Sparkling - Saratoga",2,8,0,0,0
+39,"8:45 AM","Rotating Sandwich",1,13,0,0,0
+39,"8:45 AM","Roast Chicken Sandwich",4,44.2,0,0,0
+39,"8:45 AM","VANDY - Original",2,32,0,0,0
+39,"8:45 AM","Vandy Smokehouse BBQ",1,16,0,0,0
+39,"8:45 AM","Soellner Gruner Toni Veltliner",1,24,0,0,0
+39,"8:45 AM","The Cook's Atelier",1,55,0,0,0
+39,"8:45 AM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+39,"8:45 AM","Cookie Box Valentine",0,0,0,1,40
+39,"8:45 AM","Cookie Cake",1,15,0,0,0
+39,"8:45 AM","Famille Gras Les Vieilles Vignes",1,30,0,0,0
+39,"8:45 AM","Francis Blanchet Pouilly Fume",1,32,0,0,0
+39,"8:45 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+39,"8:45 AM","Cinnamon Rolls",1,25,0,0,0
+39,"8:45 AM","French Toast Casserole",1,24,0,0,0
+39,"8:45 AM","Tea Tin Marie Antoinette",1,32,0,0,0
+39,"8:45 AM","Roasted Chicken for two",1,28,0,0,0
+39,"8:45 AM","Date Better - ROYAL CINNAMON BAKLAVA",1,8,0,0,0
+39,"8:45 AM","Biscuits",2,32,0,0,0
+39,"8:45 AM","SHARE Everything Crackers",2,24,0,0,0
+39,"8:45 AM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+39,"8:45 AM","Bon bon Sour BLACKBERRY Fish Candy",1,8,0,0,0
+39,"8:45 AM","Ve Ve Vinho Verde",1,22,0,0,0
+39,"8:45 AM","Pra Morandina Valpolicella",1,33,0,0,0
+39,"8:45 AM","Passerine Brut Blanca",1,30,0,0,0
+39,"8:45 AM","Ayoh Hot Giardinayo Sando Sauce",2,24,0,0,0
+39,"8:45 AM","Bon Bon Sour PEACH Swedish Fish",2,16,0,0,0
+39,"8:45 AM","MASA Tortilla Chips COBANERO",2,32,0,0,0
+39,"8:45 AM","Mini Strawberry sockerbit",1,3.5,0,0,0
+39,"8:45 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",2,16,0,0,0
+39,"8:45 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",2,16,0,0,0
+39,"8:45 AM","Card Amy Zhang",2,10,0,0,0
+39,"8:45 AM","Kombucha Ginger Hibiscus",1,6.5,0,0,0
+39,"8:45 AM","Kombucha Yuzu",1,3.25,0,0,0
+40,"9:00 AM","Advantage Program",0,265.76,0,0,0
+40,"9:00 AM","POMMERY MUSTARD",1,25,0,0,0
+40,"9:00 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+40,"9:00 AM","Open Food",26,411.01,0,0,0
+40,"9:00 AM","Open Beverage",1,1,0,0,0
+40,"9:00 AM","Open Wine",1,66,0,0,0
+40,"9:00 AM","Focaccia - Petit",12,180,0,0,0
+40,"9:00 AM","Pimento Cheese",1,14,0,0,0
+40,"9:00 AM","Whipped ricotta",7,84,0,0,0
+40,"9:00 AM","Breakfast Sandwich",20,200,0,0,0
+40,"9:00 AM","Benton's Bacon",1,30,0,0,0
+40,"9:00 AM","MY DRAP LINEN Napkins, Natural, 50 Units",1,28,0,0,0
+40,"9:00 AM","Baked Ziti W/ Meatballs",5,182,0,0,0
+40,"9:00 AM","Chocolate Chip Cookie",41,164,0,0,0
+40,"9:00 AM","Dog Treats",4,20,0,0,0
+40,"9:00 AM","Muffin",40,196.5,0,0,0
+40,"9:00 AM","Beef Stroganoff",1,38,0,0,0
+40,"9:00 AM","dialed in",1,6,0,0,0
+40,"9:00 AM","Corn Chowder",1,22,0,0,0
+40,"9:00 AM","Jose Gourmet Red Peppers Jam",1,16,0,0,0
+40,"9:00 AM","The Moosewood Cookbook",1,32.5,0,0,0
+40,"9:00 AM","SHARE Zaatar Crackers",2,24,0,0,0
+40,"9:00 AM","Lemon Scones",2,12,0,0,0
+40,"9:00 AM","Masison Marc Cornichons",1,18,0,0,0
+40,"9:00 AM","Sausage - Mild Pork",1,24,0,0,0
+40,"9:00 AM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+40,"9:00 AM","Moonstruck Love Spell Bar Milk Chocolate",1,8,0,0,0
+40,"9:00 AM","Dozen Eggs",4,48,0,0,0
+40,"9:00 AM","Taper Candles Color Block",3,51,0,0,0
+40,"9:00 AM","Pizza Kit",1,18,0,0,0
+40,"9:00 AM","Golf Cocktail Napkins - House of Gleason",2,96,0,0,0
+40,"9:00 AM","Taper Candles - Greentree",7,112,0,0,0
+40,"9:00 AM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+40,"9:00 AM","Bah Humbug",3,66,0,0,0
+40,"9:00 AM","Train Matches",3,66,0,0,0
+40,"9:00 AM","House Matches",3,72,0,0,0
+40,"9:00 AM","Oyster Ornaments",1,16,0,0,0
+40,"9:00 AM","Golden Milk Lattee",1,7,0,0,0
+40,"9:00 AM","Cappuccino",20,110,0,0,0
+40,"9:00 AM","Matcha Latte",13,97.2,0,0,0
+40,"9:00 AM","Chai Latte",5,30,0,0,0
+40,"9:00 AM","Cortado",8,36,0,0,0
+40,"9:00 AM","Espresso",7,21,0,0,0
+40,"9:00 AM","Latte",155,920.4,0,1,6
+40,"9:00 AM","Tea",1,4,0,0,0
+40,"9:00 AM","Add Syrup",120,119.1,0,1,1
+40,"9:00 AM","Americano",26,104,0,0,0
+40,"9:00 AM","Lemonade",1,5,0,0,0
+40,"9:00 AM","Peach Syrup",6,12,0,0,0
+40,"9:00 AM","Le Fluffernut",10,80,0,0,0
+40,"9:00 AM","Cold Brew",18,115.7,0,0,0
+40,"9:00 AM","Open Retail",7,254,0,0,0
+40,"9:00 AM","Table for Two",1,25,0,0,0
+40,"9:00 AM","Pm tumbler",2,80,0,0,0
+40,"9:00 AM","Pm Bumper Sticker",1,5,0,0,0
+40,"9:00 AM","Surprise Party Legally Addictive",1,11,0,0,0
+40,"9:00 AM","Cookie Asst.",20,80,0,0,0
+40,"9:00 AM","Thai Beef Curry",1,38,0,0,0
+40,"9:00 AM","Rotating Salad",4,72,0,0,0
+40,"9:00 AM","Pound Cake",2,10,0,0,0
+40,"9:00 AM","Frankie's Classic New York Deli Pickles",1,13,0,0,0
+40,"9:00 AM","EDISTO - HONEY",2,36,0,0,0
+40,"9:00 AM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+40,"9:00 AM","Maldon Salt Regular",1,12,0,0,0
+40,"9:00 AM","Pecans Roasted and Salted Zorro",2,38,0,0,0
+40,"9:00 AM","Granola Strawberry and Salty Peanut Sweet Delivera",2,34,0,0,0
+40,"9:00 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+40,"9:00 AM","MASA - Tortilla Chips BLUE",2,32,0,0,0
+40,"9:00 AM","Blue Cotton Cocktail Napkins 50 ct, My Drap",1,26,0,0,0
+40,"9:00 AM","VANDY - Herbs de Provence",2,32,0,0,0
+40,"9:00 AM","Pop tart",3,15,0,0,0
+40,"9:00 AM","Small Matchboxes",1,13,0,0,0
+40,"9:00 AM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+40,"9:00 AM","sardines matches",1,13,0,0,0
+40,"9:00 AM","Frosty",12,96,0,0,0
+40,"9:00 AM","Gingerbread Man",2,16,0,0,0
+40,"9:00 AM","Framboise Chocolate Bar",1,13,0,0,0
+40,"9:00 AM","Turkey Sandwich",9,117,0,0,0
+40,"9:00 AM","Ham & Brie",13,169,0,0,0
+40,"9:00 AM","EDISTO - HOT HONEY",1,18,0,0,0
+40,"9:00 AM","Cheerwine Soda",2,6,0,0,0
+40,"9:00 AM","Strawberry Juice",1,8,0,0,0
+40,"9:00 AM","Orange Juice",1,8,0,0,0
+40,"9:00 AM","R/C Cola",1,3,0,0,0
+40,"9:00 AM","Sparkling Apple Juice",1,5,0,0,0
+40,"9:00 AM","Sm Saratoga Water",3,12,0,0,0
+40,"9:00 AM","Sm Sparkling - Saratoga",3,12,0,0,0
+40,"9:00 AM","Rotating Sandwich",1,13,0,0,0
+40,"9:00 AM","Sm Sparkling Saratoga",2,8,0,0,0
+40,"9:00 AM","Roast Chicken Sandwich",5,58.5,0,0,0
+40,"9:00 AM","VANDY - Original",3,48,0,0,0
+40,"9:00 AM","Vandy Smokehouse BBQ",1,16,0,0,0
+40,"9:00 AM","English muffin 4-pack",0,0,0,1,12
+40,"9:00 AM","Ranger Station Candle",1,40,0,0,0
+40,"9:00 AM","Chicken Curry",1,25,0,0,0
+40,"9:00 AM","Zorro Pecan Bark",1,18,0,0,0
+40,"9:00 AM","Bang Matches",4,84,0,0,0
+40,"9:00 AM","Extra Large Pommery Mustard",1,29,0,0,0
+40,"9:00 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+40,"9:00 AM","Cinnamon Rolls",2,50,0,0,0
+40,"9:00 AM","Blueberry and Sunflower Butter Granola",1,18,0,0,0
+40,"9:00 AM","Watering Can Cocktail Napkins",1,34,0,0,0
+40,"9:00 AM","Merci t-shirt",1,48,0,0,0
+40,"9:00 AM","Maeve Spring Mix",2,47.5,0,0,0
+40,"9:00 AM","Mini Sockerbit Flowers and bunnies",2,28,0,0,0
+40,"9:00 AM","SHARE Everything Crackers",1,12,0,0,0
+40,"9:00 AM","Ayoh Dill Pickle Mayo Sando Sauce",2,24,0,0,0
+40,"9:00 AM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+40,"9:00 AM","Pasta Salad",1,9,0,0,0
+40,"9:00 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+40,"9:00 AM","MASA Tortilla Chips COBANERO",1,16,0,1,16
+40,"9:00 AM","Date Better - SNICKERDOODLE",2,16,0,0,0
+40,"9:00 AM","Mini Strawberry sockerbit",1,3.5,0,0,0
+40,"9:00 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+40,"9:00 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+40,"9:00 AM","MASA Tortilla Chips Traditional",1,16,0,0,0
+40,"9:00 AM","Francois Villard L'Appel des Sereines",1,28,0,0,0
+40,"9:00 AM","Card Amy Zhang",6,30,0,0,0
+41,"9:15 AM","Advantage Program",0,391.55,0,0,0
+41,"9:15 AM","Date Better - ALMOND JAVA CRUNCH",1,8,0,0,0
+41,"9:15 AM","Open Food",9,151,0,0,0
+41,"9:15 AM","Open Beverage",2,24,0,0,0
+41,"9:15 AM","Open Wine",3,78,0,0,0
+41,"9:15 AM","Focaccia - Petit",12,180,0,0,0
+41,"9:15 AM","Whipped ricotta",2,24,0,0,0
+41,"9:15 AM","Breakfast Sandwich",20,200,0,0,0
+41,"9:15 AM","Benton's Bacon",2,60,0,0,0
+41,"9:15 AM","Baked Ziti W/ Meatballs",7,252,0,0,0
+41,"9:15 AM","Chocolate Chip Cookie",26,104,0,1,4
+41,"9:15 AM","Dog Treats",9,45,0,0,0
+41,"9:15 AM","Muffin",39,195,0,0,0
+41,"9:15 AM","Beef Stroganoff",1,38,0,0,0
+41,"9:15 AM","Beast",1,10,0,0,0
+41,"9:15 AM","dialed in",1,6,0,0,0
+41,"9:15 AM","Matcha -Berry",2,16,0,0,0
+41,"9:15 AM","Creamy Pony Peanut Butter",0,0,0,12,96
+41,"9:15 AM","Honeycomb - MIGUEL & VALENTINO",1,14,0,0,0
+41,"9:15 AM","Pop-Chips Truffle",1,8,0,0,0
+41,"9:15 AM","Chocolate Sardine",1,18,0,0,0
+41,"9:15 AM","Lemon Scones",5,30,0,0,0
+41,"9:15 AM","Masa Tortilla Chips White",1,16,0,0,0
+41,"9:15 AM","Chocolate Sardines",1,18,0,0,0
+41,"9:15 AM","Shepherd's Pie",1,38,0,0,0
+41,"9:15 AM","Cowboy Christmas - Ranger Station",2,80,0,0,0
+41,"9:15 AM","Holly Berry Surprise Ball",1,12,0,0,0
+41,"9:15 AM","Orange Surprise Ball",2,28,0,0,0
+41,"9:15 AM","Advent Calendar - Maeve",1,48,0,0,0
+41,"9:15 AM","Bloody Mary Crackers",2,24,0,0,0
+41,"9:15 AM","Golden Milk Lattee",1,7,0,0,0
+41,"9:15 AM","Cappuccino",34,187,0,0,0
+41,"9:15 AM","Matcha Latte",31,233.6,0,0,0
+41,"9:15 AM","Chai Latte",9,51,0,0,0
+41,"9:15 AM","Cortado",11,49.5,0,0,0
+41,"9:15 AM","Espresso",4,12,0,0,0
+41,"9:15 AM","Latte",127,747.6,0,2,12
+41,"9:15 AM","Tea",4,16,0,0,0
+41,"9:15 AM","Add Syrup",116,114.2,0,2,2
+41,"9:15 AM","Americano",20,79.2,0,0,0
+41,"9:15 AM","Peach Syrup",3,6,0,0,0
+41,"9:15 AM","Le Fluffernut",8,57.6,0,0,0
+41,"9:15 AM","Cold Brew",19,122.85,0,0,0
+41,"9:15 AM","Open buyout",1,4000,0,0,0
+41,"9:15 AM","Open Retail",2,18.01,0,0,0
+41,"9:15 AM","More Is More- Get Loose in the Kitchen- a Cookbook",1,35,0,0,0
+41,"9:15 AM","Surprise Party Legally Addictive",2,18,0,0,0
+41,"9:15 AM","OG Legally Addictive",4,38,0,0,0
+41,"9:15 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+41,"9:15 AM","Brownie",1,6,0,0,0
+41,"9:15 AM","Cookie Asst.",10,40,0,0,0
+41,"9:15 AM","Chicken and Broccoli",2,72,0,0,0
+41,"9:15 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+41,"9:15 AM","Ruby Apricot - Marmalade Grows",2,18,0,0,0
+41,"9:15 AM","Granola Strawberry and Salty Peanut Sweet Delivera",2,36,0,0,0
+41,"9:15 AM","Granola Pistachio Sour Cherry Sweet Deliverance",2,36,0,0,0
+41,"9:15 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+41,"9:15 AM","One Trick Pony Crunchy Peanut Butter",2,16.5,0,0,0
+41,"9:15 AM","Cup Guzzini Striped Glass",1,9.9,0,0,0
+41,"9:15 AM","Maine Beer Company Peeper 16oz bottle",1,12,0,0,0
+41,"9:15 AM","Pop tart",1,5,0,0,0
+41,"9:15 AM","Small Matchboxes",1,13,0,0,0
+41,"9:15 AM","Birthday Cake Card",1,4,0,0,0
+41,"9:15 AM","Sardine Cards",1,4,0,0,0
+41,"9:15 AM","Bjorn Qorn CLASSIC",1,8,0,0,0
+41,"9:15 AM","MALDON - Chili Salt",1,12,0,0,0
+41,"9:15 AM","rotating - tandem",1,20,0,0,0
+41,"9:15 AM","one trick pony - popcorn",1,8,0,1,8
+41,"9:15 AM","Table Cards Hester & Cook",1,16,0,0,0
+41,"9:15 AM","Sugar plum surprise ball",1,14,0,0,0
+41,"9:15 AM","Gingerbread Man",2,16,0,0,0
+41,"9:15 AM","maeve - pumpkin spice",1,4.2,0,0,0
+41,"9:15 AM","Maeve Bon Bon Box",1,24,0,0,0
+41,"9:15 AM","Heart Box Chocolates Maeve",4,48,0,0,0
+41,"9:15 AM","Carrot Surprise Tops",1,15,0,0,0
+41,"9:15 AM","Chick Surprise Ball",1,15,0,0,0
+41,"9:15 AM","Cherry Surprise Ball",1,13,0,0,0
+41,"9:15 AM","Turkey Sandwich",10,130,0,0,0
+41,"9:15 AM","Ham & Brie",13,169,0,1,13
+41,"9:15 AM","Cheerwine Soda",1,3,0,0,0
+41,"9:15 AM","Lg Flat Water - Saratoga",1,8,0,0,0
+41,"9:15 AM","Orange Juice",3,24,0,0,0
+41,"9:15 AM","Sm Saratoga Water",8,32,0,0,0
+41,"9:15 AM","Sm Sparkling Saratoga",1,4,0,0,0
+41,"9:15 AM","Peches Soda",1,3,0,0,0
+41,"9:15 AM","Root 42 Soda",1,3,0,0,0
+41,"9:15 AM","Roast Chicken Sandwich",5,65,0,0,0
+41,"9:15 AM","VANDY - Original",1,16,0,0,0
+41,"9:15 AM","Vandy Smokehouse BBQ",2,32,0,0,0
+41,"9:15 AM","Sweet potato chorizo",1,14,0,0,0
+41,"9:15 AM","Tomato Soup small",1,12,0,0,0
+41,"9:15 AM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+41,"9:15 AM","L'Alpage Chasselas",1,30,0,0,0
+41,"9:15 AM","Notelet Archivist card",1,5,0,0,0
+41,"9:15 AM","Bang Matches",2,31.5,0,0,0
+41,"9:15 AM","Cookie Box Valentine",1,40,0,0,0
+41,"9:15 AM","Cookie Cake",1,15,0,0,0
+41,"9:15 AM","Roast Beef Sandwich",1,13,0,0,0
+41,"9:15 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+41,"9:15 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,16,0,0,0
+41,"9:15 AM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+41,"9:15 AM","Oyster Cocktail Napkins",1,34,0,0,0
+41,"9:15 AM","Watering Can Cocktail Napkins",1,34,0,0,0
+41,"9:15 AM","Roasted Chicken for two",4,109,0,0,0
+41,"9:15 AM","Maeve Spring Mix",1,22.5,0,0,0
+41,"9:15 AM","Mini Sockerbit Flowers and bunnies",4,29,0,0,0
+41,"9:15 AM","Biscuits",2,32,0,0,0
+41,"9:15 AM","SHARE Everything Crackers",1,12,0,0,0
+41,"9:15 AM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+41,"9:15 AM","Ve Ve Vinho Verde",1,22,0,0,0
+41,"9:15 AM","Chick Surprise Tops",2,30,0,0,0
+41,"9:15 AM","Ayoh Dill Pickle Mayo Sando Sauce",2,24,0,0,0
+41,"9:15 AM","Ayoh Hot Giardinayo Sando Sauce",4,48,0,0,0
+41,"9:15 AM","Asparagus Chowder",1,14,0,0,0
+41,"9:15 AM","Bon Bon Sour PEACH Swedish Fish",3,24,0,0,0
+41,"9:15 AM","MASA Tortilla Chips COBANERO",3,48,0,0,0
+41,"9:15 AM","Beef Broth",1,20,0,0,0
+41,"9:15 AM","Date Better - SNICKERDOODLE",3,24,0,0,0
+41,"9:15 AM","Mini Strawberry sockerbit",1,3.5,0,0,0
+41,"9:15 AM","Kombucha Pear",1,6.5,0,0,0
+41,"9:15 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",1,8,0,0,0
+41,"9:15 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",2,16,0,0,0
+41,"9:15 AM","MASA Tortilla Chips Traditional",5,80,0,0,0
+41,"9:15 AM","Jean Vesselle Champagne",1,80,0,0,0
+41,"9:15 AM","Blueberry Maine Root Soda",1,3,0,0,0
+41,"9:15 AM","Card Amy Zhang",3,15,0,0,0
+41,"9:15 AM","Kombucha Ginger Hibiscus",1,5.85,0,0,0
+42,"9:30 AM","Advantage Program",0,301.72,0,0,0
+42,"9:30 AM","Date Better - ALMOND JAVA CRUNCH",1,7.2,0,0,0
+42,"9:30 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+42,"9:30 AM","Comptoir Du Cacao",1,12,0,0,0
+42,"9:30 AM","Open Food",29,408,0,0,0
+42,"9:30 AM","Open Beverage",2,15.2,0,0,0
+42,"9:30 AM","Focaccia - Petit",13,195,0,0,0
+42,"9:30 AM","Pimento Cheese",4,56,0,0,0
+42,"9:30 AM","Whipped ricotta",2,24,0,0,0
+42,"9:30 AM","Breakfast Sandwich",22,220,0,0,0
+42,"9:30 AM","Benton's Ham",1,18,0,0,0
+42,"9:30 AM","NAPKINS - FLOWERS",1,44,0,0,0
+42,"9:30 AM","Baked Ziti W/ Meatballs",4,144,0,0,0
+42,"9:30 AM","Chocolate Chip Cookie",41,164,0,0,0
+42,"9:30 AM","Dog Treats",6,30,0,0,0
+42,"9:30 AM","Muffin",31,155,0,0,0
+42,"9:30 AM","Beef Stroganoff",2,76,0,0,0
+42,"9:30 AM","Beast",2,20,0,0,0
+42,"9:30 AM","dialed in",2,12,0,0,0
+42,"9:30 AM","Honey Glow",1,7,0,0,0
+42,"9:30 AM","Gut Check",1,7,0,0,0
+42,"9:30 AM","Muffin Top",1,5,0,0,0
+42,"9:30 AM","Chicken w Ratatouille",1,36,0,0,0
+42,"9:30 AM","Corn Chowder",1,22,0,0,0
+42,"9:30 AM","Vegetable Minestrone",1,22,0,0,0
+42,"9:30 AM","Lemon Scones",3,18,0,0,0
+42,"9:30 AM","Pasta Bake",1,32,0,0,0
+42,"9:30 AM","Tomato Soup",2,44,0,0,0
+42,"9:30 AM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+42,"9:30 AM","Moonstruck Love Spell Bar Milk Chocolate",2,16,0,0,0
+42,"9:30 AM","Le Bon Garcon - Cider + Spice",2,46,0,0,0
+42,"9:30 AM","moutarde - cognac",1,24,0,0,0
+42,"9:30 AM","Shepherd's Pie",1,38,0,0,0
+42,"9:30 AM","Taper Candles Color Block",1,17,0,0,0
+42,"9:30 AM","Pommery Mustard w Cognac",1,24,0,0,0
+42,"9:30 AM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+42,"9:30 AM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+42,"9:30 AM","Gingerbread - Piece work",1,44,0,0,0
+42,"9:30 AM","Holly Berry Surprise Ball",2,24,0,0,0
+42,"9:30 AM","Orange Surprise Ball",1,14,0,0,0
+42,"9:30 AM","Cinnamon Hot cocoa Tin",1,15,0,0,0
+42,"9:30 AM","Lady Joseph Crackers",1,11,0,0,0
+42,"9:30 AM","Birthday w/ statue",1,6,0,0,0
+42,"9:30 AM","HBD Card",1,6,0,0,0
+42,"9:30 AM","Bloody Mary Crackers",1,16,0,0,0
+42,"9:30 AM","Food Orament",4,66.6,0,0,0
+42,"9:30 AM","Golden Milk Lattee",2,13.3,0,0,0
+42,"9:30 AM","Cappuccino",25,136.95,0,0,0
+42,"9:30 AM","Matcha Latte",34,265.2,0,0,0
+42,"9:30 AM","Chai Latte",9,52.2,0,0,0
+42,"9:30 AM","Cortado",9,39.6,0,0,0
+42,"9:30 AM","Espresso",5,14.7,0,0,0
+42,"9:30 AM","Latte",161,957.6,0,0,0
+42,"9:30 AM","Add Syrup",126,124.9,0,1,1
+42,"9:30 AM","Americano",24,95.2,0,0,0
+42,"9:30 AM","Peach Syrup",7,14,0,0,0
+42,"9:30 AM","Le Fluffernut",9,70.4,0,0,0
+42,"9:30 AM","Cold Brew",14,91,0,0,0
+42,"9:30 AM","Saint Nick's Piper - Ranger Station",1,40,0,1,40
+42,"9:30 AM","Open Retail",14,262.71,0,0,0
+42,"9:30 AM","Surprise Party Legally Addictive",2,17.1,0,0,0
+42,"9:30 AM","OG Legally Addictive",1,9,0,0,0
+42,"9:30 AM","Brownie",1,6,0,0,0
+42,"9:30 AM","Cookie Asst.",33,131.6,0,0,0
+42,"9:30 AM","Thai Beef Curry",1,38,0,0,0
+42,"9:30 AM","Rotating Salad",1,18,0,0,0
+42,"9:30 AM","Coffee Cake",1,5.4,0,0,0
+42,"9:30 AM","Chicken Picata",1,32,0,0,0
+42,"9:30 AM","Chicken and Broccoli",2,72,0,0,0
+42,"9:30 AM","Le Bon Garcon - P.O.G. Caramels",2,33.6,0,0,0
+42,"9:30 AM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+42,"9:30 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",7,77,0,0,0
+42,"9:30 AM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+42,"9:30 AM","MASA - Tortilla Chips BLUE",1,16,0,0,0
+42,"9:30 AM","Luna Duna Naranjo",1,28,0,0,0
+42,"9:30 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+42,"9:30 AM","VANDY - Herbs de Provence",2,32,0,0,0
+42,"9:30 AM","Pop tart",3,14,0,0,0
+42,"9:30 AM","Birthday Cake Card",2,7.6,0,0,0
+42,"9:30 AM","Chocolate Mousse Trifles",2,11.4,0,0,0
+42,"9:30 AM","Bjorn Qorn CLASSIC",2,16,0,0,0
+42,"9:30 AM","Butternut Squash Soup LARGE",2,44,0,0,0
+42,"9:30 AM","Butternut Squash Soup SMALL",2,24,0,0,0
+42,"9:30 AM","rotating - tandem",3,60,0,0,0
+42,"9:30 AM","Safety Matches",1,21,0,0,0
+42,"9:30 AM","Placecards Hester & Cook",1,12,0,0,0
+42,"9:30 AM","Merci - Isatopia Card",1,7,0,0,0
+42,"9:30 AM","Sugar plum surprise ball",1,14,0,0,0
+42,"9:30 AM","Hi Card",1,6,0,0,0
+42,"9:30 AM","Frosty",4,32,0,0,0
+42,"9:30 AM","Gingerbread Man",7,56,0,0,0
+42,"9:30 AM","maeve - pumpkin spice",1,7,0,0,0
+42,"9:30 AM","Santa's Camper - Maeve",1,16,0,0,0
+42,"9:30 AM","Heart Box Chocolates Maeve",1,12,0,0,0
+42,"9:30 AM","Coeurs Pink Heart Chocolate Bar",1,13,0,0,0
+42,"9:30 AM","Turkey Sandwich",13,167.7,0,0,0
+42,"9:30 AM","Ham & Brie",10,130,0,0,0
+42,"9:30 AM","Lg Flat Water - Saratoga",1,4,0,0,0
+42,"9:30 AM","Orange Juice",8,64,0,0,0
+42,"9:30 AM","Peach Soda",1,3,0,0,0
+42,"9:30 AM","Sparkling Apple Juice",1,5,0,0,0
+42,"9:30 AM","Sm Saratoga Water",3,11.6,0,0,0
+42,"9:30 AM","Rotating Sandwich",2,26,0,0,0
+42,"9:30 AM","Roast Chicken Sandwich",14,179.4,0,0,0
+42,"9:30 AM","Vandy Smokehouse BBQ",2,32,0,0,0
+42,"9:30 AM","Sweet potato chorizo",1,14,0,0,0
+42,"9:30 AM","Tomato Soup small",3,36,0,0,0
+42,"9:30 AM","The Cook's Atelier",1,55,0,0,0
+42,"9:30 AM","The Dinner Party Project by Natasha Feldman cookbo",1,40,0,0,0
+42,"9:30 AM","Shell - Isatopia Card",1,7,0,0,0
+42,"9:30 AM","Ranger Station Candle",1,40,0,0,0
+42,"9:30 AM","Charcoal Brioche",1,15,0,0,0
+42,"9:30 AM","Cobb Chardonnay Sonoma",1,66,0,0,0
+42,"9:30 AM","Le Bon Garcon - Classic Sea Salt Caramels",1,28,0,0,0
+42,"9:30 AM","Chicken Chili Small",4,56,0,0,0
+42,"9:30 AM","Square matchbox",1,15,0,0,0
+42,"9:30 AM","Notelet Archivist card",1,5,0,0,0
+42,"9:30 AM","Cookie Box Valentine",1,40,0,0,0
+42,"9:30 AM","Collazzi Chianti Classico 2024",1,32,0,0,0
+42,"9:30 AM","Roast Beef Sandwich",1,13,0,0,0
+42,"9:30 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+42,"9:30 AM","Cinnamon Rolls",1,25,0,0,0
+42,"9:30 AM","Happy Birthday CAKE - Isatopia Card",1,7,0,0,0
+42,"9:30 AM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+42,"9:30 AM","Merci La Vie Cabernet Franc",2,76,0,0,0
+42,"9:30 AM","PM Sweatshirt",1,71,0,0,0
+42,"9:30 AM","Mini Sockerbit Flowers and bunnies",4,38,0,0,0
+42,"9:30 AM","Jolie-Laide Glou D'etat Red Blend",1,28,0,0,0
+42,"9:30 AM","SHARE Everything Crackers",3,36,0,0,0
+42,"9:30 AM","Date Better - PEANUT BUTTER CRUNCH",5,39.2,0,0,0
+42,"9:30 AM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+42,"9:30 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+42,"9:30 AM","Passerine Brut Blanca",1,30,0,0,0
+42,"9:30 AM","Pra Otto",1,22,0,0,0
+42,"9:30 AM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+42,"9:30 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+42,"9:30 AM","MASA Tortilla Chips COBANERO",2,32,0,0,0
+42,"9:30 AM","Date Better - SNICKERDOODLE",1,7.2,0,0,0
+42,"9:30 AM","Mini Strawberry sockerbit",5,22,0,0,0
+42,"9:30 AM","Kombucha Pear",2,13,0,0,0
+42,"9:30 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",8,64,0,0,0
+42,"9:30 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+42,"9:30 AM","MASA Tortilla Chips Traditional",1,16,0,0,0
+42,"9:30 AM","Francois Villard L'Appel des Sereines",1,28,0,0,0
+42,"9:30 AM","TLO Pandan Coconut",1,7,0,0,0
+42,"9:30 AM","Gummy Easter Sockerbit",1,16,0,0,0
+42,"9:30 AM","Card Amy Zhang",9,45,0,0,0
+42,"9:30 AM","Kombucha Ginger Hibiscus",1,5.85,0,0,0
+43,"9:45 AM","Advantage Program",0,378.53,0,0,0
+43,"9:45 AM","Open Food",3,48,0,0,0
+43,"9:45 AM","Open Beverage",4,17,0,0,0
+43,"9:45 AM","Open Wine",1,50,0,0,0
+43,"9:45 AM","Focaccia - Petit",18,261,0,0,0
+43,"9:45 AM","Pimento Cheese",2,28,0,0,0
+43,"9:45 AM","Whipped ricotta",6,72,0,0,0
+43,"9:45 AM","Breakfast Sandwich",24,235,0,0,0
+43,"9:45 AM","Benton's Bacon",2,60,0,0,0
+43,"9:45 AM","Taper Candles Merida",1,12,0,0,0
+43,"9:45 AM","Baked Ziti W/ Meatballs",2,76,0,0,0
+43,"9:45 AM","Chocolate Chip Cookie",30,120,0,0,0
+43,"9:45 AM","Dog Treats",3,15,0,0,0
+43,"9:45 AM","Muffin",44,217.5,0,0,0
+43,"9:45 AM","Beast",3,30,0,0,0
+43,"9:45 AM","dialed in",11,66,0,0,0
+43,"9:45 AM","Green Machine",2,20,0,0,0
+43,"9:45 AM","Gut Check",1,7,0,0,0
+43,"9:45 AM","Muffin Top",4,20,0,0,0
+43,"9:45 AM","Grain & Gain",4,16,0,0,0
+43,"9:45 AM","Matcha -Berry",6,48,0,0,0
+43,"9:45 AM","Cider",1,8,0,0,0
+43,"9:45 AM","Crunchy Pony Peanut Butter",1,8,0,0,0
+43,"9:45 AM","Fallot & Cie Moutarde de Dijon",1,22,0,0,0
+43,"9:45 AM","The Moosewood Cookbook",1,32.5,0,0,0
+43,"9:45 AM","Vegetable Minestrone",1,22,0,0,0
+43,"9:45 AM","Lemon Scones",2,12,0,0,0
+43,"9:45 AM","Tomato Soup",1,22,0,0,0
+43,"9:45 AM","Moonstruck Black Cat Bar Dark Chocolate",2,16,0,0,0
+43,"9:45 AM","Moonstruck Love Spell Bar Milk Chocolate",1,8,0,0,0
+43,"9:45 AM","Le Bon Garcon - Dirty Chai",2,56,0,0,0
+43,"9:45 AM","Shepherd's Pie",2,76,0,0,0
+43,"9:45 AM","Piecework - Pie Cocktail Napkins",1,44,0,0,0
+43,"9:45 AM","Dozen Eggs",2,24,0,0,0
+43,"9:45 AM","Cowboy Christmas - Ranger Station",2,80,0,0,0
+43,"9:45 AM","A-Frame Bobon box - Maeve",1,25,0,0,0
+43,"9:45 AM","Orange Surprise Ball",4,56,0,0,0
+43,"9:45 AM","Bravo - Isatopia Card",1,7,0,0,0
+43,"9:45 AM","Potter's Flat Breads",4,60,0,0,0
+43,"9:45 AM","Tinsel Rolls",1,6,0,0,0
+43,"9:45 AM","Peppermint Logs",3,15,0,0,0
+43,"9:45 AM","Animal Crackers",1,16,0,0,0
+43,"9:45 AM","Food Orament",1,18,0,0,0
+43,"9:45 AM","Golden Milk Lattee",4,28,0,0,0
+43,"9:45 AM","Cappuccino",30,164.45,0,0,0
+43,"9:45 AM","Matcha Latte",42,310.8,0,0,0
+43,"9:45 AM","Chai Latte",7,40.8,0,0,0
+43,"9:45 AM","Cortado",12,51.75,0,0,0
+43,"9:45 AM","Espresso",8,24,0,0,0
+43,"9:45 AM","Latte",149,882.6,0,0,0
+43,"9:45 AM","Tea",2,8,0,0,0
+43,"9:45 AM","Add Syrup",126,124.3,0,0,0
+43,"9:45 AM","Americano",16,64,0,0,0
+43,"9:45 AM","Lemonade",3,15,0,0,0
+43,"9:45 AM","Peach Syrup",6,11.8,0,0,0
+43,"9:45 AM","Le Fluffernut",8,64,0,1,8
+43,"9:45 AM","Cold Brew",13,83.85,0,0,0
+43,"9:45 AM","Open Retail",25,638.6,0,1,14
+43,"9:45 AM","OG Legally Addictive",1,9,0,0,0
+43,"9:45 AM","Sockerbit SPOOKY Gummy Mix",3,36,0,0,0
+43,"9:45 AM","Brownie",1,6,0,0,0
+43,"9:45 AM","Cookie Asst.",19,76,0,0,0
+43,"9:45 AM","Thai Beef Curry",3,114,0,0,0
+43,"9:45 AM","Rotating Salad",2,36,0,0,0
+43,"9:45 AM","Pound Cake",2,10,0,0,0
+43,"9:45 AM","EDISTO - HONEY",1,18,0,0,0
+43,"9:45 AM","MALDON - Smoked Sea Salt",1,10,0,0,0
+43,"9:45 AM","Le Bon Garcon - P.O.G. Caramels",2,56,0,0,0
+43,"9:45 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",1,11,0,0,0
+43,"9:45 AM","One Trick Pony Crunchy Peanut Butter",2,22,0,0,0
+43,"9:45 AM","MASA - Tortilla Chips CHURRO",1,16,0,0,0
+43,"9:45 AM","Guzzini Cereal/Soup Bowl - BLUE",2,34,0,0,0
+43,"9:45 AM","Delinquente Screaming Betty Vermentino",1,32,0,0,0
+43,"9:45 AM","GIDDY UP NUTS - Rosemary Garlic",1,19,0,0,0
+43,"9:45 AM","GIDDY UP NUTS - Original",3,57,0,0,0
+43,"9:45 AM","Monte Rio Cellars Zinfandel",1,32,0,0,0
+43,"9:45 AM","Paolo Scavino Vino Rosso",1,40,0,0,0
+43,"9:45 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+43,"9:45 AM","VANDY - Herbs de Provence",1,16,0,0,0
+43,"9:45 AM","Bjorn Qorn TRUFFLE",1,8,0,0,0
+43,"9:45 AM","MALDON - Chili Salt",1,12,0,0,0
+43,"9:45 AM","Butternut Squash Soup LARGE",2,44,0,0,0
+43,"9:45 AM","Mummy Surprize Ball",1,15,0,0,0
+43,"9:45 AM","TANDEM - time and temp",1,22,0,0,0
+43,"9:45 AM","Meatloaf 2",2,56,0,0,0
+43,"9:45 AM","Meatloaf with Brussels",1,36,0,0,0
+43,"9:45 AM","Ronchi Di Cialla",1,40,0,0,0
+43,"9:45 AM","Sugar plum surprise ball",4,56,0,0,0
+43,"9:45 AM","Frosty",6,48,0,0,0
+43,"9:45 AM","Gingerbread Man",3,24,0,0,0
+43,"9:45 AM","Jeff Rink",1,1404,0,0,0
+43,"9:45 AM","Coeurs Dark Choc Heart Bar",1,13,0,0,0
+43,"9:45 AM","Turkey Sandwich",14,180.7,0,0,0
+43,"9:45 AM","Ham & Brie",10,130,0,0,0
+43,"9:45 AM","Whipped Honey",1,16.2,0,0,0
+43,"9:45 AM","Orange Juice",1,8,0,0,0
+43,"9:45 AM","Sparkling Apple Juice",1,5,0,0,0
+43,"9:45 AM","Sm Saratoga Water",3,12,0,0,0
+43,"9:45 AM","Aqua Panna",1,6,0,0,0
+43,"9:45 AM","Rotating Sandwich",11,143,0,0,0
+43,"9:45 AM","Sm Sparkling Saratoga",1,4,0,0,0
+43,"9:45 AM","Roast Chicken Sandwich",10,130,0,0,0
+43,"9:45 AM","VANDY - Original",2,32,0,0,0
+43,"9:45 AM","Vandy Smokehouse BBQ",1,16,0,0,0
+43,"9:45 AM","Sweet potato chorizo",2,28,0,0,0
+43,"9:45 AM","Tomato Soup small",2,24,0,0,0
+43,"9:45 AM","Ranger Station Candle",3,120,0,0,0
+43,"9:45 AM","Chicken Chili Small",1,14,0,0,0
+43,"9:45 AM","Square matchbox",1,15,0,0,0
+43,"9:45 AM","Notelet Archivist card",2,10,0,0,0
+43,"9:45 AM","Matchbox Ornament",4,44.8,0,0,0
+43,"9:45 AM","Cookie Box Valentine",1,40,0,0,0
+43,"9:45 AM","Cookie Cake",3,45,0,0,0
+43,"9:45 AM","Extra Large Pommery Mustard",1,29,0,0,0
+43,"9:45 AM","Grillo Gurrieri 2024",1,36,0,0,0
+43,"9:45 AM","Roast Beef Sandwich",1,13,0,0,0
+43,"9:45 AM","Birthday Truffle Bar Maeve",3,21.5,0,0,0
+43,"9:45 AM","Blueberry and Sunflower Butter Granola",1,16,0,0,0
+43,"9:45 AM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+43,"9:45 AM","Mini Sockerbit Flowers and bunnies",0,0,0,1,5
+43,"9:45 AM","Jolie-Laide Glou D'etat Red Blend",1,34,0,0,0
+43,"9:45 AM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+43,"9:45 AM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+43,"9:45 AM","Dilenquente-Weeping Juan",1,27,0,0,0
+43,"9:45 AM","Date Better - HAZELNUT PRALINE",2,16,0,0,0
+43,"9:45 AM","Pra Morandina Valpolicella",2,66,0,0,0
+43,"9:45 AM","Tiberio Cerasuolo",1,40,0,0,0
+43,"9:45 AM","Sausage - Blueberry",1,30,0,0,0
+43,"9:45 AM","Ayoh Hot Giardinayo Sando Sauce",2,24,0,0,0
+43,"9:45 AM","Lange Sea Salt Pure Flake",1,25,0,0,0
+43,"9:45 AM","Asparagus Chowder",1,14,0,0,0
+43,"9:45 AM","Pasta Salad",1,10,0,0,0
+43,"9:45 AM","Bon Bon Sour PEACH Swedish Fish",3,24,0,0,0
+43,"9:45 AM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+43,"9:45 AM","Mini Strawberry sockerbit",0,0,0,1,5
+43,"9:45 AM","TLO Matcha Lemonade",1,7,0,0,0
+43,"9:45 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",4,32,0,0,0
+43,"9:45 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",4,32,0,0,0
+43,"9:45 AM","MASA Tortilla Chips Traditional",2,32,0,0,0
+43,"9:45 AM","Blueberry Maine Root Soda",1,3,0,0,0
+43,"9:45 AM","Card Amy Zhang",4,20,0,0,0
+43,"9:45 AM","Kombucha Yuzu",1,6.5,0,0,0
+44,"10:00 AM","Advantage Program",0,321.38,0,0,0
+44,"10:00 AM","Mercado Famous Jamon Serrania",1,22,0,0,0
+44,"10:00 AM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+44,"10:00 AM","Ayoh Tangy Dijonayo Sando Sauce",2,22.8,0,0,0
+44,"10:00 AM","Open Food",16,290.06,0,0,0
+44,"10:00 AM","Open Beverage",1,6.5,0,0,0
+44,"10:00 AM","Open Wine",2,58,0,0,0
+44,"10:00 AM","Open Beer",1,2.7,0,0,0
+44,"10:00 AM","Focaccia - Petit",14,210,0,1,15
+44,"10:00 AM","Pimento Cheese",1,14,0,0,0
+44,"10:00 AM","Whipped ricotta",3,36,0,0,0
+44,"10:00 AM","Breakfast Sandwich",26,260,0,0,0
+44,"10:00 AM","Benton's Bacon",1,30,0,0,0
+44,"10:00 AM","Baked Ziti W/ Meatballs",9,326,0,0,0
+44,"10:00 AM","Chocolate Chip Cookie",61,243.6,0,0,0
+44,"10:00 AM","Dog Treats",2,10,0,0,0
+44,"10:00 AM","Muffin",21,104.5,0,0,0
+44,"10:00 AM","Beef Stroganoff",5,190,0,0,0
+44,"10:00 AM","Beast",2,20,0,0,0
+44,"10:00 AM","Green Machine",1,10,0,0,0
+44,"10:00 AM","Gut Check",3,21,0,0,0
+44,"10:00 AM","Muffin Top",1,5,0,0,0
+44,"10:00 AM","Grain & Gain",2,8,0,0,0
+44,"10:00 AM","Matcha -Berry",5,40,0,0,0
+44,"10:00 AM","Creamy Pony Peanut Butter",2,16,0,0,0
+44,"10:00 AM","Chicken w Ratatouille",1,36,0,0,0
+44,"10:00 AM","Corn Chowder",1,22,0,0,0
+44,"10:00 AM","MALDON - Pink Salt",1,11,0,0,0
+44,"10:00 AM","Lemon Scones",1,6,0,0,0
+44,"10:00 AM","Tomato Soup",1,22,0,0,0
+44,"10:00 AM","Sausage - Mild Pork",1,24,0,0,0
+44,"10:00 AM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+44,"10:00 AM","Moonstruck Black Cat Bar Dark Chocolate",1,8,0,0,0
+44,"10:00 AM","Shepherd's Pie",3,114,0,0,0
+44,"10:00 AM","Piecework - Pie Cocktail Napkins",1,44,0,0,0
+44,"10:00 AM","Dozen Eggs",1,12,0,0,0
+44,"10:00 AM","Calx Primitivo",1,18,0,0,0
+44,"10:00 AM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+44,"10:00 AM","Holly Berry Surprise Ball",1,10.8,0,0,0
+44,"10:00 AM","Cinnamon Hot cocoa Tin",1,15,0,0,0
+44,"10:00 AM","Peppermint Logs",2,7,0,0,0
+44,"10:00 AM","Advent Calendar - Maeve",2,57.6,0,1,28.8
+44,"10:00 AM","Bloody Mary Crackers",2,22.4,0,0,0
+44,"10:00 AM","Golden Milk Lattee",1,7,0,0,0
+44,"10:00 AM","Cappuccino",24,132,0,0,0
+44,"10:00 AM","Matcha Latte",39,299.6,0,0,0
+44,"10:00 AM","Chai Latte",9,51.6,0,0,0
+44,"10:00 AM","Cortado",15,67.5,0,0,0
+44,"10:00 AM","Espresso",8,23.1,0,0,0
+44,"10:00 AM","Latte",142,837.6,0,0,0
+44,"10:00 AM","Tea",1,4,0,0,0
+44,"10:00 AM","Add Syrup",120,118.3,0,0,0
+44,"10:00 AM","Americano",18,71.6,0,0,0
+44,"10:00 AM","Lemonade",2,10,0,0,0
+44,"10:00 AM","Peach Syrup",8,16,0,0,0
+44,"10:00 AM","Le Fluffernut",9,69.6,0,0,0
+44,"10:00 AM","Cold Brew",16,96.85,0,0,0
+44,"10:00 AM","Open Retail",10,200.7,0,0,0
+44,"10:00 AM","Table for Two",1,25,0,0,0
+44,"10:00 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+44,"10:00 AM","Brownie",2,12,0,0,0
+44,"10:00 AM","Cookie Asst.",15,60,0,0,0
+44,"10:00 AM","Honey Wheat Loaf",1,14,0,0,0
+44,"10:00 AM","Thai Beef Curry",1,38,0,0,0
+44,"10:00 AM","Rotating Salad",5,90,0,0,0
+44,"10:00 AM","Pound Cake",1,5,0,0,0
+44,"10:00 AM","Chicken Picata",1,32,0,0,0
+44,"10:00 AM","Chicken and Broccoli",1,36,0,0,0
+44,"10:00 AM","EDISTO - HONEY",1,16.2,0,0,0
+44,"10:00 AM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+44,"10:00 AM","MALDON - Smoked Sea Salt",1,10,0,0,0
+44,"10:00 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+44,"10:00 AM","Le Bon Garcon - P.O.G. Caramels",1,28,0,0,0
+44,"10:00 AM","Pecans Roasted and Salted Zorro",2,38,0,0,0
+44,"10:00 AM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+44,"10:00 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+44,"10:00 AM","One Trick Pony Crunchy Peanut Butter",2,22,0,0,0
+44,"10:00 AM","Tiki Cocktails 180+ Dreamy Drinks and Luau-inspire",1,24.95,0,0,0
+44,"10:00 AM","Clos Saint Antonin Cotes du Rhone Rouge",1,28,0,0,0
+44,"10:00 AM","Paolo Scavino Vino Rosso",1,40,0,0,0
+44,"10:00 AM","Luna Duna Naranjo",1,28,0,0,0
+44,"10:00 AM","VANDY - Herbs de Provence",1,16,0,0,0
+44,"10:00 AM","Pop tart",2,10,0,0,0
+44,"10:00 AM","Sardine Cards",1,4,0,0,0
+44,"10:00 AM","Chocolate Mousse Trifles",1,6,0,0,0
+44,"10:00 AM","Bjorn Qorn TRUFFLE",1,8,0,0,0
+44,"10:00 AM","Bjorn Qorn CLASSIC",1,8,0,0,0
+44,"10:00 AM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+44,"10:00 AM","rotating - tandem",1,20,0,0,0
+44,"10:00 AM","Mummy Surprize Ball",1,15,0,0,0
+44,"10:00 AM","Safety Matches",1,14.7,0,0,0
+44,"10:00 AM","Placecards Hester & Cook",1,12,0,0,0
+44,"10:00 AM","Table Cards Hester & Cook",2,32,0,0,0
+44,"10:00 AM","Croissant - Isatopia Card",2,14,0,0,0
+44,"10:00 AM","Meatloaf 2",1,28,0,0,0
+44,"10:00 AM","Meatloaf with Brussels",1,36,0,0,0
+44,"10:00 AM","Merry Christmas Card",1,4,0,0,0
+44,"10:00 AM","Sugar plum surprise ball",2,28,0,0,0
+44,"10:00 AM","Frosty",1,8,0,0,0
+44,"10:00 AM","Gingerbread Man",7,52,0,0,0
+44,"10:00 AM","Maeve Bon Bon Box",1,24,0,0,0
+44,"10:00 AM","Coeurs Pink Heart Chocolate Bar",1,13,0,0,0
+44,"10:00 AM","Turkey Sandwich",16,208,0,0,0
+44,"10:00 AM","Ham & Brie",32,416,0,0,0
+44,"10:00 AM","Whipped Honey",1,18,0,0,0
+44,"10:00 AM","Orange Juice",2,16,0,0,0
+44,"10:00 AM","R/C Cola",1,3,0,0,0
+44,"10:00 AM","Sparkling Apple Juice",1,5,0,0,0
+44,"10:00 AM","Flat Apple Juice",1,8,0,0,0
+44,"10:00 AM","Sm Saratoga Water",4,16,0,0,0
+44,"10:00 AM","Sm Sparkling - Saratoga",2,8,0,0,0
+44,"10:00 AM","Rotating Sandwich",4,45.5,0,0,0
+44,"10:00 AM","Peches Soda",2,6,0,0,0
+44,"10:00 AM","Hopscotch Soda",2,6,0,0,0
+44,"10:00 AM","Roast Chicken Sandwich",14,182,0,0,0
+44,"10:00 AM","VANDY - Original",2,32,0,0,0
+44,"10:00 AM","Tomato Soup small",4,48,0,0,0
+44,"10:00 AM","Shell - Isatopia Card",1,7,0,0,0
+44,"10:00 AM","Hot Chocolate",1,5,0,0,0
+44,"10:00 AM","Le Bon Garcon - Strawberry Sakura Caramels",1,14,0,0,0
+44,"10:00 AM","Chicken Chili Small",2,28,0,0,0
+44,"10:00 AM","Cookie Box Valentine",1,40,0,0,0
+44,"10:00 AM","Cookie Cake",3,45,0,0,0
+44,"10:00 AM","Roast Beef Sandwich",1,15,0,0,0
+44,"10:00 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+44,"10:00 AM","Cinnamon Rolls",1,25,0,0,0
+44,"10:00 AM","Blueberry and Sunflower Butter Granola",1,18,0,0,0
+44,"10:00 AM","French Toast Casserole",1,24,0,0,0
+44,"10:00 AM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+44,"10:00 AM","Merci t-shirt",1,38,0,0,0
+44,"10:00 AM","Mini Sockerbit Flowers and bunnies",2,28,0,1,14
+44,"10:00 AM","Jolie-Laide Glou D'etat Red Blend",1,34,0,0,0
+44,"10:00 AM","SHARE Everything Crackers",2,22.8,0,0,0
+44,"10:00 AM","Wishie Fishies",1,14,0,0,0
+44,"10:00 AM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+44,"10:00 AM","Bon bon Sour BLACKBERRY Fish Candy",5,40,0,0,0
+44,"10:00 AM","Ratatouille",1,24,0,0,0
+44,"10:00 AM","Sausage - Blueberry",1,30,0,0,0
+44,"10:00 AM","Ayoh Dill Pickle Mayo Sando Sauce",3,36,0,0,0
+44,"10:00 AM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+44,"10:00 AM","Lange Sea Salt Pure Flake",1,25,0,0,0
+44,"10:00 AM","Bon Bon Sour PEACH Swedish Fish",2,16,0,0,0
+44,"10:00 AM","MASA Tortilla Chips COBANERO",3,48,0,0,0
+44,"10:00 AM","Date Better - SNICKERDOODLE",2,16,0,0,0
+44,"10:00 AM","Kombucha Pear",1,6.5,0,0,0
+44,"10:00 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+44,"10:00 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+44,"10:00 AM","MASA Tortilla Chips Traditional",1,16,0,0,0
+44,"10:00 AM","Francois Villard L'Appel des Sereines",1,28,0,0,0
+44,"10:00 AM","Mexican Cola Maine Root Soda",2,6,0,0,0
+44,"10:00 AM","Gummy Easter Sockerbit",1,7,0,0,0
+44,"10:00 AM","Card Amy Zhang",13,65,0,0,0
+44,"10:00 AM","Kombucha Ginger Hibiscus",1,6.5,0,0,0
+44,"10:00 AM","Kombucha Yuzu",1,6.5,0,0,0
+45,"10:15 AM","Advantage Program",0,358.75,0,0,0
+45,"10:15 AM","Date Better - ALMOND JAVA CRUNCH",1,8,0,0,0
+45,"10:15 AM","Ayoh Tangy Dijonayo Sando Sauce",2,24,0,0,0
+45,"10:15 AM","Comptoir Du Cacao",2,24,0,0,0
+45,"10:15 AM","Open Food",14,266.95,0,0,0
+45,"10:15 AM","Open Beverage",1,6,0,0,0
+45,"10:15 AM","Open Beer",3,65,0,0,0
+45,"10:15 AM","Focaccia - Petit",5,75,0,0,0
+45,"10:15 AM","Whipped ricotta",5,60,0,0,0
+45,"10:15 AM","Breakfast Sandwich",14,139,0,0,0
+45,"10:15 AM","Benton's Bacon",3,90,0,0,0
+45,"10:15 AM","Baked Ziti W/ Meatballs",6,216,0,0,0
+45,"10:15 AM","Chocolate Chip Cookie",53,211.6,0,0,0
+45,"10:15 AM","Dog Treats",4,20,0,0,0
+45,"10:15 AM","Muffin",27,132.5,0,1,5
+45,"10:15 AM","Polvanera Calx Primitivo Di Puglia",1,18,0,0,0
+45,"10:15 AM","Beef Stroganoff",3,112.1,0,0,0
+45,"10:15 AM","dialed in",1,6,0,0,0
+45,"10:15 AM","Cider",1,4,0,0,0
+45,"10:15 AM","Benton's Summer Stack",3,39,0,0,0
+45,"10:15 AM","Chicken w Ratatouille",2,72,0,0,0
+45,"10:15 AM","Tomato Tartlets",0,0,0,1,6
+45,"10:15 AM","Mitica Flatbread",1,15,0,0,0
+45,"10:15 AM","Pop-Chips Truffle",1,8,0,0,0
+45,"10:15 AM","Runamok Syrup Sugarmaker Cut",1,18,0,0,0
+45,"10:15 AM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+45,"10:15 AM","Lemon Scones",1,6,0,0,0
+45,"10:15 AM","Senate Bean Soup",1,22,0,0,0
+45,"10:15 AM","Tomato Soup",1,19.8,0,0,0
+45,"10:15 AM","Masa Tortilla Chips White",1,16,0,0,0
+45,"10:15 AM","Sausage - Mild Pork",2,48,0,0,0
+45,"10:15 AM","Chocolate Sardines",1,18,0,0,0
+45,"10:15 AM","Rayos Uva Olivier Riviere Vinos",2,68,0,0,0
+45,"10:15 AM","Shepherd's Pie",1,38,0,0,0
+45,"10:15 AM","Dozen Eggs",1,12,0,0,0
+45,"10:15 AM","Forx Farm Butter",1,22,0,0,0
+45,"10:15 AM","F&WC Dine Around",4,1000,0,0,0
+45,"10:15 AM","Fratelli Alessandria Barbera D'Alba",1,32,0,0,0
+45,"10:15 AM","Sausage - Jalapeno",1,18,0,0,0
+45,"10:15 AM","Sausage - Sweet Italian",1,18,0,0,0
+45,"10:15 AM","Pizza Kit",1,18,0,0,0
+45,"10:15 AM","Taper Candles - Greentree",2,32,0,0,0
+45,"10:15 AM","Swedish Candy Canes",1,3,0,0,0
+45,"10:15 AM","HBD Card",3,18,0,0,0
+45,"10:15 AM","Animal Menagerie Stationary",3,66,0,0,0
+45,"10:15 AM","Star Ornament - Knit",1,28,0,0,0
+45,"10:15 AM","Heart Ornament",1,19.6,0,0,0
+45,"10:15 AM","Food Orament",3,37.8,0,0,0
+45,"10:15 AM","Golden Milk Lattee",1,7,0,0,0
+45,"10:15 AM","Cappuccino",19,103.95,0,0,0
+45,"10:15 AM","Matcha Latte",40,309.2,0,1,8
+45,"10:15 AM","Chai Latte",9,48.6,0,0,0
+45,"10:15 AM","Cortado",8,36,0,0,0
+45,"10:15 AM","Espresso",8,24,0,1,3
+45,"10:15 AM","Latte",167,987,0,1,6
+45,"10:15 AM","Tea",2,8,0,0,0
+45,"10:15 AM","Add Syrup",137,135.1,0,3,3
+45,"10:15 AM","Americano",13,51.6,0,0,0
+45,"10:15 AM","Lemonade",1,5,0,0,0
+45,"10:15 AM","Peach Syrup",7,13.8,0,0,0
+45,"10:15 AM","Le Fluffernut",13,100.8,0,0,0
+45,"10:15 AM","Cold Brew",15,97.5,0,0,0
+45,"10:15 AM","Open Retail",11,173.9,0,0,0
+45,"10:15 AM","Pm tumbler",1,40,0,0,0
+45,"10:15 AM","Pm Bumper Sticker",1,5,0,0,0
+45,"10:15 AM","More Is More- Get Loose in the Kitchen- a Cookbook",1,35,0,0,0
+45,"10:15 AM","Sockerbit SPOOKY Gummy Mix",2,24,0,0,0
+45,"10:15 AM","Brownie",3,18,0,0,0
+45,"10:15 AM","Cookie Asst.",35,137.2,0,0,0
+45,"10:15 AM","Rotating Salad",3,54,0,0,0
+45,"10:15 AM","EDISTO - HONEY",1,18,0,0,0
+45,"10:15 AM","Frankie's SWEET FIRE PICKLES",2,26,0,0,0
+45,"10:15 AM","MALDON - Smoked Sea Salt",2,20,0,0,0
+45,"10:15 AM","Maldon Salt Regular",2,24,0,0,0
+45,"10:15 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+45,"10:15 AM","Pecans Milk Chocolate Covered Zorro",1,19,0,1,19
+45,"10:15 AM","Pecans Roasted and Salted Zorro",2,38,0,0,0
+45,"10:15 AM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+45,"10:15 AM","Granola Pistachio Sour Cherry Sweet Deliverance",1,18,0,0,0
+45,"10:15 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",1,17,0,0,0
+45,"10:15 AM","MASA - Tortilla Chips CHURRO",1,16,0,0,0
+45,"10:15 AM","Guzzini Cereal/Soup Bowl - BLUE",1,17,0,0,0
+45,"10:15 AM","Bizzaro Spritz Can",1,12,0,0,0
+45,"10:15 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+45,"10:15 AM","VANDY - Herbs de Provence",1,16,0,0,0
+45,"10:15 AM","Birthday Cake Card",1,4,0,0,0
+45,"10:15 AM","Sardine Cards",1,4,0,0,0
+45,"10:15 AM","Butternut Squash Soup LARGE",1,22,0,0,0
+45,"10:15 AM","Butternut Squash Soup SMALL",1,12,0,0,0
+45,"10:15 AM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",2,96,0,0,0
+45,"10:15 AM","rotating - tandem",1,20,0,0,0
+45,"10:15 AM","TANDEM - time and temp",1,22,0,0,0
+45,"10:15 AM","swimmer matches",1,13,0,0,0
+45,"10:15 AM","one trick pony - popcorn",1,8,0,0,0
+45,"10:15 AM","Happy Birthday BIRD - Isatopia Card",1,7,0,0,0
+45,"10:15 AM","Meatloaf 2",2,56,0,0,0
+45,"10:15 AM","Frosty",3,24,0,0,0
+45,"10:15 AM","Gingerbread Man",3,24,0,0,0
+45,"10:15 AM","Maeve Bon Bon Box",2,48,0,0,0
+45,"10:15 AM","Peanut Butter Banana Bar Maeve",1,7.5,0,0,0
+45,"10:15 AM","Turkey Sandwich",16,208,0,0,0
+45,"10:15 AM","Ham & Brie",19,245.7,0,0,0
+45,"10:15 AM","EDISTO - HOT HONEY",2,36,0,0,0
+45,"10:15 AM","Cheerwine Soda",2,6,0,0,0
+45,"10:15 AM","Lg Saratoga Water",1,4,0,0,0
+45,"10:15 AM","Orange Juice",1,8,0,0,0
+45,"10:15 AM","Peach Soda",1,3,0,0,0
+45,"10:15 AM","Sparkling Apple Juice",2,10,0,0,0
+45,"10:15 AM","Flat Apple Juice",1,8,0,0,0
+45,"10:15 AM","Sm Saratoga Water",10,40,0,0,0
+45,"10:15 AM","Rotating Sandwich",10,130,0,0,0
+45,"10:15 AM","Roast Chicken Sandwich",23,296.4,0,0,0
+45,"10:15 AM","VANDY - Original",2,32,0,0,0
+45,"10:15 AM","Tomato Soup small",1,12,0,0,0
+45,"10:15 AM","The Cook's Atelier",1,55,0,0,0
+45,"10:15 AM","Ranger Station Candle",2,80,0,0,0
+45,"10:15 AM","Cantina Marilina Sikele",1,30,0,0,0
+45,"10:15 AM","Matcha Powder Holy City",1,28,0,0,0
+45,"10:15 AM","Sweet Enough: a Dessert Cookbook by Alison Roman",1,35,0,0,0
+45,"10:15 AM","Le Bon Garcon - Classic Sea Salt Caramels",1,28,0,0,0
+45,"10:15 AM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+45,"10:15 AM","Archivist card",4,28,0,0,0
+45,"10:15 AM","Notelet Archivist card",3,15,0,0,0
+45,"10:15 AM","Cookie Box Valentine",1,40,0,0,0
+45,"10:15 AM","Cookie Cake",1,15,0,0,0
+45,"10:15 AM","Roast Beef Sandwich",1,15,0,0,0
+45,"10:15 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+45,"10:15 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,16,0,0,0
+45,"10:15 AM","Happy Birthday CAKE - Isatopia Card",1,7,0,0,0
+45,"10:15 AM","French Toast Casserole",1,24,0,0,0
+45,"10:15 AM","Maeve Spring Mix",2,51,0,0,0
+45,"10:15 AM","Date Better - ROYAL CINNAMON BAKLAVA",2,16,0,0,0
+45,"10:15 AM","SHARE Everything Crackers",1,12,0,0,0
+45,"10:15 AM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+45,"10:15 AM","Bon bon Sour BLACKBERRY Fish Candy",3,24,0,0,0
+45,"10:15 AM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+45,"10:15 AM","Ayoh Hot Giardinayo Sando Sauce",2,24,0,0,0
+45,"10:15 AM","Lange Sea Salt Pure Flake",1,25,0,0,0
+45,"10:15 AM","Bon Bon Sour PEACH Swedish Fish",3,24,0,0,0
+45,"10:15 AM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+45,"10:15 AM","Beef Broth",1,22,0,0,0
+45,"10:15 AM","Hot Girl Pickles Original Dill",2,28,0,0,0
+45,"10:15 AM","Petit Ours Rosé",1,34,0,0,0
+45,"10:15 AM","Mini Strawberry sockerbit",2,7,0,0,0
+45,"10:15 AM","TLO Vietnamese Lemonade",1,7,0,0,0
+45,"10:15 AM","Kombucha Pear",2,13,0,0,0
+45,"10:15 AM","Focaccia",3,54,0,0,0
+45,"10:15 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",7,56,0,0,0
+45,"10:15 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+45,"10:15 AM","Lorenza Rosé",2,60,0,0,0
+45,"10:15 AM","Blueberry Maine Root Soda",1,3,0,0,0
+45,"10:15 AM","Card Amy Zhang",10,50,0,0,0
+46,"10:30 AM","Advantage Program",0,279.04,0,0,0
+46,"10:30 AM","POMMERY MUSTARD",1,25,0,0,0
+46,"10:30 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+46,"10:30 AM","Comptoir Du Cacao",1,12,0,0,0
+46,"10:30 AM","Open Food",14,279.5,0,0,0
+46,"10:30 AM","Open Beverage",3,19,0,0,0
+46,"10:30 AM","Open Wine",2,74,0,0,0
+46,"10:30 AM","Focaccia - Petit",8,120,0,0,0
+46,"10:30 AM","Whipped ricotta",4,42,0,0,0
+46,"10:30 AM","Breakfast Sandwich",21,208,0,0,0
+46,"10:30 AM","Baked Ziti W/ Meatballs",4,146,0,0,0
+46,"10:30 AM","Chocolate Chip Cookie",44,172.4,0,1,4
+46,"10:30 AM","Dog Treats",3,15,0,0,0
+46,"10:30 AM","Muffin",23,113.5,0,0,0
+46,"10:30 AM","Beef Stroganoff",1,38,0,0,0
+46,"10:30 AM","Cider",1,4,0,0,0
+46,"10:30 AM","Crunchy Pony Peanut Butter",1,8,0,0,0
+46,"10:30 AM","Benton's Summer Stack",2,26,0,0,0
+46,"10:30 AM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+46,"10:30 AM","MY DRAP - SMALL NAPKIN ROLL DARK GREY",1,20,0,0,0
+46,"10:30 AM","Daily Salad",0,0,0,1,16
+46,"10:30 AM","Senate Bean Soup",1,22,0,0,0
+46,"10:30 AM","Sausage - Mild Pork",1,24,0,0,0
+46,"10:30 AM","Shepherd's Pie",1,38,0,0,0
+46,"10:30 AM","Dozen Eggs",1,12,0,0,0
+46,"10:30 AM","Taper Candles Color Block",4,53,0,0,0
+46,"10:30 AM","Maine Brewing Co IPA",2,16.8,0,0,0
+46,"10:30 AM","Taper Candles - Greentree",2,32,0,0,0
+46,"10:30 AM","Colu Cooks Easy Fancy Food Colu Henry",1,35,0,0,0
+46,"10:30 AM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+46,"10:30 AM","A-Frame Bobon box - Maeve",2,50,0,0,0
+46,"10:30 AM","Bah Humbug",1,22,0,0,0
+46,"10:30 AM","Cinnamon Hot cocoa Tin",1,15,0,0,0
+46,"10:30 AM","Lady Joseph Crackers",3,29.7,0,0,0
+46,"10:30 AM","Thank you card",1,6,0,0,0
+46,"10:30 AM","HBD Card",1,6,0,0,0
+46,"10:30 AM","Tinsel Rolls",1,6,0,0,0
+46,"10:30 AM","Animal Menagerie Stationary",1,30,0,0,0
+46,"10:30 AM","Bloody Mary Crackers",2,32,0,0,0
+46,"10:30 AM","Eifel Tower Ornament",1,20,0,0,0
+46,"10:30 AM","Food Orament",1,18,0,0,0
+46,"10:30 AM","Ina Gardner Ornament",1,24,0,0,0
+46,"10:30 AM","Golden Milk Lattee",3,21,0,0,0
+46,"10:30 AM","Cappuccino",32,175.45,0,0,0
+46,"10:30 AM","Matcha Latte",28,210.4,0,1,8
+46,"10:30 AM","Chai Latte",5,29.4,0,0,0
+46,"10:30 AM","Cortado",14,63,0,1,4.5
+46,"10:30 AM","Espresso",2,6,0,0,0
+46,"10:30 AM","Latte",127,750.6,0,0,0
+46,"10:30 AM","Tea",2,8,0,0,0
+46,"10:30 AM","Add Syrup",107,106,0,0,0
+46,"10:30 AM","Americano",11,44,0,1,4
+46,"10:30 AM","Peach Syrup",4,7.8,0,1,2
+46,"10:30 AM","Le Fluffernut",10,76,0,0,0
+46,"10:30 AM","Cold Brew",15,97.5,0,0,0
+46,"10:30 AM","All Roads Cotton Napkins (x2)",1,36,0,0,0
+46,"10:30 AM","Open Retail",16,253.4,0,0,0
+46,"10:30 AM","Pm tumbler",1,40,0,0,0
+46,"10:30 AM","Pumpkin Spice Maple Syrup",1,16,0,0,0
+46,"10:30 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+46,"10:30 AM","Cookie Asst.",23,92,0,0,0
+46,"10:30 AM","Rotating Salad",3,54,0,0,0
+46,"10:30 AM","Coffee Cake",1,5.4,0,0,0
+46,"10:30 AM","Pound Cake",2,10,0,0,0
+46,"10:30 AM","MALDON - Smoked Sea Salt",1,10,0,0,0
+46,"10:30 AM","Maldon Salt Regular",1,12,0,0,0
+46,"10:30 AM","Ruby Apricot - Marmalade Grows",1,9,0,0,0
+46,"10:30 AM","Granola Pistachio Sour Cherry Sweet Deliverance",1,18,0,0,0
+46,"10:30 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",1,11,0,0,0
+46,"10:30 AM","One Trick Pony Crunchy Peanut Butter",1,5.5,0,0,0
+46,"10:30 AM","Comptoir Du Cacao Fluer De Sel",1,11,0,0,0
+46,"10:30 AM","Chucktown Acres - Ground Beef",1,20,0,0,0
+46,"10:30 AM","Maine Beer Company Peeper 16oz bottle",1,12,0,0,0
+46,"10:30 AM","Cru monplaisir",1,38,0,0,0
+46,"10:30 AM","Luna Duna Naranjo",1,28,0,0,0
+46,"10:30 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+46,"10:30 AM","VANDY - Herbs de Provence",1,16,0,0,0
+46,"10:30 AM","Pop tart",2,10,0,0,0
+46,"10:30 AM","Birthday Cake Card",1,4,0,0,0
+46,"10:30 AM","8 oz Chicken Salad",1,15,0,0,0
+46,"10:30 AM","Butternut Squash Soup LARGE",3,66,0,0,0
+46,"10:30 AM","Butternut Squash Soup SMALL",2,24,0,0,0
+46,"10:30 AM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+46,"10:30 AM","rotating - tandem",1,20,0,0,0
+46,"10:30 AM","Mummy Surprize Ball",1,15,0,0,0
+46,"10:30 AM","Croissant - Isatopia Card",1,7,0,0,0
+46,"10:30 AM","Meatloaf 2",2,56,0,0,0
+46,"10:30 AM","Meatloaf with Brussels",2,72,0,0,0
+46,"10:30 AM","Ronchi Di Cialla",1,20,0,0,0
+46,"10:30 AM","Merry Christmas Card",1,4,0,0,0
+46,"10:30 AM","Happy Birthday with a shoe",1,6,0,0,0
+46,"10:30 AM","Christmas Ale",1,16,0,0,0
+46,"10:30 AM","Frosty",3,24,0,0,0
+46,"10:30 AM","Gingerbread Man",2,16,0,0,0
+46,"10:30 AM","maeve - pumpkin spice",1,7,0,0,0
+46,"10:30 AM","Maeve Bon Bon Box",1,24,0,0,0
+46,"10:30 AM","Night Chocolates Maeve",1,14,0,0,0
+46,"10:30 AM","Peanut Butter Banana Bar Maeve",1,7.5,0,0,0
+46,"10:30 AM","Framboise Chocolate Bar",1,13,0,0,0
+46,"10:30 AM","Coeurs Dark Choc Heart Bar",2,26,0,0,0
+46,"10:30 AM","Turkey Sandwich",19,247,0,0,0
+46,"10:30 AM","Ham & Brie",22,286,0,0,0
+46,"10:30 AM","EDISTO - HOT HONEY",1,18,0,0,0
+46,"10:30 AM","Whipped Honey",2,36,0,0,0
+46,"10:30 AM","Cheerwine Soda",1,3,0,0,0
+46,"10:30 AM","Orange Juice",1,8,0,0,0
+46,"10:30 AM","A&W Rootbeer",1,3,0,0,0
+46,"10:30 AM","Sparkling Apple Juice",4,19,0,0,0
+46,"10:30 AM","Sm Saratoga Water",5,20,0,0,0
+46,"10:30 AM","Sm Sparkling - Saratoga",1,4,0,0,0
+46,"10:30 AM","Rotating Sandwich",8,104,0,0,0
+46,"10:30 AM","Roast Chicken Sandwich",19,244.4,0,0,0
+46,"10:30 AM","VANDY - Original",2,32,0,0,0
+46,"10:30 AM","Vandy Smokehouse BBQ",1,16,0,0,0
+46,"10:30 AM","Tomato Soup small",5,60,0,0,0
+46,"10:30 AM","Food Your Want to Eat cookbook",1,17.5,0,0,0
+46,"10:30 AM","Cantina Marilina Sikele",1,30,0,0,0
+46,"10:30 AM","Le Bon Garcon - Strawberry Sakura Caramels",2,56,0,0,0
+46,"10:30 AM","SHARE Plainish Sourdough Crackers",3,36,0,0,0
+46,"10:30 AM","Archivist card",1,7,0,0,0
+46,"10:30 AM","Roast Beef Sandwich",1,13,0,0,0
+46,"10:30 AM","Birthday Truffle Bar Maeve",3,21,0,0,0
+46,"10:30 AM","Sirloin Chucktown Acres",1,42,0,0,0
+46,"10:30 AM","Cinnamon Rolls",1,22.5,0,0,0
+46,"10:30 AM","Chucktown Acres - Burger Patties",1,34,0,0,0
+46,"10:30 AM","Happy Birthday CAKE - Isatopia Card",2,14,0,0,0
+46,"10:30 AM","French Toast Casserole",1,24,0,0,0
+46,"10:30 AM","Hot Girl Pickles Bread and Butter Chips",1,14,0,0,0
+46,"10:30 AM","Roasted Chicken for two",1,28,0,0,0
+46,"10:30 AM","Mini Sockerbit Flowers and bunnies",4,29,0,0,0
+46,"10:30 AM","SHARE Everything Crackers",2,24,0,0,0
+46,"10:30 AM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+46,"10:30 AM","Bon bon Sour BLACKBERRY Fish Candy",4,32,0,0,0
+46,"10:30 AM","Ve Ve Vinho Verde",1,22,0,0,0
+46,"10:30 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+46,"10:30 AM","Pra Morandina Valpolicella",2,66,0,0,0
+46,"10:30 AM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+46,"10:30 AM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+46,"10:30 AM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+46,"10:30 AM","Pasta Salad",1,10,0,0,0
+46,"10:30 AM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+46,"10:30 AM","MASA Tortilla Chips COBANERO",5,80,0,0,0
+46,"10:30 AM","Date Better - SNICKERDOODLE",2,16,0,0,0
+46,"10:30 AM","Mini Strawberry sockerbit",6,27,0,0,0
+46,"10:30 AM","TLO Vietnamese Lemonade",1,7,0,0,0
+46,"10:30 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+46,"10:30 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+46,"10:30 AM","MASA Tortilla Chips Traditional",4,64,0,0,0
+46,"10:30 AM","Lorenza Rosé",1,30,0,0,0
+46,"10:30 AM","Kombucha Ginger Hibiscus",1,5.85,0,0,0
+47,"10:45 AM","Advantage Program",0,370.89,0,0,0
+47,"10:45 AM","Mercado Famous Jamon Serrania",1,22,0,0,0
+47,"10:45 AM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+47,"10:45 AM","Open Food",9,181,0,1,16
+47,"10:45 AM","Open Beverage",2,62.5,0,0,0
+47,"10:45 AM","Focaccia - Petit",21,315,0,0,0
+47,"10:45 AM","Whipped ricotta",7,84,0,0,0
+47,"10:45 AM","Breakfast Sandwich",20,200,0,0,0
+47,"10:45 AM","Benton's Bacon",2,60,0,0,0
+47,"10:45 AM","Baked Ziti W/ Meatballs",5,180,0,0,0
+47,"10:45 AM","Deposit",1,750,0,0,0
+47,"10:45 AM","Chocolate Chip Cookie",60,240,0,2,8
+47,"10:45 AM","Dog Treats",3,14.5,0,0,0
+47,"10:45 AM","Muffin",31,155,0,0,0
+47,"10:45 AM","Beef Stroganoff",1,38,0,0,0
+47,"10:45 AM","Crunchy Pony Peanut Butter",1,8,0,0,0
+47,"10:45 AM","Benton's Summer Stack",4,52,0,0,0
+47,"10:45 AM","Chilled Green Corn Soup",1,22,0,0,0
+47,"10:45 AM","Chicken Soup",1,22,0,0,0
+47,"10:45 AM","Corn Chowder",1,22,0,0,0
+47,"10:45 AM","Sunday Suppers Recipes + Gatherings",2,56.98,0,0,0
+47,"10:45 AM","SHARE Zaatar Crackers",3,36,0,0,0
+47,"10:45 AM","MALDON - Pink Salt",1,11,0,0,0
+47,"10:45 AM","Olive Tapenade",3,30,0,0,0
+47,"10:45 AM","Lemon Scones",2,11.4,0,0,0
+47,"10:45 AM","Tomato Soup",1,22,0,0,0
+47,"10:45 AM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+47,"10:45 AM","Resin Napkin Rings",8,56,0,0,0
+47,"10:45 AM","Shepherd's Pie",3,114,0,0,0
+47,"10:45 AM","Piecework - Pie Cocktail Napkins",1,44,0,0,0
+47,"10:45 AM","Sausage - Jalapeno",1,18,0,0,0
+47,"10:45 AM","Sausage - Sweet Italian",1,18,0,0,0
+47,"10:45 AM","Taper Candles - Greentree",1,16,0,0,0
+47,"10:45 AM","Cinnamon Hot cocoa Tin",1,15,0,0,0
+47,"10:45 AM","Bravo - Isatopia Card",1,7,0,0,0
+47,"10:45 AM","Potter's Flat Breads",1,15,0,0,0
+47,"10:45 AM","Lady Joseph Crackers",4,44,0,0,0
+47,"10:45 AM","Tinsel Rolls",1,6,0,0,0
+47,"10:45 AM","House Matches",1,24,0,0,0
+47,"10:45 AM","Animal Crackers",2,32,0,0,0
+47,"10:45 AM","Food Orament",1,18,0,0,0
+47,"10:45 AM","Golden Milk Lattee",3,21,0,0,0
+47,"10:45 AM","Cappuccino",19,98.45,0,0,0
+47,"10:45 AM","Matcha Latte",45,337.2,0,0,0
+47,"10:45 AM","Chai Latte",4,23.4,0,0,0
+47,"10:45 AM","Cortado",10,45,0,0,0
+47,"10:45 AM","Espresso",5,15,0,0,0
+47,"10:45 AM","Latte",122,727.8,0,0,0
+47,"10:45 AM","Add Syrup",108,107.3,0,0,0
+47,"10:45 AM","Americano",15,60,0,0,0
+47,"10:45 AM","Peach Syrup",8,15.8,0,0,0
+47,"10:45 AM","Le Fluffernut",5,40,0,0,0
+47,"10:45 AM","Cold Brew",10,65,0,0,0
+47,"10:45 AM","All Roads Cotton Napkins (x2)",1,38,0,0,0
+47,"10:45 AM","Open Retail",13,336.4,0,0,0
+47,"10:45 AM","Pm tumbler",2,80,0,0,0
+47,"10:45 AM","Sea Lover's Cookbook",1,27.95,0,0,0
+47,"10:45 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+47,"10:45 AM","Cookie Asst.",29,116,0,0,0
+47,"10:45 AM","Thai Beef Curry",1,38,0,0,0
+47,"10:45 AM","Rotating Salad",3,54,0,0,0
+47,"10:45 AM","Chicken and Broccoli",1,36,0,0,0
+47,"10:45 AM","Frankie's Classic New York Deli Pickles",3,39,0,0,0
+47,"10:45 AM","EDISTO - HONEY",2,36,0,0,0
+47,"10:45 AM","French Butter Biscuits - IN TIN",2,36,0,0,0
+47,"10:45 AM","MALDON - Smoked Sea Salt",1,10,0,0,0
+47,"10:45 AM","Maldon Salt Regular",1,12,0,0,0
+47,"10:45 AM","MASA - Tortilla Chips LIME",1,16,0,0,0
+47,"10:45 AM","Pecans Milk Chocolate Covered Zorro",2,38,0,0,0
+47,"10:45 AM","Ruby Apricot - Marmalade Grows",13,117,0,0,0
+47,"10:45 AM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+47,"10:45 AM","Granola Pistachio Sour Cherry Sweet Deliverance",1,18,0,0,0
+47,"10:45 AM","Turkey and the Wolf Flavor Trippin' in New Orleans",1,30,0,0,0
+47,"10:45 AM","Its Complicated being a Wizard - BBCO",1,18,0,0,0
+47,"10:45 AM","GIDDY UP NUTS - Original",2,38,0,0,0
+47,"10:45 AM","Louis Metaireau",1,26,0,0,0
+47,"10:45 AM","Paolo Scavino Vino Rosso",2,60,0,0,0
+47,"10:45 AM","Luna Duna Naranjo",1,28,0,0,0
+47,"10:45 AM","VANDY - Herbs de Provence",1,16,0,0,0
+47,"10:45 AM","Small Matchboxes",1,14,0,0,0
+47,"10:45 AM","SALT & TWINE - Salted Fennel",2,18,0,0,0
+47,"10:45 AM","Chocolate Mousse Trifles",1,6,0,0,0
+47,"10:45 AM","Ramona Sparkling Rose",1,26,0,0,0
+47,"10:45 AM","Butternut Squash Soup LARGE",1,22,0,0,0
+47,"10:45 AM","Butternut Squash Soup SMALL",6,72,0,0,0
+47,"10:45 AM","rotating - tandem",1,20,0,0,0
+47,"10:45 AM","Safety Matches",1,21,0,0,0
+47,"10:45 AM","one trick pony - popcorn",1,8,0,0,0
+47,"10:45 AM","Placecards Hester & Cook",3,36,0,0,0
+47,"10:45 AM","Table Cards Hester & Cook",1,16,0,0,0
+47,"10:45 AM","Table Runner ""dinner party""",1,35,0,0,0
+47,"10:45 AM","White Chicken Chili LARGE",1,22,0,0,0
+47,"10:45 AM","Cherries Jubilee Boulevard Brewing",1,16,0,0,0
+47,"10:45 AM","Frosty",3,24,0,0,0
+47,"10:45 AM","Gingerbread Man",5,40,0,0,0
+47,"10:45 AM","Maeve Bon Bon Box",2,48,0,0,0
+47,"10:45 AM","Turkey Sandwich",31,396.5,0,0,0
+47,"10:45 AM","Ham & Brie",23,291.2,0,0,0
+47,"10:45 AM","Cheerwine Soda",3,9,0,0,0
+47,"10:45 AM","Lg Flat Water - Saratoga",2,8,0,0,0
+47,"10:45 AM","Orange Juice",1,8,0,0,0
+47,"10:45 AM","Sparkling Apple Juice",3,15,0,0,0
+47,"10:45 AM","Sm Saratoga Water",11,44,0,0,0
+47,"10:45 AM","Sm Sparkling - Saratoga",1,4,0,0,0
+47,"10:45 AM","Rotating Sandwich",9,117,0,0,0
+47,"10:45 AM","Sm Sparkling Saratoga",2,8,0,0,0
+47,"10:45 AM","Peches Soda",1,3,0,0,0
+47,"10:45 AM","Roast Chicken Sandwich",24,305.5,0,0,0
+47,"10:45 AM","VANDY - Original",7,112,0,0,0
+47,"10:45 AM","Sweet potato chorizo",1,14,0,0,0
+47,"10:45 AM","JK Carriere Pinot Noir",1,40,0,0,0
+47,"10:45 AM","Ranger Station Candle",1,40,0,0,0
+47,"10:45 AM","Le Bon Garcon - Strawberry Sakura Caramels",1,28,0,0,0
+47,"10:45 AM","L'Alpage Chasselas",1,30,0,0,0
+47,"10:45 AM","Fattoria di Sammontana Chianti",2,56,0,0,0
+47,"10:45 AM","Archivist card",1,7,0,0,0
+47,"10:45 AM","Matchbox Ornament",1,16,0,0,0
+47,"10:45 AM","Extra Large Pommery Mustard",1,14.5,0,0,0
+47,"10:45 AM","Collazzi Chianti Classico 2024",1,32,0,0,0
+47,"10:45 AM","Birthday Truffle Bar Maeve",2,11.2,0,0,0
+47,"10:45 AM","Cinnamon Rolls",6,150,0,0,0
+47,"10:45 AM","French Toast Casserole",1,24,0,0,0
+47,"10:45 AM","Alpine Red California Red Wine",3,72,0,0,0
+47,"10:45 AM","Roasted Chicken for two",1,28,0,0,0
+47,"10:45 AM","Mini Sockerbit Flowers and bunnies",3,36.4,0,0,0
+47,"10:45 AM","Biscuits",2,32,0,0,0
+47,"10:45 AM","SHARE Everything Crackers",2,24,0,0,0
+47,"10:45 AM","Trillium Melcher Street IPA",1,20,0,0,0
+47,"10:45 AM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+47,"10:45 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+47,"10:45 AM","Ayoh Dill Pickle Mayo Sando Sauce",3,36,0,0,0
+47,"10:45 AM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+47,"10:45 AM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+47,"10:45 AM","Bon Bon Sour PEACH Swedish Fish",4,32,0,0,0
+47,"10:45 AM","MASA Tortilla Chips COBANERO",3,48,0,0,0
+47,"10:45 AM","Date Better - SNICKERDOODLE",2,16,0,0,0
+47,"10:45 AM","Mini Strawberry sockerbit",5,20.5,0,0,0
+47,"10:45 AM","Kombucha Pear",1,6.5,0,0,0
+47,"10:45 AM","Focaccia",1,18,0,0,0
+47,"10:45 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",6,48,0,0,0
+47,"10:45 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",3,24,0,0,0
+47,"10:45 AM","MASA Tortilla Chips Traditional",2,32,0,0,0
+47,"10:45 AM","Gummy Easter Sockerbit",1,14,0,0,0
+47,"10:45 AM","Card Amy Zhang",1,5,0,0,0
+47,"10:45 AM","Kombucha Ginger Hibiscus",1,6.5,0,0,0
+47,"10:45 AM","Kombucha Yuzu",2,12.35,0,0,0
+48,"11:00 AM","Advantage Program",0,429.14,0,0,0
+48,"11:00 AM","Mercado Famous Jamon Serrania",1,22,0,0,0
+48,"11:00 AM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+48,"11:00 AM","Comptoir Du Cacao",3,36,0,0,0
+48,"11:00 AM","Open Food",21,302.01,0,0,0
+48,"11:00 AM","Open Beverage",3,45,0,0,0
+48,"11:00 AM","Open Wine",4,121,0,0,0
+48,"11:00 AM","Open Beer",1,16,0,0,0
+48,"11:00 AM","Focaccia - Petit",19,283.5,0,0,0
+48,"11:00 AM","Pimento Cheese",1,14,0,0,0
+48,"11:00 AM","Whipped ricotta",14,166.8,0,0,0
+48,"11:00 AM","Breakfast Sandwich",15,150,0,0,0
+48,"11:00 AM","Benton's Bacon",3,90,0,0,0
+48,"11:00 AM","Playing Cards",1,15,0,0,0
+48,"11:00 AM","Baked Ziti W/ Meatballs",5,180,0,0,0
+48,"11:00 AM","Chocolate Chip Cookie",61,244,0,0,0
+48,"11:00 AM","Dog Treats",7,35,0,0,0
+48,"11:00 AM","Muffin",22,110,0,0,0
+48,"11:00 AM","All Roads Table Cloth",1,170,0,0,0
+48,"11:00 AM","Beef Stroganoff",4,152,0,0,0
+48,"11:00 AM","Cider",1,8,0,0,0
+48,"11:00 AM","Benton's Summer Stack",3,39,0,0,0
+48,"11:00 AM","Chicken w Ratatouille",3,108,0,0,0
+48,"11:00 AM","White Loaf",1,14,0,0,0
+48,"11:00 AM","Pop-Chips Truffle",1,8,0,0,0
+48,"11:00 AM","Blue Boy - Methodical",1,20,0,0,0
+48,"11:00 AM","GUZZINI CUP - Green",1,11,0,0,0
+48,"11:00 AM","High Glass Guzzini - TEAL",1,12,0,0,0
+48,"11:00 AM","MY DRAP - SMALL NAPKIN ROLL DARK GREY",1,20,0,0,0
+48,"11:00 AM","SHARE Zaatar Crackers",1,12,0,0,0
+48,"11:00 AM","MALDON - Pink Salt",1,11,0,0,0
+48,"11:00 AM","Vegetable Minestrone",1,22,0,0,0
+48,"11:00 AM","Lemon Scones",1,6,0,0,0
+48,"11:00 AM","Salchichon Iberico",1,18,0,0,0
+48,"11:00 AM","Resin Napkin Rings",12,84,0,0,0
+48,"11:00 AM","Moonstruck Black Cat Bar Dark Chocolate",1,8,0,0,0
+48,"11:00 AM","Le Bon Garcon - Cider + Spice",1,23,0,0,0
+48,"11:00 AM","Shepherd's Pie",2,76,0,0,0
+48,"11:00 AM","Dozen Eggs",1,12,0,0,0
+48,"11:00 AM","Forx Farm Butter",1,22,0,0,0
+48,"11:00 AM","Fratelli Alessandria Barbera D'Alba",1,32,0,0,0
+48,"11:00 AM","Taper Candles Color Block",1,17,0,0,0
+48,"11:00 AM","Pommery Mustard w Cognac",1,24,0,0,0
+48,"11:00 AM","Bisous - Isatopia Card",1,7,0,0,0
+48,"11:00 AM","Sun Lamp",1,20,0,0,0
+48,"11:00 AM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+48,"11:00 AM","Orange Surprise Ball",2,28,0,0,0
+48,"11:00 AM","Peppermint Logs",3,15,0,0,0
+48,"11:00 AM","House Matches",1,24,0,0,0
+48,"11:00 AM","Animal Crackers",3,48,0,0,0
+48,"11:00 AM","Placemats Gingerbread",1,33,0,0,0
+48,"11:00 AM","Food Orament",1,18,0,0,0
+48,"11:00 AM","Golden Milk Lattee",2,14,0,0,0
+48,"11:00 AM","Cappuccino",17,92.95,0,0,0
+48,"11:00 AM","Matcha Latte",42,311.6,0,0,0
+48,"11:00 AM","Chai Latte",12,71.4,0,0,0
+48,"11:00 AM","Cortado",10,45,0,0,0
+48,"11:00 AM","Espresso",7,20.7,0,0,0
+48,"11:00 AM","Latte",133,781.8,0,3,18
+48,"11:00 AM","Tea",1,4,0,0,0
+48,"11:00 AM","Add Syrup",112,110,0,1,1
+48,"11:00 AM","Americano",13,51.2,0,0,0
+48,"11:00 AM","Lemonade",3,14.5,0,0,0
+48,"11:00 AM","Peach Syrup",3,5.4,0,0,0
+48,"11:00 AM","Le Fluffernut",4,30.4,0,0,0
+48,"11:00 AM","Cold Brew",12,76.05,0,0,0
+48,"11:00 AM","Saint Nick's Piper - Ranger Station",1,40,0,0,0
+48,"11:00 AM","All Roads Cotton Napkins (x2)",3,114,0,0,0
+48,"11:00 AM","Open Retail",16,201,0,0,0
+48,"11:00 AM","Tarts Anon",1,35,0,0,0
+48,"11:00 AM","Surprise Party Legally Addictive",1,11,0,0,0
+48,"11:00 AM","OG Legally Addictive",1,8.1,0,0,0
+48,"11:00 AM","Sockerbit SPOOKY Gummy Mix",2,24,0,0,0
+48,"11:00 AM","Brownie",2,12,0,0,0
+48,"11:00 AM","Cookie Asst.",22,88,0,0,0
+48,"11:00 AM","Honey Wheat Loaf",1,14,0,0,0
+48,"11:00 AM","Thai Beef Curry",3,114,0,0,0
+48,"11:00 AM","Rotating Salad",7,126,0,0,0
+48,"11:00 AM","Pound Cake",4,20,0,0,0
+48,"11:00 AM","Chicken Picata",2,64,0,0,0
+48,"11:00 AM","Frankie's Classic New York Deli Pickles",1,13,0,0,0
+48,"11:00 AM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+48,"11:00 AM","French Butter Biscuits - IN TIN",1,18,0,0,0
+48,"11:00 AM","Maldon Salt Regular",1,12,0,0,0
+48,"11:00 AM","Granola Strawberry and Salty Peanut Sweet Delivera",2,34,0,0,0
+48,"11:00 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",4,44,0,0,0
+48,"11:00 AM","Got Grapes -",1,30,0,0,0
+48,"11:00 AM","Its Complicated being a Wizard - BBCO",1,18,0,0,0
+48,"11:00 AM","Thierry Germain Domaine Des Roches Neuves Saumur C",1,40,0,0,0
+48,"11:00 AM","Calcite Pouilly Fume",1,36,0,0,0
+48,"11:00 AM","Bizzaro Spritz Can",1,12,0,0,0
+48,"11:00 AM","GIDDY UP NUTS - Rosemary Garlic",1,19,0,0,0
+48,"11:00 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",4,48,0,0,0
+48,"11:00 AM","VANDY - Herbs de Provence",1,16,0,0,0
+48,"11:00 AM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+48,"11:00 AM","8 oz Chicken Salad",1,15,0,0,0
+48,"11:00 AM","Bjorn Qorn TRUFFLE",1,8,0,0,0
+48,"11:00 AM","Bjorn Qorn CLASSIC",3,24,0,0,0
+48,"11:00 AM","Butternut Squash Soup SMALL",1,12,0,0,0
+48,"11:00 AM","rotating - tandem",1,10,0,0,0
+48,"11:00 AM","Mummy Surprize Ball",2,30,0,0,0
+48,"11:00 AM","maine beer - woods and waters",3,36,0,0,0
+48,"11:00 AM","Safety Matches",1,21,0,0,0
+48,"11:00 AM","one trick pony - popcorn",1,8,0,0,0
+48,"11:00 AM","Placecards Hester & Cook",2,24,0,0,0
+48,"11:00 AM","Meatloaf 2",1,28,0,0,0
+48,"11:00 AM","Frosty",6,47.2,0,0,0
+48,"11:00 AM","Night Chocolates Maeve",3,42,0,0,0
+48,"11:00 AM","Heart Surprise Tops",1,30,0,0,0
+48,"11:00 AM","Framboise Chocolate Bar",1,13,0,0,0
+48,"11:00 AM","Fraise Chocolate Bar",1,13,0,0,0
+48,"11:00 AM","Turkey Sandwich",40,508.95,0,0,0
+48,"11:00 AM","Ham & Brie",38,487.5,0,0,0
+48,"11:00 AM","Achillée Alsace",3,90,0,0,0
+48,"11:00 AM","Whipped Honey",1,18,0,0,0
+48,"11:00 AM","Cheerwine Soda",5,15,0,0,0
+48,"11:00 AM","Lg Saratoga Water",1,8,0,0,0
+48,"11:00 AM","A&W Rootbeer",1,3,0,0,0
+48,"11:00 AM","Peach Soda",2,6,0,0,0
+48,"11:00 AM","Sparkling Apple Juice",3,15,0,0,0
+48,"11:00 AM","Sm Saratoga Water",8,32,0,0,0
+48,"11:00 AM","Rotating Sandwich",11,140.4,0,0,0
+48,"11:00 AM","Sm Sparkling Saratoga",1,4,0,0,0
+48,"11:00 AM","Peches Soda",1,3,0,0,0
+48,"11:00 AM","Root 42 Soda",1,3,0,0,0
+48,"11:00 AM","Roast Chicken Sandwich",34,440.7,0,1,13
+48,"11:00 AM","VANDY - Original",9,144,0,0,0
+48,"11:00 AM","Vandy Smokehouse BBQ",1,16,0,0,0
+48,"11:00 AM","Sweet potato chorizo",1,14,0,0,0
+48,"11:00 AM","Tomato Soup small",2,24,0,0,0
+48,"11:00 AM","Chicken Curry",2,50,0,0,0
+48,"11:00 AM","Marine Layer Pinot Noir",1,76,0,0,0
+48,"11:00 AM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+48,"11:00 AM","Cantina Marilina Sikele",1,30,0,0,0
+48,"11:00 AM","Drink Ticket House of Gleason cocktail napkins",1,52,0,0,0
+48,"11:00 AM","SHARE Plainish Sourdough Crackers",1,12,0,0,0
+48,"11:00 AM","Buffalo Chicken Dip",1,15,0,0,0
+48,"11:00 AM","L'Alpage Chasselas",1,30,0,0,0
+48,"11:00 AM","Notelet Archivist card",4,20,0,0,0
+48,"11:00 AM","Matchbox Ornament",1,16,0,0,0
+48,"11:00 AM","Cookie Cake",2,30,0,0,0
+48,"11:00 AM","Tea Tin Fete de Versailles",1,22,0,0,0
+48,"11:00 AM","Famille Gras Les Vieilles Vignes",1,30,0,0,0
+48,"11:00 AM","Roast Beef Sandwich",2,30,0,0,0
+48,"11:00 AM","Trillium Congress Street IPA",1,20,0,0,0
+48,"11:00 AM","Birthday Truffle Bar Maeve",4,28,0,0,0
+48,"11:00 AM","Cinnamon Rolls",5,125,0,0,0
+48,"11:00 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,16,0,0,0
+48,"11:00 AM","Chucktown Acres - Bone-in Pork Chops",2,58,0,0,0
+48,"11:00 AM","Merci t-shirt",1,24,0,0,0
+48,"11:00 AM","Jolie-Laide Glou D'etat Red Blend",1,28,0,0,0
+48,"11:00 AM","SHARE Everything Crackers",4,48,0,0,0
+48,"11:00 AM","Trillium Melcher Street IPA",1,22,0,0,0
+48,"11:00 AM","Bon bon Sour BLACKBERRY Fish Candy",3,24,0,0,0
+48,"11:00 AM","Ve Ve Vinho Verde",1,22,0,0,0
+48,"11:00 AM","Dilenquente-Weeping Juan",1,30,0,0,0
+48,"11:00 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+48,"11:00 AM","Pra Morandina Valpolicella",2,66,0,0,0
+48,"11:00 AM","Passerine Brut Blanca",1,30,0,0,0
+48,"11:00 AM","Tiberio Cerasuolo",1,40,0,0,0
+48,"11:00 AM","Cedre Heritage Malbec Cahors",1,30,0,0,0
+48,"11:00 AM","Sausage - Blueberry",2,60,0,0,0
+48,"11:00 AM","Marchesi di Gresy Barbaresco Martinenga",1,60,0,0,0
+48,"11:00 AM","Poggio Anima Montepulciano D'Abruzzo",1,22,0,0,0
+48,"11:00 AM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+48,"11:00 AM","Bon Bon Sour PEACH Swedish Fish",3,24,0,0,0
+48,"11:00 AM","MASA Tortilla Chips COBANERO",5,72,0,0,0
+48,"11:00 AM","Root Beer Maine Root Soda",2,6,0,0,0
+48,"11:00 AM","Date Better - SNICKERDOODLE",4,32,0,0,0
+48,"11:00 AM","Mini Strawberry sockerbit",4,14,0,0,0
+48,"11:00 AM","TLO Vietnamese Lemonade",3,20.3,0,0,0
+48,"11:00 AM","TLO Matcha Lemonade",2,14,0,0,0
+48,"11:00 AM","Sugar Roses & Flowers",1,20,0,0,0
+48,"11:00 AM","Kombucha Pear",1,6.5,0,0,0
+48,"11:00 AM","Focaccia",1,18,0,0,0
+48,"11:00 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",6,48,0,0,0
+48,"11:00 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",4,32,0,0,0
+48,"11:00 AM","MASA Tortilla Chips Traditional",4,64,0,0,0
+48,"11:00 AM","Blueberry Maine Root Soda",3,9,0,0,0
+48,"11:00 AM","TLO Pandan Coconut",2,14,0,0,0
+48,"11:00 AM","Card Amy Zhang",7,35,0,0,0
+48,"11:00 AM","Kombucha Ginger Hibiscus",1,6.5,0,1,6.5
+49,"11:15 AM","Advantage Program",0,395.19,0,0,0
+49,"11:15 AM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+49,"11:15 AM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+49,"11:15 AM","Open Food",9,147,0,0,0
+49,"11:15 AM","Open Beverage",4,32.5,0,0,0
+49,"11:15 AM","Open Wine",8,249,0,0,0
+49,"11:15 AM","Open Beer",2,38,0,0,0
+49,"11:15 AM","Focaccia - Petit",15,225,0,0,0
+49,"11:15 AM","Pimento Cheese",2,28,0,0,0
+49,"11:15 AM","Whipped ricotta",12,144,0,0,0
+49,"11:15 AM","Breakfast Sandwich",3,30,0,0,0
+49,"11:15 AM","Baked Ziti W/ Meatballs",4,144,0,0,0
+49,"11:15 AM","Chocolate Chip Cookie",69,274,0,0,0
+49,"11:15 AM","Dog Treats",3,15,0,0,0
+49,"11:15 AM","Muffin",23,114.5,0,0,0
+49,"11:15 AM","Beef Stroganoff",3,114,0,0,0
+49,"11:15 AM","Roast Beef",1,18,0,0,0
+49,"11:15 AM","Cider",1,8,0,0,0
+49,"11:15 AM","Benton's Summer Stack",6,78,0,0,0
+49,"11:15 AM","SPRING & MULBERRY Chocolate PURE DARK",1,8,0,0,0
+49,"11:15 AM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+49,"11:15 AM","MY DRAP - SMALL NAPKIN ROLL DARK GREY",1,20,0,0,0
+49,"11:15 AM","Lemon Scones",3,18,0,0,0
+49,"11:15 AM","French Kitchen Lessons",2,80,0,1,40
+49,"11:15 AM","Chocolate Sardines",1,18,0,0,0
+49,"11:15 AM","Resin Napkin Rings",2,14,0,0,0
+49,"11:15 AM","Shepherd's Pie",8,304,0,0,0
+49,"11:15 AM","Sun Lamp",1,20,0,0,0
+49,"11:15 AM","Taper Candles - Greentree",2,32,0,0,0
+49,"11:15 AM","Holiday Light - House of Gleason",1,33.6,0,0,0
+49,"11:15 AM","Holly Berry Surprise Ball",1,12,0,0,0
+49,"11:15 AM","The Dinner Party",1,42,0,0,0
+49,"11:15 AM","Lady Joseph Crackers",1,11,0,0,0
+49,"11:15 AM","Thank you card",1,6,0,0,0
+49,"11:15 AM","HBD Card",1,6,0,0,0
+49,"11:15 AM","Peppermint Logs",10,50,0,0,0
+49,"11:15 AM","Bloody Mary Crackers",1,16,0,0,0
+49,"11:15 AM","Jumbo Merry Christmas",1,68,0,0,0
+49,"11:15 AM","Animal Crackers",1,16,0,0,0
+49,"11:15 AM","Golden Milk Lattee",2,14,0,1,7
+49,"11:15 AM","Cappuccino",23,126.5,0,0,0
+49,"11:15 AM","Matcha Latte",44,337.6,0,0,0
+49,"11:15 AM","Chai Latte",9,51.6,0,0,0
+49,"11:15 AM","Cortado",8,36,0,0,0
+49,"11:15 AM","Espresso",5,14.7,0,0,0
+49,"11:15 AM","Latte",128,757.8,0,0,0
+49,"11:15 AM","Tea",1,3.6,0,0,0
+49,"11:15 AM","Add Syrup",101,99.6,0,1,1
+49,"11:15 AM","Americano",15,60,0,0,0
+49,"11:15 AM","Lemonade",2,10,0,0,0
+49,"11:15 AM","Peach Syrup",8,15.8,0,0,0
+49,"11:15 AM","Le Fluffernut",2,16,0,0,0
+49,"11:15 AM","Cold Brew",7,45.5,0,0,0
+49,"11:15 AM","All Roads Cotton Napkins (x2)",1,38,0,0,0
+49,"11:15 AM","Open Retail",16,160.1,0,0,0
+49,"11:15 AM","Pm tumbler",1,40,0,0,0
+49,"11:15 AM","Surprise Party Legally Addictive",1,9,0,0,0
+49,"11:15 AM","OG Legally Addictive",2,20,0,0,0
+49,"11:15 AM","Sockerbit SPOOKY Gummy Mix",4,48,0,0,0
+49,"11:15 AM","Fall Harvest Salad",1,22,0,0,0
+49,"11:15 AM","Cookie Asst.",25,99.2,0,0,0
+49,"11:15 AM","Thai Beef Curry",2,76,0,0,0
+49,"11:15 AM","Rotating Salad",5,90,0,0,0
+49,"11:15 AM","Pound Cake",2,10,0,0,0
+49,"11:15 AM","EDISTO - HONEY",1,18,0,0,0
+49,"11:15 AM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+49,"11:15 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+49,"11:15 AM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+49,"11:15 AM","MASA - Tortilla Chips BLUE",1,16,0,0,0
+49,"11:15 AM","GIDDY UP NUTS - Original",1,19,0,0,0
+49,"11:15 AM","Paolo Scavino Vino Rosso",1,40,0,0,0
+49,"11:15 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+49,"11:15 AM","VANDY - Herbs de Provence",2,32,0,0,0
+49,"11:15 AM","Pop tart",1,5,0,0,0
+49,"11:15 AM","SALT & TWINE - Prosciutto",1,9,0,0,0
+49,"11:15 AM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+49,"11:15 AM","8 oz Chicken Salad",1,15,0,0,0
+49,"11:15 AM","Chocolate Mousse Trifles",1,6,0,0,0
+49,"11:15 AM","Bjorn Qorn TRUFFLE",1,8,0,0,0
+49,"11:15 AM","Large Crow Canyon Plate",4,80,0,0,0
+49,"11:15 AM","MALDON - Chili Salt",1,12,0,1,12
+49,"11:15 AM","Butternut Squash Soup LARGE",1,22,0,0,0
+49,"11:15 AM","Butternut Squash Soup SMALL",3,36,0,0,0
+49,"11:15 AM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+49,"11:15 AM","rotating - tandem",1,20,0,0,0
+49,"11:15 AM","Placecards Hester & Cook",1,12,0,0,0
+49,"11:15 AM","Table Runner ""dinner party""",1,35,0,0,0
+49,"11:15 AM","Meatloaf 2",3,84,0,0,0
+49,"11:15 AM","Meatloaf with Brussels",4,144,0,0,0
+49,"11:15 AM","Sugar plum surprise ball",2,28,0,0,0
+49,"11:15 AM","Frosty",2,16,0,0,0
+49,"11:15 AM","Gingerbread Man",2,16,0,0,0
+49,"11:15 AM","Santa's Camper - Maeve",1,12,0,0,0
+49,"11:15 AM","Night Chocolates Maeve",1,14,0,0,0
+49,"11:15 AM","Framboise Chocolate Bar",1,13,0,0,0
+49,"11:15 AM","Turkey Sandwich",47,603.2,0,0,0
+49,"11:15 AM","Ham & Brie",34,436.8,0,0,0
+49,"11:15 AM","EDISTO - HOT HONEY",1,18,0,0,0
+49,"11:15 AM","Whipped Honey",1,18,0,0,0
+49,"11:15 AM","Cheerwine Soda",2,6,0,0,0
+49,"11:15 AM","Lg Saratoga Water",1,8,0,0,0
+49,"11:15 AM","Orange Juice",2,16,0,0,0
+49,"11:15 AM","Sparkling Apple Juice",2,10,0,0,0
+49,"11:15 AM","Flat Apple Juice",1,8,0,0,0
+49,"11:15 AM","Sm Saratoga Water",6,24,0,0,0
+49,"11:15 AM","Rotating Sandwich",15,192.4,0,0,0
+49,"11:15 AM","Sm Sparkling Saratoga",5,20,0,0,0
+49,"11:15 AM","Root Beer",2,6,0,0,0
+49,"11:15 AM","Peches Soda",3,8.7,0,0,0
+49,"11:15 AM","Roast Chicken Sandwich",39,505.7,0,0,0
+49,"11:15 AM","VANDY - Original",3,48,0,0,0
+49,"11:15 AM","Tomato Soup small",2,24,0,0,0
+49,"11:15 AM","Ranger Station Candle",3,120,0,0,0
+49,"11:15 AM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+49,"11:15 AM","The Lost Kitchen",1,35,0,0,0
+49,"11:15 AM","Le Bon Garcon - Classic Sea Salt Caramels",1,28,0,0,0
+49,"11:15 AM","Buffalo Chicken Dip",2,32,0,0,0
+49,"11:15 AM","Chicken Chili Small",1,14,0,0,0
+49,"11:15 AM","Archivist card",1,7,0,0,0
+49,"11:15 AM","Cookie Box Valentine",1,40,0,0,0
+49,"11:15 AM","Cookie Cake",1,15,0,0,0
+49,"11:15 AM","Roast Beef Sandwich",3,41,0,0,0
+49,"11:15 AM","Birthday Truffle Bar Maeve",2,14.5,0,0,0
+49,"11:15 AM","Cinnamon Rolls",2,50,0,0,0
+49,"11:15 AM","Blueberry and Sunflower Butter Granola",1,16.2,0,0,0
+49,"11:15 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,16,0,1,16
+49,"11:15 AM","Happy Birthday CAKE - Isatopia Card",1,7,0,0,0
+49,"11:15 AM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+49,"11:15 AM","Merci t-shirt",2,76,0,0,0
+49,"11:15 AM","PM Sweatshirt",1,35.5,0,0,0
+49,"11:15 AM","Alpine Red California Red Wine",1,24,0,0,0
+49,"11:15 AM","Roasted Chicken for two",1,28,0,0,0
+49,"11:15 AM","Mini Sockerbit Flowers and bunnies",4,47,0,0,0
+49,"11:15 AM","Jolie-Laide Glou D'etat Red Blend",1,28,0,0,0
+49,"11:15 AM","SHARE Everything Crackers",3,36,0,0,0
+49,"11:15 AM","Date Better - PEANUT BUTTER CRUNCH",6,48,0,0,0
+49,"11:15 AM","Bon bon Sour BLACKBERRY Fish Candy",4,32,0,0,0
+49,"11:15 AM","Chick Surprise Tops",3,45,0,0,0
+49,"11:15 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+49,"11:15 AM","Passerine Brut Blanca",5,150,0,0,0
+49,"11:15 AM","Pra Otto",1,22,0,0,0
+49,"11:15 AM","Cedre Heritage Malbec Cahors",1,30,0,0,0
+49,"11:15 AM","Ayoh Dill Pickle Mayo Sando Sauce",2,24,0,0,0
+49,"11:15 AM","Lange Sea Salt Pure Flake",1,25,0,0,0
+49,"11:15 AM","Bon Bon Sour PEACH Swedish Fish",5,40,0,0,0
+49,"11:15 AM","MASA Tortilla Chips COBANERO",2,32,0,0,0
+49,"11:15 AM","Hot Girl Pickles Original Dill",1,14,0,0,0
+49,"11:15 AM","Petit Ours Rosé",1,32,0,0,0
+49,"11:15 AM","Mini Strawberry sockerbit",2,8.5,0,0,0
+49,"11:15 AM","TLO Vietnamese Lemonade",1,7,0,0,0
+49,"11:15 AM","TLO Matcha Lemonade",3,20.3,0,0,0
+49,"11:15 AM","Sugar Roses & Flowers",1,20,0,0,0
+49,"11:15 AM","Kombucha Pear",2,13,0,0,0
+49,"11:15 AM","Focaccia",1,18,0,0,0
+49,"11:15 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",5,40,0,0,0
+49,"11:15 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",10,80,0,0,0
+49,"11:15 AM","TLO Pandan Coconut",2,14,0,0,0
+49,"11:15 AM","Card Amy Zhang",4,20,0,0,0
+49,"11:15 AM","Kombucha Yuzu",2,13,0,0,0
+50,"11:30 AM","Advantage Program",0,356.54,0,0,0
+50,"11:30 AM","Date Better - ALMOND JAVA CRUNCH",1,6.8,0,0,0
+50,"11:30 AM","Open Food",17,288,0,0,0
+50,"11:30 AM","Open Wine",4,102.4,0,0,0
+50,"11:30 AM","Open Beer",1,18,0,0,0
+50,"11:30 AM","Focaccia - Petit",13,195,0,0,0
+50,"11:30 AM","Pimento Cheese",3,42,0,0,0
+50,"11:30 AM","Whipped ricotta",5,60,0,0,0
+50,"11:30 AM","Breakfast Sandwich",5,50,0,0,0
+50,"11:30 AM","Benton's Bacon",1,30,0,0,0
+50,"11:30 AM","Playing Cards",1,15,0,0,0
+50,"11:30 AM","Baked Ziti W/ Meatballs",7,256,0,0,0
+50,"11:30 AM","Chocolate Chip Cookie",49,195.6,0,0,0
+50,"11:30 AM","Dog Treats",3,15,0,0,0
+50,"11:30 AM","Muffin",26,130,0,0,0
+50,"11:30 AM","All Roads Table Cloth",1,170,0,0,0
+50,"11:30 AM","Beef Stroganoff",4,152,0,0,0
+50,"11:30 AM","Benton's Summer Stack",1,13,0,0,0
+50,"11:30 AM","Chicken w Ratatouille",2,72,0,0,0
+50,"11:30 AM","MY DRAP - SMALL NAPKIN ROLL DARK GREY",1,20,0,0,0
+50,"11:30 AM","Vegetable Minestrone",1,22,0,0,0
+50,"11:30 AM","Lemon Scones",4,23.4,0,0,0
+50,"11:30 AM","Sausage - Mild Pork",1,24,0,0,0
+50,"11:30 AM","EDISTO - BLUEBERRY HONEY",2,36,0,0,0
+50,"11:30 AM","Le Bon Garcon - Cider + Spice",1,23,0,0,0
+50,"11:30 AM","Shepherd's Pie",1,38,0,0,0
+50,"11:30 AM","Dozen Eggs",1,12,0,0,0
+50,"11:30 AM","Rosso Puglia",1,30,0,0,0
+50,"11:30 AM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+50,"11:30 AM","Taper Candles - Greentree",2,32,0,0,0
+50,"11:30 AM","Colu Cooks Easy Fancy Food Colu Henry",1,35,0,0,0
+50,"11:30 AM","Holly Berry Surprise Ball",1,12,0,0,0
+50,"11:30 AM","Orange Surprise Ball",4,56,0,0,0
+50,"11:30 AM","Peppermint Logs",1,5,0,0,0
+50,"11:30 AM","Bloody Mary Crackers",3,48,0,0,0
+50,"11:30 AM","Food Orament",1,18,0,0,0
+50,"11:30 AM","Golden Milk Lattee",4,28,0,0,0
+50,"11:30 AM","Cappuccino",27,148.5,0,1,5.5
+50,"11:30 AM","Matcha Latte",47,363.2,0,1,8
+50,"11:30 AM","Chai Latte",9,53.4,0,0,0
+50,"11:30 AM","Cortado",6,27,0,1,4.5
+50,"11:30 AM","Espresso",1,3,0,0,0
+50,"11:30 AM","Latte",119,706.8,0,0,0
+50,"11:30 AM","Tea",3,12,0,0,0
+50,"11:30 AM","Add Syrup",117,115.8,0,0,0
+50,"11:30 AM","Americano",25,99.6,0,0,0
+50,"11:30 AM","Lemonade",5,22,0,0,0
+50,"11:30 AM","Peach Syrup",8,15.8,0,0,0
+50,"11:30 AM","Le Fluffernut",9,71.2,0,0,0
+50,"11:30 AM","Cold Brew",4,26,0,0,0
+50,"11:30 AM","Open Retail",21,252,0,0,0
+50,"11:30 AM","Pm tumbler",1,40,0,0,0
+50,"11:30 AM","Surprise Party Legally Addictive",2,20,0,0,0
+50,"11:30 AM","Cookie Asst.",27,107.6,0,0,0
+50,"11:30 AM","Rotating Salad",6,108,0,0,0
+50,"11:30 AM","Pound Cake",3,15,0,0,0
+50,"11:30 AM","Chicken Picata",1,32,0,0,0
+50,"11:30 AM","Chicken and Broccoli",2,72,0,0,0
+50,"11:30 AM","EDISTO - HONEY",1,18,0,0,0
+50,"11:30 AM","French Butter Biscuits - IN TIN",1,18,0,0,0
+50,"11:30 AM","MASA - Tortilla Chips LIME",2,32,0,0,0
+50,"11:30 AM","Le Bon Garcon - P.O.G. Caramels",3,50.4,0,0,0
+50,"11:30 AM","Ruby Apricot - Marmalade Grows",1,9,0,0,0
+50,"11:30 AM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+50,"11:30 AM","Pecans Toffee Zorro",2,38,0,0,0
+50,"11:30 AM","One Trick Pony Crunchy Peanut Butter",2,22,0,0,0
+50,"11:30 AM","MASA - Tortilla Chips CHURRO",1,16,0,0,0
+50,"11:30 AM","Cup Guzzini Striped Glass",1,11,0,0,0
+50,"11:30 AM","Catch & Release Middle Child Orange Riesling",2,68,0,0,0
+50,"11:30 AM","Delinquente Screaming Betty Vermentino",1,32,0,0,0
+50,"11:30 AM","Got Grapes -",1,30,0,0,0
+50,"11:30 AM","Les Athletes Du Vin Pinot Noir",1,26,0,0,0
+50,"11:30 AM","Domaine de Fontsainte",1,30,0,0,0
+50,"11:30 AM","Cru monplaisir",1,38,0,0,0
+50,"11:30 AM","Domaine Charnay Beaujolais Gamay",1,28,0,0,0
+50,"11:30 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,10.2,0,0,0
+50,"11:30 AM","Pop tart",5,25,0,0,0
+50,"11:30 AM","SALT & TWINE - Prosciutto",1,4.5,0,0,0
+50,"11:30 AM","Birthday Cake Card",1,4,0,0,0
+50,"11:30 AM","Chocolate Mousse Trifles",2,12,0,0,0
+50,"11:30 AM","Bjorn Qorn CLASSIC",1,8,0,0,0
+50,"11:30 AM","Butternut Squash Soup LARGE",1,8.8,0,0,0
+50,"11:30 AM","rotating - tandem",3,50,0,0,0
+50,"11:30 AM","sardines matches",1,13,0,0,0
+50,"11:30 AM","Frosty",4,32,0,0,0
+50,"11:30 AM","Gingerbread Man",3,24,0,0,0
+50,"11:30 AM","maeve - pumpkin spice",1,7,0,0,0
+50,"11:30 AM","Maeve Bon Bon Box",2,48,0,0,0
+50,"11:30 AM","Heart Box Chocolates Maeve",1,12,0,0,0
+50,"11:30 AM","Peanut Butter Banana Bar Maeve",1,7.5,0,0,0
+50,"11:30 AM","Cherry Surprise Ball",1,13,0,0,0
+50,"11:30 AM","Fraise Chocolate Bar",1,13,0,0,0
+50,"11:30 AM","Turkey Sandwich",29,374.4,0,0,0
+50,"11:30 AM","Ham & Brie",29,375.7,0,0,0
+50,"11:30 AM","Whipped Honey",1,15.3,0,0,0
+50,"11:30 AM","Cheerwine Soda",1,3,0,0,0
+50,"11:30 AM","Lg Flat Water - Saratoga",3,12,0,0,0
+50,"11:30 AM","Orange Juice",1,8,0,0,0
+50,"11:30 AM","Sparkling Apple Juice",2,10,0,0,0
+50,"11:30 AM","Sm Saratoga Water",9,36,0,0,0
+50,"11:30 AM","Sm Sparkling - Saratoga",3,12,0,0,0
+50,"11:30 AM","Rotating Sandwich",7,91,0,0,0
+50,"11:30 AM","Roast Chicken Sandwich",32,412.75,0,1,13
+50,"11:30 AM","VANDY - Original",2,32,0,0,0
+50,"11:30 AM","Vandy Smokehouse BBQ",2,32,0,0,0
+50,"11:30 AM","Tomato Soup small",1,12,0,1,12
+50,"11:30 AM","Fanny at Chez Panisse by Alice Waters cookbook",1,22,0,0,0
+50,"11:30 AM","Ranger Station Candle",3,120,0,0,0
+50,"11:30 AM","Matcha Powder Holy City",1,28,0,0,0
+50,"11:30 AM","Le Bon Garcon - Strawberry Sakura Caramels",1,28,0,0,0
+50,"11:30 AM","Buffalo Chicken Dip",1,16,0,0,0
+50,"11:30 AM","L'Alpage Chasselas",2,60,0,0,0
+50,"11:30 AM","Dark Chocolate Pecan Bark - Zorro",0,0,0,1,16
+50,"11:30 AM","Square matchbox",1,15,0,0,0
+50,"11:30 AM","Francis Blanchet Pouilly Fume",1,32,0,0,0
+50,"11:30 AM","Roast Beef Sandwich",2,26,0,0,0
+50,"11:30 AM","Birthday Truffle Bar Maeve",1,7,0,0,0
+50,"11:30 AM","Dirt Pile Truffle Bar",1,7.5,0,0,0
+50,"11:30 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,18,0,0,0
+50,"11:30 AM","Merci t-shirt",1,48,0,0,0
+50,"11:30 AM","Roasted Chicken for two",1,28,0,0,0
+50,"11:30 AM","Mini Sockerbit Flowers and bunnies",4,38,0,0,0
+50,"11:30 AM","SHARE Everything Crackers",3,36,0,0,0
+50,"11:30 AM","Via Alpina Pinot Grigio",2,50,0,0,0
+50,"11:30 AM","Mandarin Soda Maine Root",1,3,0,0,0
+50,"11:30 AM","Date Better - PEANUT BUTTER CRUNCH",5,40,0,0,0
+50,"11:30 AM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+50,"11:30 AM","Ve Ve Vinho Verde",5,110,0,0,0
+50,"11:30 AM","Date Better - HAZELNUT PRALINE",2,16,0,0,0
+50,"11:30 AM","Pra Morandina Valpolicella",2,66,0,0,0
+50,"11:30 AM","Passerine Brut Blanca",2,60,0,0,0
+50,"11:30 AM","Cedre Heritage Malbec Cahors",1,30,0,0,0
+50,"11:30 AM","Pasta Salad",1,10,0,0,0
+50,"11:30 AM","Bon Bon Sour PEACH Swedish Fish",3,24,0,0,0
+50,"11:30 AM","MASA Tortilla Chips COBANERO",4,64,0,0,0
+50,"11:30 AM","Hot Girl Pickles Original Dill",1,14,0,0,0
+50,"11:30 AM","Date Better - SNICKERDOODLE",3,24,0,0,0
+50,"11:30 AM","Mini Strawberry sockerbit",2,10,0,0,0
+50,"11:30 AM","Kombucha Pear",0,0,0,1,6.5
+50,"11:30 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",7,54.8,0,0,0
+50,"11:30 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",5,40,0,0,0
+50,"11:30 AM","MASA Tortilla Chips Traditional",1,16,0,0,0
+50,"11:30 AM","Lorenza Rosé",1,30,0,1,30
+50,"11:30 AM","Blueberry Maine Root Soda",1,3,0,0,0
+50,"11:30 AM","TLO Pandan Coconut",0,0,0,1,7
+50,"11:30 AM","Mexican Cola Maine Root Soda",1,3,0,0,0
+50,"11:30 AM","Gummy Easter Sockerbit",4,60,0,0,0
+50,"11:30 AM","Card Amy Zhang",6,30,0,0,0
+50,"11:30 AM","Kombucha Ginger Hibiscus",1,6.5,0,0,0
+50,"11:30 AM","Kombucha Yuzu",6,39,0,0,0
+51,"11:45 AM","Advantage Program",0,357.6,0,0,0
+51,"11:45 AM","Date Better - ALMOND JAVA CRUNCH",1,8,0,0,0
+51,"11:45 AM","Comptoir Du Cacao",2,24,0,0,0
+51,"11:45 AM","Open Food",11,197,0,0,0
+51,"11:45 AM","Open Beverage",1,3,0,0,0
+51,"11:45 AM","Open Wine",4,253,0,0,0
+51,"11:45 AM","Focaccia - Petit",28,420,0,0,0
+51,"11:45 AM","Pimento Cheese",1,14,0,0,0
+51,"11:45 AM","Whipped ricotta",11,132,0,0,0
+51,"11:45 AM","Breakfast Sandwich",4,35,0,0,0
+51,"11:45 AM","Benton's Bacon",3,90,0,0,0
+51,"11:45 AM","Benton's Ham",1,18,0,0,0
+51,"11:45 AM","Baked Ziti W/ Meatballs",4,144,0,0,0
+51,"11:45 AM","Chocolate Chip Cookie",55,218,0,1,4
+51,"11:45 AM","Dog Treats",3,15,0,0,0
+51,"11:45 AM","Muffin",10,50,0,0,0
+51,"11:45 AM","Beef Stroganoff",2,76,0,0,0
+51,"11:45 AM","Creamy Pony Peanut Butter",1,8,0,0,0
+51,"11:45 AM","Benton's Summer Stack",5,65,0,0,0
+51,"11:45 AM","Chicken w Ratatouille",1,36,0,0,0
+51,"11:45 AM","SQIRL Strawberry Rhubarb Fruit Spread",1,16,0,0,0
+51,"11:45 AM","SHARE Zaatar Crackers",1,12,0,0,0
+51,"11:45 AM","Olive Tapenade",1,10,0,0,0
+51,"11:45 AM","Tomato Soup",1,22,0,0,0
+51,"11:45 AM","Masa Tortilla Chips White",1,16,0,0,0
+51,"11:45 AM","Ziti w Bolognese",1,36,0,0,0
+51,"11:45 AM","Sausage - Mild Pork",1,24,0,0,0
+51,"11:45 AM","EDISTO - BLUEBERRY HONEY",2,36,0,0,0
+51,"11:45 AM","Le Bon Garcon - Cider + Spice",1,23,0,0,0
+51,"11:45 AM","Shepherd's Pie",6,228,0,0,0
+51,"11:45 AM","Piecework - Birthday Cocktail Napkins",1,44,0,0,0
+51,"11:45 AM","Dozen Eggs",2,24,0,0,0
+51,"11:45 AM","Rosso Puglia",2,60,0,0,0
+51,"11:45 AM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+51,"11:45 AM","Taper Candles - Greentree",1,14.4,0,0,0
+51,"11:45 AM","Bloody Mary Crackers",1,13.6,0,0,0
+51,"11:45 AM","Martha Stewert Ornament",1,24,0,0,0
+51,"11:45 AM","Cappuccino",9,49.5,0,0,0
+51,"11:45 AM","Matcha Latte",33,255.6,0,2,16
+51,"11:45 AM","Chai Latte",8,47.4,0,0,0
+51,"11:45 AM","Cortado",15,67.5,0,0,0
+51,"11:45 AM","Espresso",8,23.7,0,0,0
+51,"11:45 AM","Latte",93,545.4,0,0,0
+51,"11:45 AM","Add Syrup",82,81.2,0,2,2
+51,"11:45 AM","Americano",8,31.6,0,0,0
+51,"11:45 AM","Peach Syrup",5,9.8,0,0,0
+51,"11:45 AM","Le Fluffernut",4,32,0,0,0
+51,"11:45 AM","Cold Brew",5,32.5,0,0,0
+51,"11:45 AM","Open Retail",7,95.75,0,0,0
+51,"11:45 AM","Pumpkin Spice Maple Syrup",1,16,0,0,0
+51,"11:45 AM","Surprise Party Legally Addictive",1,11,0,0,0
+51,"11:45 AM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+51,"11:45 AM","Cookie Asst.",30,119.6,0,0,0
+51,"11:45 AM","Honey Wheat Loaf",3,42,0,0,0
+51,"11:45 AM","Thai Beef Curry",5,188,0,0,0
+51,"11:45 AM","Rotating Salad",5,90,0,0,0
+51,"11:45 AM","Pound Cake",3,15,0,0,0
+51,"11:45 AM","Chicken Picata",3,96,0,0,0
+51,"11:45 AM","Chicken and Broccoli",2,72,0,0,0
+51,"11:45 AM","EDISTO - HONEY",2,36,0,0,0
+51,"11:45 AM","Frankie's SWEET FIRE PICKLES",2,24.05,0,0,0
+51,"11:45 AM","Maldon Salt Regular",1,12,0,0,0
+51,"11:45 AM","MASA - Tortilla Chips LIME",2,32,0,0,0
+51,"11:45 AM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+51,"11:45 AM","Mini Card - Lady Fingers",1,3,0,0,0
+51,"11:45 AM","Pecans Roasted and Salted Zorro",2,38,0,0,0
+51,"11:45 AM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",3,33,0,0,0
+51,"11:45 AM","Got Grapes -",1,15,0,0,0
+51,"11:45 AM","La Galoche",1,30,0,0,0
+51,"11:45 AM","GIDDY UP NUTS - Original",1,19,0,0,0
+51,"11:45 AM","Boal de Arousa Albariño",1,28,0,0,0
+51,"11:45 AM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,10.2,0,0,0
+51,"11:45 AM","VANDY - Herbs de Provence",5,78.4,0,0,0
+51,"11:45 AM","Pop tart",1,5,0,0,0
+51,"11:45 AM","Small Matchboxes",3,19.5,0,0,0
+51,"11:45 AM","Birthday Cake Card",1,4,0,0,0
+51,"11:45 AM","8 oz Chicken Salad",2,22.5,0,0,0
+51,"11:45 AM","Chocolate Mousse Trifles",4,24,0,0,0
+51,"11:45 AM","Butternut Squash Soup LARGE",2,44,0,0,0
+51,"11:45 AM","Butternut Squash Soup SMALL",1,12,0,0,0
+51,"11:45 AM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",2,96,0,0,0
+51,"11:45 AM","sardines matches",2,26,0,0,0
+51,"11:45 AM","Meatloaf 2",2,56,0,0,0
+51,"11:45 AM","Merry Christmas Card",1,4,0,0,0
+51,"11:45 AM","Gingerbread Man",3,23.2,0,0,0
+51,"11:45 AM","maeve - pumpkin spice",1,7,0,0,0
+51,"11:45 AM","Heart Surprise Tops",2,60,0,0,0
+51,"11:45 AM","Framboise Chocolate Bar",1,13,0,0,0
+51,"11:45 AM","Turkey Sandwich",48,616.2,0,0,0
+51,"11:45 AM","Ham & Brie",32,416,0,0,0
+51,"11:45 AM","Whipped Honey",1,15.3,0,0,0
+51,"11:45 AM","Cheerwine Soda",2,6,0,0,0
+51,"11:45 AM","Lg Saratoga Water",2,12,0,0,0
+51,"11:45 AM","Lg Flat Water - Saratoga",1,8,0,0,0
+51,"11:45 AM","Strawberry Juice",1,8,0,0,0
+51,"11:45 AM","A&W Rootbeer",1,3,0,0,0
+51,"11:45 AM","Peach Soda",2,6,0,0,0
+51,"11:45 AM","Flat Apple Juice",1,8,0,0,0
+51,"11:45 AM","Sm Saratoga Water",7,28,0,0,0
+51,"11:45 AM","Sm Sparkling - Saratoga",2,8,0,0,0
+51,"11:45 AM","Aqua Panna",1,6,0,0,0
+51,"11:45 AM","Rotating Sandwich",9,110.5,0,0,0
+51,"11:45 AM","Sm Sparkling Saratoga",2,8,0,1,4
+51,"11:45 AM","Root Beer",2,6,0,0,0
+51,"11:45 AM","Peches Soda",3,9,0,0,0
+51,"11:45 AM","Root 42 Soda",1,3,0,0,0
+51,"11:45 AM","Roast Chicken Sandwich",30,390,0,0,0
+51,"11:45 AM","VANDY - Original",3,48,0,0,0
+51,"11:45 AM","Vandy Smokehouse BBQ",2,32,0,0,0
+51,"11:45 AM","Sweet potato chorizo",1,14,0,0,0
+51,"11:45 AM","Tomato Soup small",1,12,0,0,0
+51,"11:45 AM","Fanny at Chez Panisse by Alice Waters cookbook",1,22,0,0,0
+51,"11:45 AM","Chicken Curry",2,50,0,0,0
+51,"11:45 AM","Le Bon Garcon - Classic Sea Salt Caramels",2,56,0,0,0
+51,"11:45 AM","Chicken Chili Small",1,14,0,0,0
+51,"11:45 AM","Archivist card",1,5,0,0,0
+51,"11:45 AM","Notelet Archivist card",1,5,0,0,0
+51,"11:45 AM","Long Matchbox",2,33.5,0,0,0
+51,"11:45 AM","Matchbox Ornament",5,80,0,0,0
+51,"11:45 AM","Cookie Box Valentine",2,80,0,0,0
+51,"11:45 AM","Cookie Cake",1,15,0,0,0
+51,"11:45 AM","Extra Large Pommery Mustard",1,29,0,0,0
+51,"11:45 AM","Tea Tin Fete de Versailles",1,22,0,0,0
+51,"11:45 AM","Collazzi Chianti Classico 2024",1,32,0,0,0
+51,"11:45 AM","Famille Gras Les Vieilles Vignes",1,30,0,0,0
+51,"11:45 AM","Roast Beef Sandwich",1,11.7,0,0,0
+51,"11:45 AM","Birthday Truffle Bar Maeve",4,28,0,0,0
+51,"11:45 AM","Cinnamon Rolls",6,150,0,0,0
+51,"11:45 AM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,16,0,0,0
+51,"11:45 AM","Merci La Vie Cabernet Franc",1,38,0,0,0
+51,"11:45 AM","Merci t-shirt",1,48,0,0,0
+51,"11:45 AM","Tea Tin Marie Antoinette",1,32,0,0,0
+51,"11:45 AM","Alpine Red California Red Wine",1,24,0,0,0
+51,"11:45 AM","Gap's Crown Marine Layer Chardonnay",1,72,0,0,0
+51,"11:45 AM","Roasted Chicken for two",1,28,0,0,0
+51,"11:45 AM","Jolie-Laide Glou D'etat Red Blend",1,28,0,0,0
+51,"11:45 AM","Trillium Melcher Street IPA",2,44,0,0,0
+51,"11:45 AM","Via Alpina Pinot Grigio",2,50,0,0,0
+51,"11:45 AM","Bon bon Sour BLACKBERRY Fish Candy",5,40,0,0,0
+51,"11:45 AM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+51,"11:45 AM","Pra Morandina Valpolicella",1,33,0,0,0
+51,"11:45 AM","Sausage - Blueberry",1,30,0,0,0
+51,"11:45 AM","Lange Sea Salt Pure Flake",1,25,0,0,0
+51,"11:45 AM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+51,"11:45 AM","Bon Bon Sour PEACH Swedish Fish",2,16,0,0,0
+51,"11:45 AM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+51,"11:45 AM","Chucktown Acres - WINGS",1,24,0,0,0
+51,"11:45 AM","Root Beer Maine Root Soda",1,3,0,0,0
+51,"11:45 AM","Date Better - SNICKERDOODLE",1,8,0,0,0
+51,"11:45 AM","Petit Ours Rosé",1,34,0,0,0
+51,"11:45 AM","Kombucha Pear",1,5.85,0,0,0
+51,"11:45 AM","Focaccia",1,18,0,0,0
+51,"11:45 AM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+51,"11:45 AM","Bon bon SOUR Wild STRAWBERRY Fish Candy",3,24,0,0,0
+51,"11:45 AM","MASA Tortilla Chips Traditional",4,64,0,0,0
+51,"11:45 AM","Lorenza Rosé",1,30,0,0,0
+51,"11:45 AM","Gummy Easter Sockerbit",1,16,0,0,0
+51,"11:45 AM","Card Amy Zhang",14,70,0,0,0
+51,"11:45 AM","Kombucha Ginger Hibiscus",1,6.5,0,0,0
+52,"12:00 PM","Advantage Program",0,290.22,0,0,0
+52,"12:00 PM","Mercado Famous Jamon Serrania",2,44,0,0,0
+52,"12:00 PM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+52,"12:00 PM","Open Food",11,127.5,0,0,0
+52,"12:00 PM","Open Beverage",2,15,0,0,0
+52,"12:00 PM","Open Wine",5,199,0,0,0
+52,"12:00 PM","Open Beer",2,27,0,0,0
+52,"12:00 PM","Focaccia - Petit",16,232.5,0,0,0
+52,"12:00 PM","Pimento Cheese",1,14,0,0,0
+52,"12:00 PM","Whipped ricotta",9,100.8,0,0,0
+52,"12:00 PM","Breakfast Sandwich",2,20,0,0,0
+52,"12:00 PM","Benton's Ham",1,18,0,0,0
+52,"12:00 PM","Baked Ziti W/ Meatballs",7,254,0,0,0
+52,"12:00 PM","Chocolate Chip Cookie",58,231.2,0,0,0
+52,"12:00 PM","Dog Treats",3,15,0,0,0
+52,"12:00 PM","Muffin",11,52.5,0,0,0
+52,"12:00 PM","Beef Stroganoff",2,76,0,0,0
+52,"12:00 PM","Chicken Soup",1,22,0,0,0
+52,"12:00 PM","Corn Chowder",1,22,0,0,0
+52,"12:00 PM","Pop-Chips Truffle",2,16,0,0,0
+52,"12:00 PM","Runamok Syrup Sugarmaker Cut",1,18,0,1,18
+52,"12:00 PM","SHARE Zaatar Crackers",1,12,0,0,0
+52,"12:00 PM","MALDON - Pink Salt",1,11,0,0,0
+52,"12:00 PM","Olive Tapenade",1,10,0,0,0
+52,"12:00 PM","Lemon Scones",1,6,0,0,0
+52,"12:00 PM","Salchichon Iberico",1,18,0,0,0
+52,"12:00 PM","Masa Tortilla Chips White",1,16,0,0,0
+52,"12:00 PM","Ziti w Bolognese",2,72,0,0,0
+52,"12:00 PM","EDISTO - BLUEBERRY HONEY",2,36,0,0,0
+52,"12:00 PM","Moonstruck Black Cat Bar Dark Chocolate",1,8,0,0,0
+52,"12:00 PM","Shepherd's Pie",3,114,0,0,0
+52,"12:00 PM","Fratelli Alessandria Barbera D'Alba",1,32,0,0,0
+52,"12:00 PM","Chucktown Acres - Bacon",1,30,0,0,0
+52,"12:00 PM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+52,"12:00 PM","Taper Candles - Greentree",3,48,0,0,0
+52,"12:00 PM","Star Ornament",2,56,0,0,0
+52,"12:00 PM","Nutcracker Ornament",2,56,0,0,0
+52,"12:00 PM","Lady Joseph Crackers",2,22,0,0,0
+52,"12:00 PM","Thank you card",1,6,0,0,0
+52,"12:00 PM","HBD Card",1,3,0,0,0
+52,"12:00 PM","Peppermint Logs",1,2.5,0,0,0
+52,"12:00 PM","Animal Crackers",2,32,0,0,0
+52,"12:00 PM","Heart Ornament",1,25.2,0,0,0
+52,"12:00 PM","Golden Milk Lattee",2,14,0,0,0
+52,"12:00 PM","Cappuccino",7,38.5,0,0,0
+52,"12:00 PM","Matcha Latte",25,184.8,0,1,8
+52,"12:00 PM","Chai Latte",3,18,0,0,0
+52,"12:00 PM","Cortado",7,31.05,0,1,4.5
+52,"12:00 PM","Espresso",8,23.7,0,0,0
+52,"12:00 PM","Latte",76,447.6,0,3,18
+52,"12:00 PM","Tea",3,12,0,0,0
+52,"12:00 PM","Add Syrup",67,66.2,0,3,3
+52,"12:00 PM","Americano",11,44,0,0,0
+52,"12:00 PM","Lemonade",1,5,0,0,0
+52,"12:00 PM","Peach Syrup",4,7.6,0,0,0
+52,"12:00 PM","Le Fluffernut",3,24,0,0,0
+52,"12:00 PM","Cold Brew",7,45.5,0,0,0
+52,"12:00 PM","Saint Nick's Piper - Ranger Station",2,80,0,0,0
+52,"12:00 PM","Open Retail",9,83.4,0,0,0
+52,"12:00 PM","Pm tumbler",3,80,0,0,0
+52,"12:00 PM","Pm Bumper Sticker",2,10,0,0,0
+52,"12:00 PM","Pumpkin Spice Maple Syrup",1,16,0,0,0
+52,"12:00 PM","Surprise Party Legally Addictive",1,9,0,0,0
+52,"12:00 PM","OG Legally Addictive",1,9,0,0,0
+52,"12:00 PM","Sockerbit SPOOKY Gummy Mix",2,24,0,0,0
+52,"12:00 PM","Fall Harvest Salad",1,22,0,0,0
+52,"12:00 PM","Cookie Asst.",22,85.6,0,0,0
+52,"12:00 PM","Rotating Salad",4,72,0,0,0
+52,"12:00 PM","Pound Cake",2,10,0,0,0
+52,"12:00 PM","Chicken Picata",1,32,0,0,0
+52,"12:00 PM","Chicken and Broccoli",1,36,0,0,0
+52,"12:00 PM","Frankie's Classic New York Deli Pickles",2,24.7,0,0,0
+52,"12:00 PM","MASA - Tortilla Chips LIME",2,32,0,0,0
+52,"12:00 PM","Le Bon Garcon - P.O.G. Caramels",1,25.2,0,0,0
+52,"12:00 PM","Pecans Toffee Zorro",2,38,0,0,0
+52,"12:00 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",3,27.5,0,0,0
+52,"12:00 PM","Comptoir Caramelized Almonds",2,22,0,0,0
+52,"12:00 PM","Chucktown Acres - Chicken Breast",1,30,0,0,0
+52,"12:00 PM","Got Grapes -",1,30,0,0,0
+52,"12:00 PM","Land Of Saints Chardonnay Santa Barbara",1,15,0,0,0
+52,"12:00 PM","Cru monplaisir",1,38,0,0,0
+52,"12:00 PM","VANDY - Herbs de Provence",3,40,0,0,0
+52,"12:00 PM","8 oz Chicken Salad",1,15,0,0,0
+52,"12:00 PM","Bjorn Qorn CLASSIC",1,8,0,0,0
+52,"12:00 PM","MALDON - Chili Salt",1,12,0,0,0
+52,"12:00 PM","Butternut Squash Soup LARGE",1,22,0,0,0
+52,"12:00 PM","Butternut Squash Soup SMALL",1,12,0,0,0
+52,"12:00 PM","Croissant - Isatopia Card",1,7,0,0,0
+52,"12:00 PM","Meatloaf 2",1,28,0,0,0
+52,"12:00 PM","Palette Card",1,6,0,0,0
+52,"12:00 PM","Hi Card",1,6,0,0,0
+52,"12:00 PM","Frosty",2,16,0,0,0
+52,"12:00 PM","Gingerbread Man",5,39.2,0,0,0
+52,"12:00 PM","maeve - pumpkin spice",3,21,0,0,0
+52,"12:00 PM","Night Chocolates Maeve",1,14,0,0,0
+52,"12:00 PM","Peanut Butter Banana Bar Maeve",1,7.5,0,0,0
+52,"12:00 PM","Coeurs Pink Heart Chocolate Bar",1,13,0,0,0
+52,"12:00 PM","Fraise Chocolate Bar",1,13,0,0,0
+52,"12:00 PM","Turkey Sandwich",32,416,0,0,0
+52,"12:00 PM","Ham & Brie",20,260,0,0,0
+52,"12:00 PM","Cheerwine Soda",3,9,0,0,0
+52,"12:00 PM","Lg Saratoga Water",2,12,0,0,0
+52,"12:00 PM","Lg Flat Water - Saratoga",1,4,0,0,0
+52,"12:00 PM","Orange Juice",3,24,0,0,0
+52,"12:00 PM","Sparkling Apple Juice",5,25,0,0,0
+52,"12:00 PM","Sm Saratoga Water",3,12,0,0,0
+52,"12:00 PM","Aqua Panna",1,6,0,0,0
+52,"12:00 PM","Rotating Sandwich",7,91,0,0,0
+52,"12:00 PM","Sm Sparkling Saratoga",3,12,0,0,0
+52,"12:00 PM","Roast Chicken Sandwich",23,273,0,0,0
+52,"12:00 PM","VANDY - Original",7,112,0,0,0
+52,"12:00 PM","Sweet potato chorizo",3,42,0,0,0
+52,"12:00 PM","Tomato Soup small",1,12,0,0,0
+52,"12:00 PM","Walter Scott Pinot Noir",1,76,0,0,0
+52,"12:00 PM","Ranger Station Candle",1,40,0,0,0
+52,"12:00 PM","Charcoal Brioche",1,15,0,0,0
+52,"12:00 PM","Hot Chocolate",1,5,0,0,0
+52,"12:00 PM","Matcha Powder Holy City",1,28,0,1,28
+52,"12:00 PM","Le Bon Garcon - Classic Sea Salt Caramels",1,28,0,0,0
+52,"12:00 PM","SHARE Plainish Sourdough Crackers",2,24,0,0,0
+52,"12:00 PM","Buffalo Chicken Dip",4,63,0,0,0
+52,"12:00 PM","Chicken Chili Small",4,56,0,0,0
+52,"12:00 PM","L'Alpage Chasselas",2,60,0,0,0
+52,"12:00 PM","Square matchbox",3,45,0,0,0
+52,"12:00 PM","Notelet Archivist card",2,10,0,0,0
+52,"12:00 PM","Cookie Box Valentine",1,40,0,0,0
+52,"12:00 PM","Cookie Cake",3,45,0,0,0
+52,"12:00 PM","Roast Beef Sandwich",3,39,0,0,0
+52,"12:00 PM","Birthday Truffle Bar Maeve",3,21,0,0,0
+52,"12:00 PM","Cinnamon Rolls",6,150,0,0,0
+52,"12:00 PM","Chucktown Acres - Burger Patties",1,35,0,0,0
+52,"12:00 PM","Merci t-shirt",2,96,0,0,0
+52,"12:00 PM","Mini Sockerbit Flowers and bunnies",1,4.5,0,0,0
+52,"12:00 PM","Biscuits",1,16,0,0,0
+52,"12:00 PM","SHARE Everything Crackers",4,48,0,0,0
+52,"12:00 PM","Via Alpina Pinot Grigio",1,25,0,0,0
+52,"12:00 PM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+52,"12:00 PM","Bon bon Sour BLACKBERRY Fish Candy",3,19.2,0,0,0
+52,"12:00 PM","Dilenquente-Weeping Juan",1,27,0,0,0
+52,"12:00 PM","Passerine Brut Blanca",2,60,0,0,0
+52,"12:00 PM","Ayoh Dill Pickle Mayo Sando Sauce",2,24,0,0,0
+52,"12:00 PM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+52,"12:00 PM","Bon Bon Sour PEACH Swedish Fish",5,40,0,0,0
+52,"12:00 PM","MASA Tortilla Chips COBANERO",2,32,0,0,0
+52,"12:00 PM","Hot Girl Pickles Original Dill",1,14,0,0,0
+52,"12:00 PM","Date Better - SNICKERDOODLE",3,24,0,0,0
+52,"12:00 PM","Mini Strawberry sockerbit",2,7,0,0,0
+52,"12:00 PM","TLO Vietnamese Lemonade",2,14,0,0,0
+52,"12:00 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",6,48,0,1,8
+52,"12:00 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",3,24,0,0,0
+52,"12:00 PM","MASA Tortilla Chips Traditional",1,14.4,0,0,0
+52,"12:00 PM","TLO Pandan Coconut",1,7,0,0,0
+52,"12:00 PM","Card Amy Zhang",2,10,0,0,0
+52,"12:00 PM","Kombucha Yuzu",1,6.5,0,0,0
+53,"12:15 PM","Advantage Program",0,263.77,0,0,0
+53,"12:15 PM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+53,"12:15 PM","Comptoir Du Cacao",1,12,0,0,0
+53,"12:15 PM","Open Food",15,160,0,0,0
+53,"12:15 PM","Open Beverage",1,8,0,0,0
+53,"12:15 PM","Open Beer",2,41,0,0,0
+53,"12:15 PM","Focaccia - Petit",19,277.5,0,0,0
+53,"12:15 PM","Pimento Cheese",1,14,0,0,0
+53,"12:15 PM","Whipped ricotta",11,132,0,0,0
+53,"12:15 PM","Breakfast Sandwich",3,30,0,0,0
+53,"12:15 PM","Benton's Ham",1,18,0,0,0
+53,"12:15 PM","Baked Ziti W/ Meatballs",4,144,0,0,0
+53,"12:15 PM","Eat Copenhagen",1,24.99,0,0,0
+53,"12:15 PM","Chocolate Chip Cookie",37,147.6,0,0,0
+53,"12:15 PM","Dog Treats",2,10,0,0,0
+53,"12:15 PM","Muffin",7,34.5,0,0,0
+53,"12:15 PM","Beef Stroganoff",5,190,0,0,0
+53,"12:15 PM","Crunchy Pony Peanut Butter",1,8,0,0,0
+53,"12:15 PM","Creamy Pony Peanut Butter",1,8,0,0,0
+53,"12:15 PM","Benton's Summer Stack",5,65,0,0,0
+53,"12:15 PM","Chicken w Ratatouille",3,108,0,0,0
+53,"12:15 PM","Chicken Soup",2,44,0,0,0
+53,"12:15 PM","Corn Chowder",2,44,0,0,0
+53,"12:15 PM","Butter - Maison Bordier Le Beurre Bordier",2,70,0,0,0
+53,"12:15 PM","MY DRAP - SMALL NAPKIN ROLL DARK GREY",1,20,0,0,0
+53,"12:15 PM","SHARE Zaatar Crackers",1,12,0,0,0
+53,"12:15 PM","Olive Tapenade",1,10,0,0,0
+53,"12:15 PM","Senate Bean Soup",4,88,0,0,0
+53,"12:15 PM","Masa Tortilla Chips White",2,32,0,0,0
+53,"12:15 PM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+53,"12:15 PM","Shepherd's Pie",2,76,0,0,0
+53,"12:15 PM","Dozen Eggs",4,48,0,0,0
+53,"12:15 PM","Forx Farm Butter",1,22,0,0,0
+53,"12:15 PM","Cowboy Christmas - Ranger Station",2,80,0,0,0
+53,"12:15 PM","Swedish Candy Canes",1,3,0,0,0
+53,"12:15 PM","Potter's Flat Breads",1,15,0,0,0
+53,"12:15 PM","Thank you card",1,6,0,0,0
+53,"12:15 PM","Eifel Tower Ornament",1,12,0,0,0
+53,"12:15 PM","Golden Milk Lattee",1,7,0,0,0
+53,"12:15 PM","Cappuccino",15,81.95,0,0,0
+53,"12:15 PM","Matcha Latte",29,216.4,0,0,0
+53,"12:15 PM","Chai Latte",7,42,0,0,0
+53,"12:15 PM","Cortado",3,13.5,0,0,0
+53,"12:15 PM","Espresso",4,12,0,0,0
+53,"12:15 PM","Latte",69,405,0,1,6
+53,"12:15 PM","Tea",2,8,0,1,4
+53,"12:15 PM","Add Syrup",71,69.8,0,1,1
+53,"12:15 PM","Americano",5,20,0,0,0
+53,"12:15 PM","Lemonade",1,5,0,0,0
+53,"12:15 PM","Peach Syrup",7,13.6,0,0,0
+53,"12:15 PM","Le Fluffernut",8,61.6,0,0,0
+53,"12:15 PM","Cold Brew",6,39,0,0,0
+53,"12:15 PM","Open Retail",3,38,0,0,0
+53,"12:15 PM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+53,"12:15 PM","Brownie",2,12,0,0,0
+53,"12:15 PM","Cookie Asst.",21,81.6,0,0,0
+53,"12:15 PM","Thai Beef Curry",2,74,0,0,0
+53,"12:15 PM","Rotating Salad",6,99,0,0,0
+53,"12:15 PM","Chicken Picata",2,64,0,0,0
+53,"12:15 PM","Chicken and Broccoli",1,36,0,0,0
+53,"12:15 PM","Frankie's Classic New York Deli Pickles",1,13,0,0,0
+53,"12:15 PM","MALDON - Smoked Sea Salt",1,10,0,0,0
+53,"12:15 PM","Maldon Salt Regular",1,12,0,0,0
+53,"12:15 PM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+53,"12:15 PM","Le Bon Garcon - P.O.G. Caramels",1,16.8,0,0,0
+53,"12:15 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",1,11,0,0,0
+53,"12:15 PM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+53,"12:15 PM","Comptoir Caramelized Almonds",3,33,0,0,0
+53,"12:15 PM","Girard Aligote",1,28,0,0,0
+53,"12:15 PM","Louis Metaireau",1,26,0,0,0
+53,"12:15 PM","Cru monplaisir",1,38,0,0,0
+53,"12:15 PM","VANDY - Herbs de Provence",1,16,0,0,0
+53,"12:15 PM","Pop tart",1,5,0,0,0
+53,"12:15 PM","SALT & TWINE - Prosciutto",1,8.1,0,0,0
+53,"12:15 PM","Sardine Cards",1,4,0,0,0
+53,"12:15 PM","Chocolate Mousse Trifles",2,12,0,0,0
+53,"12:15 PM","MALDON - Chili Salt",2,24,0,0,0
+53,"12:15 PM","Butternut Squash Soup LARGE",1,22,0,0,0
+53,"12:15 PM","Butternut Squash Soup SMALL",1,12,0,0,0
+53,"12:15 PM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+53,"12:15 PM","sardines matches",1,13,0,0,0
+53,"12:15 PM","one trick pony - popcorn",1,8,0,0,0
+53,"12:15 PM","Placecards Hester & Cook",1,12,0,0,0
+53,"12:15 PM","Happy Birthday BIRD - Isatopia Card",1,7,0,0,0
+53,"12:15 PM","Merry Christmas Card",1,4,0,0,0
+53,"12:15 PM","Frosty",1,8,0,0,0
+53,"12:15 PM","Santa's Camper - Maeve",1,12,0,0,0
+53,"12:15 PM","Coeurs Pink Heart Chocolate Bar",1,13,0,0,0
+53,"12:15 PM","Framboise Chocolate Bar",1,13,0,0,0
+53,"12:15 PM","Coeurs Dark Choc Heart Bar",1,13,0,0,0
+53,"12:15 PM","Turkey Sandwich",31,390,0,0,0
+53,"12:15 PM","Ham & Brie",19,240.5,0,0,0
+53,"12:15 PM","Cheerwine Soda",3,9,0,0,0
+53,"12:15 PM","Lg Flat Water - Saratoga",3,12,0,0,0
+53,"12:15 PM","Strawberry Juice",1,8,0,0,0
+53,"12:15 PM","Orange Juice",4,32,0,0,0
+53,"12:15 PM","Peach Soda",2,6,0,0,0
+53,"12:15 PM","Sparkling Apple Juice",1,5,0,0,0
+53,"12:15 PM","Flat Apple Juice",1,8,0,0,0
+53,"12:15 PM","Sm Saratoga Water",4,16,0,0,0
+53,"12:15 PM","Sm Sparkling - Saratoga",3,10,0,0,0
+53,"12:15 PM","Rotating Sandwich",11,143,0,0,0
+53,"12:15 PM","Sm Sparkling Saratoga",1,4,0,0,0
+53,"12:15 PM","Root 42 Soda",1,3,0,0,0
+53,"12:15 PM","Roast Chicken Sandwich",28,361.4,0,0,0
+53,"12:15 PM","VANDY - Original",5,80,0,0,0
+53,"12:15 PM","Vandy Smokehouse BBQ",1,16,0,0,0
+53,"12:15 PM","Tomato Soup small",2,24,0,0,0
+53,"12:15 PM","The Cook's Atelier",1,55,0,0,0
+53,"12:15 PM","Fanny at Chez Panisse by Alice Waters cookbook",1,22,0,0,0
+53,"12:15 PM","Ranger Station Candle",4,160,0,0,0
+53,"12:15 PM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+53,"12:15 PM","Cantina Marilina Sikele",1,30,0,0,0
+53,"12:15 PM","Le Bon Garcon - Classic Sea Salt Caramels",1,28,0,0,0
+53,"12:15 PM","Bonjour - Isatopia Card",1,7,0,0,0
+53,"12:15 PM","Chicken Chili Small",2,28,0,0,0
+53,"12:15 PM","L'Alpage Chasselas",1,30,0,0,0
+53,"12:15 PM","Square matchbox",1,15,0,0,0
+53,"12:15 PM","Archivist card",1,7,0,0,0
+53,"12:15 PM","Long Matchbox",1,23,0,0,0
+53,"12:15 PM","Cookie Box Valentine",0,0,0,2,80
+53,"12:15 PM","Roast Beef Sandwich",5,69,0,0,0
+53,"12:15 PM","Birthday Truffle Bar Maeve",2,14,0,0,0
+53,"12:15 PM","Cinnamon Rolls",2,35,0,0,0
+53,"12:15 PM","Blueberry and Sunflower Butter Granola",1,18,0,0,0
+53,"12:15 PM","Cirelli Trebiano d'Abruzzo",1,15.2,0,0,0
+53,"12:15 PM","Maeve Spring Mix",1,25,0,0,0
+53,"12:15 PM","Mini Sockerbit Flowers and bunnies",2,10,0,0,0
+53,"12:15 PM","SHARE Everything Crackers",2,24,0,0,0
+53,"12:15 PM","Via Alpina Pinot Grigio",1,25,0,0,0
+53,"12:15 PM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+53,"12:15 PM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+53,"12:15 PM","Pra Morandina Valpolicella",1,33,0,0,0
+53,"12:15 PM","Pra Otto",1,22,0,0,0
+53,"12:15 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+53,"12:15 PM","Lange Sea Salt Pure Flake",1,25,0,0,0
+53,"12:15 PM","Hot Girl Pickles Honey Harissa",1,14,0,0,0
+53,"12:15 PM","Bon Bon Sour PEACH Swedish Fish",5,40,0,0,0
+53,"12:15 PM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+53,"12:15 PM","Chucktown Acres - WINGS",1,24,0,0,0
+53,"12:15 PM","Hot Girl Pickles Original Dill",1,14,0,1,14
+53,"12:15 PM","Date Better - SNICKERDOODLE",1,8,0,0,0
+53,"12:15 PM","Mini Strawberry sockerbit",2,10,0,0,0
+53,"12:15 PM","TLO Vietnamese Lemonade",1,7,0,0,0
+53,"12:15 PM","Kombucha Pear",1,6.5,0,0,0
+53,"12:15 PM","Focaccia",1,18,0,0,0
+53,"12:15 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+53,"12:15 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+53,"12:15 PM","MASA Tortilla Chips Traditional",3,48,0,0,0
+53,"12:15 PM","Lorenza Rosé",1,30,0,0,0
+53,"12:15 PM","TLO Pandan Coconut",2,14,0,0,0
+53,"12:15 PM","Gummy Easter Sockerbit",2,28,0,0,0
+53,"12:15 PM","Card Amy Zhang",1,5,0,0,0
+53,"12:15 PM","Kombucha Ginger Hibiscus",2,13,0,0,0
+54,"12:30 PM","Advantage Program",0,303.99,0,0,0
+54,"12:30 PM","Comptoir Du Cacao",1,12,0,0,0
+54,"12:30 PM","Open Food",12,184.2,0,0,0
+54,"12:30 PM","Open Wine",4,109,0,0,0
+54,"12:30 PM","Focaccia - Petit",10,150,0,0,0
+54,"12:30 PM","Pimento Cheese",4,54,0,0,0
+54,"12:30 PM","Whipped ricotta",9,108,0,0,0
+54,"12:30 PM","Benton's Bacon",2,60,0,0,0
+54,"12:30 PM","Taper Candles Merida",1,12,0,0,0
+54,"12:30 PM","Baked Ziti W/ Meatballs",5,180,0,0,0
+54,"12:30 PM","Chocolate Chip Cookie",52,197.6,0,0,0
+54,"12:30 PM","Dog Treats",2,10,0,0,0
+54,"12:30 PM","Muffin",11,55,0,0,0
+54,"12:30 PM","Narupa Caneco Albarino Val Do Salnes Rias Baixas",1,30,0,0,0
+54,"12:30 PM","Beef Stroganoff",2,76,0,0,0
+54,"12:30 PM","Creamy Pony Peanut Butter",3,24,0,0,0
+54,"12:30 PM","Benton's Summer Stack",1,13,0,0,0
+54,"12:30 PM","Chicken w Ratatouille",1,36,0,0,0
+54,"12:30 PM","White Loaf",2,28,0,0,0
+54,"12:30 PM","Chicken Soup",2,44,0,0,0
+54,"12:30 PM","Corn Chowder",1,22,0,0,0
+54,"12:30 PM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+54,"12:30 PM","SHARE Zaatar Crackers",2,24,0,0,0
+54,"12:30 PM","MALDON - Pink Salt",1,11,0,0,0
+54,"12:30 PM","Olive Tapenade",1,10,0,0,0
+54,"12:30 PM","Senate Bean Soup",1,22,0,0,0
+54,"12:30 PM","Pop-Corn Truffle",2,16,0,0,0
+54,"12:30 PM","Masa Tortilla Chips White",1,16,0,0,0
+54,"12:30 PM","Moonstruck Black Cat Bar Dark Chocolate",1,3.2,0,0,0
+54,"12:30 PM","Le Bon Garcon - Cider + Spice",1,23,0,0,0
+54,"12:30 PM","Shepherd's Pie",2,76,0,0,0
+54,"12:30 PM","Dozen Eggs",1,12,0,0,0
+54,"12:30 PM","Taper Candles Color Block",1,17,0,0,0
+54,"12:30 PM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+54,"12:30 PM","Bah Humbug",1,22,0,0,0
+54,"12:30 PM","Holly Berry Surprise Ball",3,36,0,0,0
+54,"12:30 PM","Bravo - Isatopia Card",1,2.8,0,0,0
+54,"12:30 PM","Bloody Mary Crackers",2,32,0,0,0
+54,"12:30 PM","Daschuel Hound Oranment",1,16,0,0,0
+54,"12:30 PM","Animal Crackers",2,32,0,0,0
+54,"12:30 PM","Eifel Tower Ornament",1,20,0,0,0
+54,"12:30 PM","Cappuccino",4,22,0,0,0
+54,"12:30 PM","Matcha Latte",34,254.8,0,0,0
+54,"12:30 PM","Chai Latte",8,47.4,0,0,0
+54,"12:30 PM","Cortado",9,39.6,0,0,0
+54,"12:30 PM","Espresso",7,21,0,0,0
+54,"12:30 PM","Latte",85,496.2,0,0,0
+54,"12:30 PM","Add Syrup",76,74.7,0,0,0
+54,"12:30 PM","Americano",10,40,0,0,0
+54,"12:30 PM","Lemonade",2,7,0,0,0
+54,"12:30 PM","Peach Syrup",4,8,0,1,2
+54,"12:30 PM","Le Fluffernut",2,16,0,0,0
+54,"12:30 PM","Cold Brew",7,45.5,0,0,0
+54,"12:30 PM","All Roads Cotton Napkins (x2)",2,72,0,0,0
+54,"12:30 PM","Open Retail",13,186,0,0,0
+54,"12:30 PM","Tarts Anon",1,35,0,0,0
+54,"12:30 PM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+54,"12:30 PM","Cookie Asst.",27,108,0,0,0
+54,"12:30 PM","Honey Wheat Loaf",1,14,0,0,0
+54,"12:30 PM","Thai Beef Curry",4,152,0,0,0
+54,"12:30 PM","Rotating Salad",6,108,0,0,0
+54,"12:30 PM","Coffee Cake",1,6,0,0,0
+54,"12:30 PM","Pound Cake",1,5,0,0,0
+54,"12:30 PM","Chicken and Broccoli",4,126,0,0,0
+54,"12:30 PM","French Butter Biscuits - IN TIN",1,18,0,0,0
+54,"12:30 PM","Pecans Milk Chocolate Covered Zorro",2,38,0,0,0
+54,"12:30 PM","Mini Card - Lady Fingers",1,1.5,0,0,0
+54,"12:30 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+54,"12:30 PM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+54,"12:30 PM","MASA - Tortilla Chips CHURRO",1,16,0,0,0
+54,"12:30 PM","Comptoir Caramelized Almonds",1,11,0,0,0
+54,"12:30 PM","Guzzini Cereal/Soup Bowl Set - GREEN",1,17,0,0,0
+54,"12:30 PM","Turkey and the Wolf Flavor Trippin' in New Orleans",1,30,0,0,0
+54,"12:30 PM","Catch & Release Middle Child Orange Riesling",1,34,0,0,0
+54,"12:30 PM","Maine Beer Company Peeper 16oz bottle",3,36,0,0,0
+54,"12:30 PM","GIDDY UP NUTS - Rosemary Garlic",2,38,0,0,0
+54,"12:30 PM","Monte Rio Cellars Zinfandel",1,16,0,0,0
+54,"12:30 PM","VANDY - Herbs de Provence",1,6.4,0,0,0
+54,"12:30 PM","SALT & TWINE - Prosciutto",1,9,0,0,0
+54,"12:30 PM","8 oz Chicken Salad",1,7.5,0,0,0
+54,"12:30 PM","Chocolate Mousse Trifles",4,24,0,0,0
+54,"12:30 PM","Bjorn Qorn TRUFFLE",2,16,0,0,0
+54,"12:30 PM","MALDON - Chili Salt",1,12,0,0,0
+54,"12:30 PM","Butternut Squash Soup SMALL",3,36,0,0,0
+54,"12:30 PM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+54,"12:30 PM","Mummy Surprize Ball",4,60,0,0,0
+54,"12:30 PM","maine beer - woods and waters",3,36,0,0,0
+54,"12:30 PM","Placecards Hester & Cook",1,12,0,0,0
+54,"12:30 PM","Table Cards Hester & Cook",1,16,0,0,0
+54,"12:30 PM","Pumpkin Surprize Ball",2,48,0,0,0
+54,"12:30 PM","Meatloaf with Brussels",1,36,0,0,0
+54,"12:30 PM","Sugar plum surprise ball",2,28,0,0,0
+54,"12:30 PM","Frosty",3,24,0,0,0
+54,"12:30 PM","Gingerbread Man",1,8,0,0,0
+54,"12:30 PM","Santa's Camper - Maeve",1,16,0,0,0
+54,"12:30 PM","Turkey Sandwich",30,387.4,0,0,0
+54,"12:30 PM","Ham & Brie",27,348.4,0,0,0
+54,"12:30 PM","Card Just Saying Hi",1,6,0,0,0
+54,"12:30 PM","Cheerwine Soda",1,3,0,0,0
+54,"12:30 PM","Lg Saratoga Water",3,24,0,0,0
+54,"12:30 PM","Orange Juice",1,8,0,0,0
+54,"12:30 PM","Peach Soda",1,3,0,0,0
+54,"12:30 PM","Sparkling Apple Juice",1,5,0,0,0
+54,"12:30 PM","Sm Saratoga Water",7,28,0,0,0
+54,"12:30 PM","Sm Sparkling - Saratoga",1,4,0,0,0
+54,"12:30 PM","Rotating Sandwich",8,104,0,0,0
+54,"12:30 PM","Peches Soda",1,3,0,0,0
+54,"12:30 PM","Roast Chicken Sandwich",30,374.4,0,1,13
+54,"12:30 PM","VANDY - Original",3,48,0,0,0
+54,"12:30 PM","Vandy Smokehouse BBQ",2,32,0,0,0
+54,"12:30 PM","Sweet potato chorizo",1,14,0,0,0
+54,"12:30 PM","Tomato Soup small",1,12,0,0,0
+54,"12:30 PM","Ranger Station Candle",1,40,0,0,0
+54,"12:30 PM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+54,"12:30 PM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+54,"12:30 PM","Le Bon Garcon - Strawberry Sakura Caramels",1,28,0,0,0
+54,"12:30 PM","Buffalo Chicken Dip",2,32,0,0,0
+54,"12:30 PM","Chicken Chili Small",2,28,0,0,0
+54,"12:30 PM","Square matchbox",1,15,0,0,0
+54,"12:30 PM","Archivist card",1,7,0,0,0
+54,"12:30 PM","Cookie Cake",2,30,0,0,0
+54,"12:30 PM","Roast Beef Sandwich",2,26,0,0,0
+54,"12:30 PM","Birthday Truffle Bar Maeve",3,21.5,0,0,0
+54,"12:30 PM","Cinnamon Buns",3,54,0,0,0
+54,"12:30 PM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,16,0,0,0
+54,"12:30 PM","Happy Birthday CAKE - Isatopia Card",1,3.5,0,0,0
+54,"12:30 PM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+54,"12:30 PM","Roasted Chicken for two",1,25,0,0,0
+54,"12:30 PM","Jolie-Laide Glou D'etat Red Blend",4,118,0,0,0
+54,"12:30 PM","SHARE Everything Crackers",3,36,0,0,0
+54,"12:30 PM","Via Alpina Pinot Grigio",3,75,0,0,0
+54,"12:30 PM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+54,"12:30 PM","Bon bon Sour BLACKBERRY Fish Candy",7,56,0,0,0
+54,"12:30 PM","Ve Ve Vinho Verde",2,44,0,0,0
+54,"12:30 PM","Pra Morandina Valpolicella",2,66,0,0,0
+54,"12:30 PM","Passerine Brut Blanca",1,30,0,0,0
+54,"12:30 PM","Shortrib",1,38,0,0,0
+54,"12:30 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+54,"12:30 PM","Pasta Salad",1,10,0,0,0
+54,"12:30 PM","Bon Bon Sour PEACH Swedish Fish",4,28,0,0,0
+54,"12:30 PM","MASA Tortilla Chips COBANERO",4,64,0,0,0
+54,"12:30 PM","Root Beer Maine Root Soda",1,3,0,0,0
+54,"12:30 PM","Hot Girl Pickles Original Dill",2,28,0,0,0
+54,"12:30 PM","Date Better - SNICKERDOODLE",1,8,0,0,0
+54,"12:30 PM","Mini Strawberry sockerbit",2,10,0,0,0
+54,"12:30 PM","TLO Vietnamese Lemonade",2,14,0,0,0
+54,"12:30 PM","Kombucha Pear",1,6.5,0,0,0
+54,"12:30 PM","Focaccia",1,18,0,0,0
+54,"12:30 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",8,60,0,0,0
+54,"12:30 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+54,"12:30 PM","TLO Pandan Coconut",2,14,0,0,0
+54,"12:30 PM","Gummy Easter Sockerbit",3,44,0,0,0
+54,"12:30 PM","Card Amy Zhang",12,60,0,0,0
+55,"12:45 PM","Advantage Program",0,303.92,0,0,0
+55,"12:45 PM","Date Better - ALMOND JAVA CRUNCH",1,8,0,0,0
+55,"12:45 PM","Open Food",17,223.5,0,0,0
+55,"12:45 PM","Open Beverage",3,16.5,0,0,0
+55,"12:45 PM","Open Wine",4,96,0,0,0
+55,"12:45 PM","Open Beer",1,20,0,0,0
+55,"12:45 PM","Focaccia - Petit",13,193.5,0,0,0
+55,"12:45 PM","Pimento Cheese",1,14,0,0,0
+55,"12:45 PM","Whipped ricotta",11,130.8,0,0,0
+55,"12:45 PM","Baked Ziti W/ Meatballs",5,180,0,0,0
+55,"12:45 PM","Chocolate Chip Cookie",65,259.2,0,0,0
+55,"12:45 PM","Dog Treats",4,20,0,0,0
+55,"12:45 PM","Muffin",23,115,0,0,0
+55,"12:45 PM","Beef Stroganoff",1,38,0,0,0
+55,"12:45 PM","Crunchy Pony Peanut Butter",1,8,0,0,0
+55,"12:45 PM","Benton's Summer Stack",2,26,0,0,0
+55,"12:45 PM","Chilled Green Corn Soup",1,22,0,0,0
+55,"12:45 PM","Corn Chowder",1,22,0,0,0
+55,"12:45 PM","Pop-Chips Truffle",1,8,0,0,0
+55,"12:45 PM","SHARE Zaatar Crackers",2,24,0,0,0
+55,"12:45 PM","MALDON - Pink Salt",1,11,0,0,0
+55,"12:45 PM","Olive Tapenade",1,10,0,0,0
+55,"12:45 PM","Senate Bean Soup",1,22,0,0,0
+55,"12:45 PM","Chocolate Sardines",1,18,0,0,0
+55,"12:45 PM","Dozen Eggs",2,24,0,0,0
+55,"12:45 PM","Forx Farm Butter",1,22,0,0,0
+55,"12:45 PM","Fratelli Alessandria Barbera D'Alba",2,64,0,0,0
+55,"12:45 PM","Gris de Gris",1,38,0,0,0
+55,"12:45 PM","Fratelli Alessandria Barolo",2,165.6,0,0,0
+55,"12:45 PM","Golf Cocktail Napkins - House of Gleason",1,48,0,0,0
+55,"12:45 PM","Taper Candles - Greentree",1,16,0,0,0
+55,"12:45 PM","Colu Cooks Easy Fancy Food Colu Henry",1,8.75,0,0,0
+55,"12:45 PM","Holiday Light - House of Gleason",1,48,0,0,0
+55,"12:45 PM","Train Matches",1,22,0,0,0
+55,"12:45 PM","Potter's Flat Breads",1,15,0,0,0
+55,"12:45 PM","Lady Joseph Crackers",1,11,0,0,0
+55,"12:45 PM","Animal Crackers",1,16,0,0,0
+55,"12:45 PM","Eifel Tower Ornament",1,20,0,0,0
+55,"12:45 PM","Placemats Gingerbread",1,29.7,0,0,0
+55,"12:45 PM","Food Orament",2,36,0,0,0
+55,"12:45 PM","Golden Milk Lattee",3,21,0,0,0
+55,"12:45 PM","Cappuccino",10,55,0,1,5.5
+55,"12:45 PM","Matcha Latte",26,197.6,0,0,0
+55,"12:45 PM","Chai Latte",6,34.8,0,0,0
+55,"12:45 PM","Cortado",14,63,0,0,0
+55,"12:45 PM","Espresso",4,11.7,0,0,0
+55,"12:45 PM","Latte",79,467.7,0,1,6
+55,"12:45 PM","Tea",3,12,0,0,0
+55,"12:45 PM","Add Syrup",68,67.2,0,0,0
+55,"12:45 PM","Americano",7,24,0,0,0
+55,"12:45 PM","Lemonade",6,30,0,0,0
+55,"12:45 PM","Peach Syrup",3,5.8,0,0,0
+55,"12:45 PM","Le Fluffernut",1,8,0,0,0
+55,"12:45 PM","Cold Brew",9,48.75,0,0,0
+55,"12:45 PM","Pine Tree - Ranger Station",1,40,0,0,0
+55,"12:45 PM","Open Retail",7,352,0,0,0
+55,"12:45 PM","Pm tumbler",5,200,0,0,0
+55,"12:45 PM","Surprise Party Legally Addictive",1,9,0,0,0
+55,"12:45 PM","Brownie",2,12,0,0,0
+55,"12:45 PM","Cookie Asst.",24,96,0,0,0
+55,"12:45 PM","Thai Beef Curry",4,152,0,0,0
+55,"12:45 PM","Rotating Salad",6,106.2,0,0,0
+55,"12:45 PM","Chicken Picata",2,64,0,0,0
+55,"12:45 PM","Chicken and Broccoli",1,36,0,0,0
+55,"12:45 PM","Frankie's Classic New York Deli Pickles",1,13,0,0,0
+55,"12:45 PM","Frankie's SWEET FIRE PICKLES",2,26,0,0,0
+55,"12:45 PM","French Butter Biscuits - IN TIN",1,18,0,0,0
+55,"12:45 PM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+55,"12:45 PM","Ruby Apricot - Marmalade Grows",1,9,0,0,0
+55,"12:45 PM","Pecans Toffee Zorro",1,19,0,0,0
+55,"12:45 PM","Granola Pistachio Sour Cherry Sweet Deliverance",1,18,0,0,0
+55,"12:45 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+55,"12:45 PM","One Trick Pony Crunchy Peanut Butter",2,22,0,0,0
+55,"12:45 PM","Comptoir Caramelized Almonds",1,11,0,0,0
+55,"12:45 PM","VESSEL PILLAR - GREENTREE HOME",1,45,0,0,0
+55,"12:45 PM","Delinquente Screaming Betty Vermentino",1,28.8,0,0,0
+55,"12:45 PM","Haute Terres Autres Rouge",1,30,0,0,0
+55,"12:45 PM","Domaine de Fontsainte",1,30,0,0,0
+55,"12:45 PM","GIDDY UP NUTS - Original",1,19,0,0,0
+55,"12:45 PM","Boal de Arousa Albariño",2,53.2,0,0,0
+55,"12:45 PM","Cru monplaisir",1,34.2,0,0,0
+55,"12:45 PM","Domaine Charnay Beaujolais Gamay",1,28,0,0,0
+55,"12:45 PM","VANDY - Herbs de Provence",1,16,0,0,0
+55,"12:45 PM","Cookies & Crumbs",1,5.99,0,0,0
+55,"12:45 PM","SALT & TWINE - Prosciutto",1,9,0,0,0
+55,"12:45 PM","Birthday Cake Card",1,4,0,0,0
+55,"12:45 PM","Bjorn Qorn TRUFFLE",1,8,0,0,0
+55,"12:45 PM","Butternut Squash Soup LARGE",2,44,0,0,0
+55,"12:45 PM","Butternut Squash Soup SMALL",3,36,0,0,0
+55,"12:45 PM","rotating - tandem",2,40,0,0,0
+55,"12:45 PM","Mummy Surprize Ball",1,15,0,0,0
+55,"12:45 PM","Barolo di Verduno - Chateau Bellegrave",2,208,0,0,0
+55,"12:45 PM","TANDEM - time and temp",1,22,0,0,0
+55,"12:45 PM","Merci - Isatopia Card",1,7,0,0,0
+55,"12:45 PM","Happy Birthday BIRD - Isatopia Card",1,7,0,0,0
+55,"12:45 PM","Meatloaf 2",2,56,0,0,0
+55,"12:45 PM","Drink Ticket - House of Gleason",1,48,0,0,0
+55,"12:45 PM","Frosty",1,8,0,0,0
+55,"12:45 PM","maeve - pumpkin spice",1,7,0,0,0
+55,"12:45 PM","Carrot Surprise Tops",2,30,0,0,0
+55,"12:45 PM","Cherry Surprise Ball",1,13,0,0,0
+55,"12:45 PM","Turkey Sandwich",14,178.75,0,0,0
+55,"12:45 PM","Ham & Brie",20,258.7,0,0,0
+55,"12:45 PM","Achillée Alsace",1,30,0,0,0
+55,"12:45 PM","Orange Juice",1,8,0,0,0
+55,"12:45 PM","Peach Soda",1,3,0,0,0
+55,"12:45 PM","Sparkling Apple Juice",3,15,0,0,0
+55,"12:45 PM","Sm Saratoga Water",6,24,0,0,0
+55,"12:45 PM","Sm Sparkling - Saratoga",3,12,0,0,0
+55,"12:45 PM","Rotating Sandwich",4,52,0,0,0
+55,"12:45 PM","Sm Sparkling Saratoga",1,1.6,0,0,0
+55,"12:45 PM","Roast Chicken Sandwich",14,179.4,0,0,0
+55,"12:45 PM","VANDY - Original",6,96,0,0,0
+55,"12:45 PM","Soellner Gruner Toni Veltliner",3,69.6,0,0,0
+55,"12:45 PM","Tomato Soup small",3,36,0,0,0
+55,"12:45 PM","Gail Wines Doris Cabernet Sauvignon",2,57,0,0,0
+55,"12:45 PM","Hot Chocolate",1,5,0,0,0
+55,"12:45 PM","Cantina Marilina Sikele",1,15,0,0,0
+55,"12:45 PM","Buffalo Chicken Dip",1,16,0,0,0
+55,"12:45 PM","Cookie Cake",1,15,0,0,0
+55,"12:45 PM","Famille Gras Les Vieilles Vignes",1,30,0,0,0
+55,"12:45 PM","Grillo Gurrieri 2024",1,36,0,0,0
+55,"12:45 PM","Birthday Truffle Bar Maeve",3,21,0,0,0
+55,"12:45 PM","Sirloin Chucktown Acres",1,42,0,0,0
+55,"12:45 PM","Cinnamon Rolls",3,75,0,0,0
+55,"12:45 PM","Blueberry and Sunflower Butter Granola",1,8,0,0,0
+55,"12:45 PM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",3,48,0,0,0
+55,"12:45 PM","Merci t-shirt",2,96,0,0,0
+55,"12:45 PM","PM Sweatshirt",1,71,0,0,0
+55,"12:45 PM","Mini Sockerbit Flowers and bunnies",2,28,0,0,0
+55,"12:45 PM","Via Alpina Pinot Grigio",2,50,0,0,0
+55,"12:45 PM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+55,"12:45 PM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+55,"12:45 PM","Ve Ve Vinho Verde",1,22,0,0,0
+55,"12:45 PM","Dilenquente-Weeping Juan",1,30,0,0,0
+55,"12:45 PM","Date Better - HAZELNUT PRALINE",1,8,0,0,0
+55,"12:45 PM","Pra Morandina Valpolicella",2,66,0,0,0
+55,"12:45 PM","Passerine Brut Blanca",1,30,0,0,0
+55,"12:45 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+55,"12:45 PM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+55,"12:45 PM","Bon Bon Sour PEACH Swedish Fish",4,32,0,0,0
+55,"12:45 PM","MASA Tortilla Chips COBANERO",2,32,0,0,0
+55,"12:45 PM","Chucktown Acres - WINGS",1,24,0,0,0
+55,"12:45 PM","Date Better - SNICKERDOODLE",2,16,0,0,0
+55,"12:45 PM","Kombucha Pear",1,6.5,0,0,0
+55,"12:45 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+55,"12:45 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",4,32,0,0,0
+55,"12:45 PM","MASA Tortilla Chips Traditional",3,48,0,0,0
+55,"12:45 PM","Lorenza Rosé",2,60,0,0,0
+55,"12:45 PM","Gummy Easter Sockerbit",1,16,0,0,0
+55,"12:45 PM","Card Amy Zhang",1,5,0,0,0
+55,"12:45 PM","Kombucha Yuzu",1,6.5,0,0,0
+56,"1:00 PM","Advantage Program",0,334.57,0,0,0
+56,"1:00 PM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+56,"1:00 PM","Open Food",9,149,0,0,0
+56,"1:00 PM","Open Beverage",3,33,0,0,0
+56,"1:00 PM","Open Wine",8,221,0,0,0
+56,"1:00 PM","Focaccia - Petit",17,240,0,0,0
+56,"1:00 PM","Pimento Cheese",2,28,0,0,0
+56,"1:00 PM","Whipped ricotta",15,177.6,0,0,0
+56,"1:00 PM","Breakfast Sandwich",2,20,0,0,0
+56,"1:00 PM","Benton's Bacon",2,60,0,0,0
+56,"1:00 PM","Baked Ziti W/ Meatballs",11,396,0,0,0
+56,"1:00 PM","Chocolate Chip Cookie",54,212.8,0,0,0
+56,"1:00 PM","Dog Treats",2,10,0,0,0
+56,"1:00 PM","Muffin",8,39.5,0,0,0
+56,"1:00 PM","Cake Slice Table Accents",1,16,0,0,0
+56,"1:00 PM","Beef Stroganoff",3,114,0,0,0
+56,"1:00 PM","Crunchy Pony Peanut Butter",1,8,0,0,0
+56,"1:00 PM","Benton's Summer Stack",3,39,0,0,0
+56,"1:00 PM","Chicken w Ratatouille",1,36,0,0,0
+56,"1:00 PM","Chilled Green Corn Soup",2,44,0,0,0
+56,"1:00 PM","Corn Chowder",2,44,0,0,0
+56,"1:00 PM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+56,"1:00 PM","Olive Tapenade",1,10,0,0,0
+56,"1:00 PM","Vegetable Minestrone",1,22,0,0,0
+56,"1:00 PM","Lemon Scones",2,12,0,0,0
+56,"1:00 PM","Masison Marc Cornichons",1,18,0,0,0
+56,"1:00 PM","Masa Tortilla Chips White",1,16,0,0,0
+56,"1:00 PM","Sausage - Mild Pork",1,24,0,0,0
+56,"1:00 PM","Resin Napkin Rings",2,14,0,0,0
+56,"1:00 PM","Le Bon Garcon - Dirty Chai",1,28,0,0,0
+56,"1:00 PM","Shepherd's Pie",2,76,0,0,0
+56,"1:00 PM","Dozen Eggs",1,12,0,0,0
+56,"1:00 PM","Gris de Gris",1,38,0,0,0
+56,"1:00 PM","Fratelli Alessandria Barolo",1,92,0,0,0
+56,"1:00 PM","Taper Candles Color Block",1,17,0,0,0
+56,"1:00 PM","Pommery Mustard w Cognac",1,24,0,0,0
+56,"1:00 PM","Golf Cocktail Napkins - House of Gleason",2,96,0,0,0
+56,"1:00 PM","Bisous - Isatopia Card",4,28,0,0,0
+56,"1:00 PM","Taper Candles - Greentree",1,16,0,0,0
+56,"1:00 PM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+56,"1:00 PM","Potter's Flat Breads",1,15,0,0,0
+56,"1:00 PM","Golden Milk Lattee",3,21,0,0,0
+56,"1:00 PM","Cappuccino",13,71.5,0,0,0
+56,"1:00 PM","Matcha Latte",32,243.2,0,0,0
+56,"1:00 PM","Chai Latte",4,23.4,0,0,0
+56,"1:00 PM","Cortado",8,36,0,0,0
+56,"1:00 PM","Espresso",4,12,0,0,0
+56,"1:00 PM","Latte",72,422.16,0,2,12
+56,"1:00 PM","Tea",2,8,0,0,0
+56,"1:00 PM","Add Syrup",71,68.76,0,0,0
+56,"1:00 PM","Americano",14,56,0,0,0
+56,"1:00 PM","Lemonade",2,10,0,0,0
+56,"1:00 PM","Peach Syrup",2,4,0,0,0
+56,"1:00 PM","Cold Brew",7,44.85,0,0,0
+56,"1:00 PM","Open Retail",13,316,0,0,0
+56,"1:00 PM","OG Legally Addictive",1,9,0,0,0
+56,"1:00 PM","Brownie",1,6,0,0,0
+56,"1:00 PM","Fall Harvest Salad",1,22,0,0,0
+56,"1:00 PM","Cookie Asst.",20,80,0,0,0
+56,"1:00 PM","Thai Beef Curry",6,226,0,0,0
+56,"1:00 PM","Rotating Salad",3,54,0,0,0
+56,"1:00 PM","Pound Cake",1,5,0,0,0
+56,"1:00 PM","Chicken Picata",1,32,0,0,0
+56,"1:00 PM","Chicken and Broccoli",1,36,0,0,0
+56,"1:00 PM","Frankie's Classic New York Deli Pickles",2,26,0,0,0
+56,"1:00 PM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+56,"1:00 PM","French Butter Biscuits - IN TIN",2,36,0,0,0
+56,"1:00 PM","MASA - Tortilla Chips LIME",3,48,0,0,0
+56,"1:00 PM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+56,"1:00 PM","Mini Card - Lady Fingers",1,3,0,0,0
+56,"1:00 PM","Le Bon Garcon - P.O.G. Caramels",1,28,0,0,0
+56,"1:00 PM","Pecans Roasted and Salted Zorro",1,19,0,0,0
+56,"1:00 PM","Granola Strawberry and Salty Peanut Sweet Delivera",1,18,0,0,0
+56,"1:00 PM","Pecans Toffee Zorro",1,19,0,0,0
+56,"1:00 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+56,"1:00 PM","MASA - Tortilla Chips CHURRO",1,12.96,0,0,0
+56,"1:00 PM","Comptoir Caramelized Almonds",2,22,0,0,0
+56,"1:00 PM","Chucktown Acres - Chicken Breast",1,30,0,0,0
+56,"1:00 PM","Got Grapes -",1,15,0,0,0
+56,"1:00 PM","GIDDY UP NUTS - Original",2,38,0,0,0
+56,"1:00 PM","Monte Rio Cellars Zinfandel",2,32,0,0,0
+56,"1:00 PM","Luna Duna Naranjo",1,28,0,0,0
+56,"1:00 PM","VANDY - Herbs de Provence",1,16,0,0,0
+56,"1:00 PM","Small Matchboxes",2,26,0,0,0
+56,"1:00 PM","Sardine Cards",1,4,0,0,0
+56,"1:00 PM","Bjorn Qorn TRUFFLE",3,20,0,0,0
+56,"1:00 PM","Bjorn Qorn CLASSIC",3,24,0,0,0
+56,"1:00 PM","TALL Guzzini Cups",4,32,0,0,0
+56,"1:00 PM","Butternut Squash Soup LARGE",1,22,0,0,0
+56,"1:00 PM","Butternut Squash Soup SMALL",1,12,0,0,0
+56,"1:00 PM","Cluizel Chocolate Sardines",1,18,0,0,0
+56,"1:00 PM","maine beer - woods and waters",1,12,0,0,0
+56,"1:00 PM","one trick pony - popcorn",2,16,0,0,0
+56,"1:00 PM","Table Runner ""dinner party""",1,35,0,0,0
+56,"1:00 PM","Croissant - Isatopia Card",1,7,0,0,0
+56,"1:00 PM","Meatloaf with Brussels",4,144,0,0,0
+56,"1:00 PM","Frosty",4,32,0,0,0
+56,"1:00 PM","Gingerbread Man",1,8,0,0,0
+56,"1:00 PM","Turkey Sandwich",32,406.9,0,0,0
+56,"1:00 PM","Ham & Brie",27,343.85,0,0,0
+56,"1:00 PM","EDISTO - HOT HONEY",1,18,0,0,0
+56,"1:00 PM","Achillée Alsace",1,30,0,0,0
+56,"1:00 PM","Lg Flat Water - Saratoga",1,4,0,0,0
+56,"1:00 PM","Strawberry Juice",1,8,0,0,0
+56,"1:00 PM","Orange Juice",1,8,0,0,0
+56,"1:00 PM","A&W Rootbeer",1,3,0,0,0
+56,"1:00 PM","Sparkling Apple Juice",1,5,0,0,0
+56,"1:00 PM","Sm Saratoga Water",8,32,0,0,0
+56,"1:00 PM","Aqua Panna",2,12,0,0,0
+56,"1:00 PM","Rotating Sandwich",6,76.7,0,0,0
+56,"1:00 PM","Sm Sparkling Saratoga",1,4,0,0,0
+56,"1:00 PM","Peches Soda",1,3,0,0,0
+56,"1:00 PM","Root 42 Soda",1,3,0,0,0
+56,"1:00 PM","Roast Chicken Sandwich",15,188.5,0,0,0
+56,"1:00 PM","VANDY - Original",2,23.2,0,0,0
+56,"1:00 PM","Humble Forager Luminous Horizon",1,20,0,0,0
+56,"1:00 PM","Badenhorst Secateurs Chenin Blanc",1,28,0,0,0
+56,"1:00 PM","Tomato Soup small",1,12,0,0,0
+56,"1:00 PM","Charcoal Brioche",1,15,0,0,0
+56,"1:00 PM","Gail Wines Doris Cabernet Sauvignon",1,30,0,0,0
+56,"1:00 PM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+56,"1:00 PM","Le Bon Garcon - Strawberry Sakura Caramels",1,28,0,0,0
+56,"1:00 PM","SHARE Plainish Sourdough Crackers",1,12,0,0,0
+56,"1:00 PM","Chicken Chili Small",2,28,0,0,0
+56,"1:00 PM","L'Alpage Chasselas",1,30,0,0,0
+56,"1:00 PM","Dark Chocolate Pecan Bark - Zorro",1,16,0,0,0
+56,"1:00 PM","Archivist card",1,7,0,0,0
+56,"1:00 PM","Notelet Archivist card",1,5,0,0,0
+56,"1:00 PM","Cookie Cake",1,15,0,0,0
+56,"1:00 PM","Sandlands Red Table Wine",1,40,0,0,0
+56,"1:00 PM","Famille Gras Les Vieilles Vignes",1,30,0,0,0
+56,"1:00 PM","Francis Blanchet Pouilly Fume",1,32,0,0,0
+56,"1:00 PM","Birthday Truffle Bar Maeve",3,21.5,0,0,0
+56,"1:00 PM","Trillium Fort Point IPA",2,40,0,0,0
+56,"1:00 PM","Cherry Bomb Truffle Bar",1,7.5,0,0,0
+56,"1:00 PM","Dirt Pile Truffle Bar",1,7.5,0,0,0
+56,"1:00 PM","Cinnamon Rolls",3,75,0,0,0
+56,"1:00 PM","Cinnamon Buns",1,18,0,0,0
+56,"1:00 PM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,18,0,0,0
+56,"1:00 PM","Chucktown Acres - Burger Patties",1,35,0,0,0
+56,"1:00 PM","Watering Can Cocktail Napkins",1,34,0,0,0
+56,"1:00 PM","Merci La Vie Cabernet Franc",1,38,0,0,0
+56,"1:00 PM","Merci t-shirt",1,48,0,0,0
+56,"1:00 PM","Roasted Chicken for two",1,28,0,0,0
+56,"1:00 PM","Date Better - ROYAL CINNAMON BAKLAVA",1,8,0,0,0
+56,"1:00 PM","Jolie-Laide Glou D'etat Red Blend",1,28,0,0,0
+56,"1:00 PM","SHARE Everything Crackers",1,12,0,0,0
+56,"1:00 PM","Date Better - PEANUT BUTTER CRUNCH",2,16,0,0,0
+56,"1:00 PM","Bon bon Sour BLACKBERRY Fish Candy",1,8,0,0,0
+56,"1:00 PM","Pra Otto",2,44,0,0,0
+56,"1:00 PM","Ayoh Dill Pickle Mayo Sando Sauce",2,24,0,0,0
+56,"1:00 PM","Lange Sea Salt Pure Flake",1,25,0,0,0
+56,"1:00 PM","Bon Bon Sour PEACH Swedish Fish",3,24,0,0,0
+56,"1:00 PM","MASA Tortilla Chips COBANERO",3,48,0,0,0
+56,"1:00 PM","Kombucha Pear",2,13,0,0,0
+56,"1:00 PM","Focaccia",1,18,0,0,0
+56,"1:00 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+56,"1:00 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",3,24,0,0,0
+56,"1:00 PM","MASA Tortilla Chips Traditional",6,96,0,0,0
+56,"1:00 PM","Francois Villard L'Appel des Sereines",1,28,0,0,0
+56,"1:00 PM","Lorenza Rosé",1,30,0,0,0
+56,"1:00 PM","TLO Pandan Coconut",1,7,0,0,0
+56,"1:00 PM","Mexican Cola Maine Root Soda",1,3,0,0,0
+56,"1:00 PM","Card Amy Zhang",5,25,0,0,0
+56,"1:00 PM","Kombucha Ginger Hibiscus",1,5.85,0,0,0
+57,"1:15 PM","Advantage Program",0,210.98,0,0,0
+57,"1:15 PM","Mercado Famous Jamon Serrania",1,22,0,0,0
+57,"1:15 PM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+57,"1:15 PM","Open Food",14,245,0,1,30
+57,"1:15 PM","Open Wine",5,134,0,0,0
+57,"1:15 PM","Focaccia - Petit",7,105,0,0,0
+57,"1:15 PM","Pimento Cheese",1,14,0,0,0
+57,"1:15 PM","Whipped ricotta",5,60,0,0,0
+57,"1:15 PM","Benton's Bacon",2,60,0,0,0
+57,"1:15 PM","Baked Ziti W/ Meatballs",7,256,0,0,0
+57,"1:15 PM","Chocolate Chip Cookie",27,105.2,0,0,0
+57,"1:15 PM","Dog Treats",4,20,0,0,0
+57,"1:15 PM","Muffin",11,55,0,0,0
+57,"1:15 PM","Chicken w Ratatouille",1,36,0,0,0
+57,"1:15 PM","White Loaf",1,14,0,0,0
+57,"1:15 PM","Corn Chowder",1,22,0,0,0
+57,"1:15 PM","Jose Gourmet Red Peppers Jam",1,16,0,0,0
+57,"1:15 PM","MIELI THUN HONEYSUCKLE HONEY",1,24,0,0,0
+57,"1:15 PM","Runamok Syrup Sugarmaker Cut",2,36,0,0,0
+57,"1:15 PM","Olive Tapenade",1,10,0,0,0
+57,"1:15 PM","French Onion Dip",1,12,0,0,0
+57,"1:15 PM","Lemon Scones",1,6,0,0,0
+57,"1:15 PM","Resin Napkin Rings",1,7,0,0,0
+57,"1:15 PM","Le Bon Garcon - Cider + Spice",1,23,0,0,0
+57,"1:15 PM","Shepherd's Pie",3,114,0,0,0
+57,"1:15 PM","Fratelli Alessandria Barbera D'Alba",1,32,0,0,0
+57,"1:15 PM","Pink Lady - Methodical",1,21,0,0,0
+57,"1:15 PM","Golf Cocktail Napkins - House of Gleason",3,120,0,0,0
+57,"1:15 PM","Taper Candles - Greentree",1,16,0,0,0
+57,"1:15 PM","Cappuccino",4,22,0,0,0
+57,"1:15 PM","Matcha Latte",26,200.8,0,0,0
+57,"1:15 PM","Chai Latte",6,36,0,0,0
+57,"1:15 PM","Cortado",9,40.5,0,0,0
+57,"1:15 PM","Espresso",5,15,0,0,0
+57,"1:15 PM","Latte",79,465.6,0,1,6
+57,"1:15 PM","Tea",2,8,0,0,0
+57,"1:15 PM","Add Syrup",85,83.3,0,0,0
+57,"1:15 PM","Americano",10,39.6,0,0,0
+57,"1:15 PM","Lemonade",3,15,0,0,0
+57,"1:15 PM","Peach Syrup",1,2,0,0,0
+57,"1:15 PM","Le Fluffernut",1,8,0,0,0
+57,"1:15 PM","Cold Brew",4,26,0,0,0
+57,"1:15 PM","Open Retail",6,107.7,0,0,0
+57,"1:15 PM","The Four Horsemen Food & Wine for Good Times",1,18,0,0,0
+57,"1:15 PM","Sockerbit SPOOKY Gummy Mix",1,0,0,0,0
+57,"1:15 PM","Cookie Asst.",16,64,0,0,0
+57,"1:15 PM","Thai Beef Curry",1,38,0,0,0
+57,"1:15 PM","Pound Cake",1,5,0,0,0
+57,"1:15 PM","Chicken Picata",2,64,0,0,0
+57,"1:15 PM","Chicken and Broccoli",3,108,0,0,0
+57,"1:15 PM","EDISTO - HONEY",1,9,0,0,0
+57,"1:15 PM","MASA - Tortilla Chips LIME",1,16,0,0,0
+57,"1:15 PM","Pecans Roasted and Salted Zorro",1,19,0,0,0
+57,"1:15 PM","Ruby Apricot - Marmalade Grows",1,9,0,0,0
+57,"1:15 PM","Granola Pistachio Sour Cherry Sweet Deliverance",1,18,0,0,0
+57,"1:15 PM","One Trick Pony Crunchy Peanut Butter",2,22,0,0,0
+57,"1:15 PM","MASA - Tortilla Chips CHURRO",1,16,0,0,0
+57,"1:15 PM","Got Grapes -",1,30,0,0,0
+57,"1:15 PM","Les Athletes Du Vin Pinot Noir",1,26,0,0,0
+57,"1:15 PM","Thierry Germain Domaine Des Roches Neuves Saumur C",1,20,0,0,0
+57,"1:15 PM","Domaine de Fontsainte",1,30,0,0,0
+57,"1:15 PM","GIDDY UP NUTS - Original",1,19,0,0,0
+57,"1:15 PM","Boal de Arousa Albariño",2,56,0,0,0
+57,"1:15 PM","Happy Hour Snacks",1,12.49,0,0,0
+57,"1:15 PM","Small Matchboxes",1,13,0,0,0
+57,"1:15 PM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+57,"1:15 PM","Sardine Cards",1,4,0,0,0
+57,"1:15 PM","8 oz Chicken Salad",1,7.5,0,0,0
+57,"1:15 PM","Bjorn Qorn CLASSIC",1,8,0,0,0
+57,"1:15 PM","Ramona Sparkling Rose",1,26,0,0,0
+57,"1:15 PM","rotating - tandem",1,20,0,0,0
+57,"1:15 PM","Placecards Hester & Cook",1,12,0,0,0
+57,"1:15 PM","Drink Ticket - House of Gleason",1,48,0,0,0
+57,"1:15 PM","Meatloaf with Brussels",1,36,0,0,0
+57,"1:15 PM","Frosty",1,8,0,0,0
+57,"1:15 PM","Gingerbread Man",1,8,0,0,0
+57,"1:15 PM","Maeve Bon Bon Box",2,33.6,0,0,0
+57,"1:15 PM","Turkey Sandwich",15,195,0,0,0
+57,"1:15 PM","Ham & Brie",11,143,0,0,0
+57,"1:15 PM","Whipped Honey",1,18,0,0,0
+57,"1:15 PM","Cheerwine Soda",2,6,0,0,0
+57,"1:15 PM","Orange Juice",1,8,0,0,0
+57,"1:15 PM","Peach Soda",1,3,0,0,0
+57,"1:15 PM","Flat Apple Juice",1,8,0,0,0
+57,"1:15 PM","Sm Saratoga Water",2,8,0,0,0
+57,"1:15 PM","Rotating Sandwich",3,39,0,0,0
+57,"1:15 PM","Sm Sparkling Saratoga",1,4,0,0,0
+57,"1:15 PM","Roast Chicken Sandwich",10,130,0,0,0
+57,"1:15 PM","Vandy Smokehouse BBQ",3,48,0,0,0
+57,"1:15 PM","Soellner Gruner Toni Veltliner",1,24,0,0,0
+57,"1:15 PM","Fish Rillette",1,12,0,0,0
+57,"1:15 PM","Ranger Station Candle",1,40,0,0,0
+57,"1:15 PM","Charcoal Brioche",1,15,0,0,0
+57,"1:15 PM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+57,"1:15 PM","Chicken Chili Small",1,14,0,0,0
+57,"1:15 PM","Roast Beef Sandwich",1,13,0,0,0
+57,"1:15 PM","Cinnamon Rolls",1,25,0,0,0
+57,"1:15 PM","Tumeric and Super Seed Granola",1,18,0,0,0
+57,"1:15 PM","Chucktown Acres - Burger Patties",1,35,0,0,0
+57,"1:15 PM","French Toast Casserole",1,24,0,0,0
+57,"1:15 PM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+57,"1:15 PM","Hot Girl Pickles Bread and Butter Chips",1,14,0,0,0
+57,"1:15 PM","Roasted Chicken for two",3,81,0,0,0
+57,"1:15 PM","Mini Sockerbit Flowers and bunnies",1,9.8,0,0,0
+57,"1:15 PM","Trillium Melcher Street IPA",1,20,0,0,0
+57,"1:15 PM","Date Better - PEANUT BUTTER CRUNCH",1,8,0,0,0
+57,"1:15 PM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+57,"1:15 PM","Ve Ve Vinho Verde",1,22,0,0,0
+57,"1:15 PM","Date Better - HAZELNUT PRALINE",2,15.2,0,0,0
+57,"1:15 PM","Pra Otto",1,22,0,0,0
+57,"1:15 PM","Sausage - Blueberry",1,30,0,0,0
+57,"1:15 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+57,"1:15 PM","Bon Bon Sour PEACH Swedish Fish",5,40,0,0,0
+57,"1:15 PM","Petit Ours Rosé",1,32,0,0,0
+57,"1:15 PM","Kombucha Pear",1,6.5,0,0,0
+57,"1:15 PM","Focaccia",1,18,0,0,0
+57,"1:15 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",2,16,0,0,0
+57,"1:15 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",1,8,0,0,0
+57,"1:15 PM","MASA Tortilla Chips Traditional",4,64,0,0,0
+57,"1:15 PM","Francois Villard L'Appel des Sereines",1,28,0,0,0
+57,"1:15 PM","Les Athletes du Vin Chardonnay",1,26,0,0,0
+57,"1:15 PM","Blueberry Maine Root Soda",1,3,0,0,0
+57,"1:15 PM","Borgo Savaian Aransat",1,28,0,0,0
+57,"1:15 PM","Mexican Cola Maine Root Soda",1,2.7,0,0,0
+57,"1:15 PM","Gummy Easter Sockerbit",1,14,0,0,0
+57,"1:15 PM","Card Amy Zhang",3,15,0,0,0
+57,"1:15 PM","Kombucha Ginger Hibiscus",2,13,0,0,0
+57,"1:15 PM","Kombucha Yuzu",1,6.5,0,0,0
+58,"1:30 PM","Advantage Program",0,408.94,0,0,0
+58,"1:30 PM","POMMERY MUSTARD",1,24,0,0,0
+58,"1:30 PM","Date Better - ALMOND JAVA CRUNCH",2,16,0,0,0
+58,"1:30 PM","Ayoh Tangy Dijonayo Sando Sauce",4,48,0,0,0
+58,"1:30 PM","Comptoir Du Cacao",1,12,0,0,0
+58,"1:30 PM","Open Food",11,187,0,0,0
+58,"1:30 PM","Open Beverage",1,3,0,0,0
+58,"1:30 PM","Open Wine",6,176,0,0,0
+58,"1:30 PM","Open Beer",1,16,0,0,0
+58,"1:30 PM","Focaccia - Petit",12,180,0,0,0
+58,"1:30 PM","Pimento Cheese",1,14,0,0,0
+58,"1:30 PM","Whipped ricotta",7,84,0,0,0
+58,"1:30 PM","Benton's Bacon",1,30,0,0,0
+58,"1:30 PM","The Cookie That Changed My Life",1,20,0,0,0
+58,"1:30 PM","Baked Ziti W/ Meatballs",9,328,0,0,0
+58,"1:30 PM","Chocolate Chip Cookie",35,140,0,1,4
+58,"1:30 PM","Dog Treats",2,10,0,0,0
+58,"1:30 PM","Muffin",9,44.5,0,0,0
+58,"1:30 PM","Beef Stroganoff",3,114,0,0,0
+58,"1:30 PM","Benton's Summer Stack",2,26,0,0,0
+58,"1:30 PM","Pommery Meaux Mustard Stone Jar",1,20,0,0,0
+58,"1:30 PM","Butter - Maison Bordier Le Beurre Bordier",3,105,0,0,0
+58,"1:30 PM","Banana Bundt Cake",1,6,0,0,0
+58,"1:30 PM","Olive Tapenade",1,10,0,0,0
+58,"1:30 PM","Lemon Scones",1,6,0,0,0
+58,"1:30 PM","EDISTO - BLUEBERRY HONEY",1,18,0,0,0
+58,"1:30 PM","Moonstruck Love Spell Bar Milk Chocolate",1,8,0,0,0
+58,"1:30 PM","Shepherd's Pie",2,76,0,0,0
+58,"1:30 PM","La Corqueta Buyout",1,3909.75,0,0,0
+58,"1:30 PM","Sausage - Jalapeno",1,18,0,0,0
+58,"1:30 PM","Cowboy Christmas - Ranger Station",1,40,0,0,0
+58,"1:30 PM","Potter's Flat Breads",1,15,0,0,0
+58,"1:30 PM","Eifel Tower Ornament",1,10,0,0,0
+58,"1:30 PM","Golden Milk Lattee",1,7,0,0,0
+58,"1:30 PM","Cappuccino",14,77,0,0,0
+58,"1:30 PM","Matcha Latte",29,218,0,0,0
+58,"1:30 PM","Chai Latte",2,9,0,0,0
+58,"1:30 PM","Cortado",6,27,0,0,0
+58,"1:30 PM","Espresso",3,9,0,0,0
+58,"1:30 PM","Latte",59,346.5,0,0,0
+58,"1:30 PM","Add Syrup",60,59.3,0,0,0
+58,"1:30 PM","Americano",6,24,0,0,0
+58,"1:30 PM","Lemonade",1,5,0,0,0
+58,"1:30 PM","Peach Syrup",5,9.8,0,0,0
+58,"1:30 PM","Le Fluffernut",4,32,0,0,0
+58,"1:30 PM","Cold Brew",8,48.75,0,0,0
+58,"1:30 PM","Saint Nick's Piper - Ranger Station",1,40,0,0,0
+58,"1:30 PM","Open Retail",8,201.8,0,0,0
+58,"1:30 PM","Pm Bumper Sticker",4,20,0,0,0
+58,"1:30 PM","More Is More- Get Loose in the Kitchen- a Cookbook",1,17.5,0,0,0
+58,"1:30 PM","Surprise Party Legally Addictive",1,9,0,0,0
+58,"1:30 PM","Sockerbit SPOOKY Gummy Mix",2,24,0,0,0
+58,"1:30 PM","Cookie Asst.",23,91.6,0,0,0
+58,"1:30 PM","Rotating Salad",3,51.3,0,0,0
+58,"1:30 PM","Chicken Picata",1,32,0,0,0
+58,"1:30 PM","Frankie's SWEET FIRE PICKLES",1,13,0,0,0
+58,"1:30 PM","MASA - Tortilla Chips LIME",2,32,0,0,0
+58,"1:30 PM","Pecans Roasted and Salted Zorro",1,19,0,0,0
+58,"1:30 PM","Granola Strawberry and Salty Peanut Sweet Delivera",3,52,0,0,0
+58,"1:30 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",4,40.7,0,0,0
+58,"1:30 PM","One Trick Pony Crunchy Peanut Butter",6,57.75,0,0,0
+58,"1:30 PM","MASA - Tortilla Chips BLUE",1,16,0,0,0
+58,"1:30 PM","Guzzini Cereal/Soup Bowl - BLUE",2,34,0,0,0
+58,"1:30 PM","Guzzini Cereal/Soup Bowl Set - GREEN",2,34,0,0,0
+58,"1:30 PM","The Pizza Bible",1,29.99,0,0,0
+58,"1:30 PM","La Galoche",1,30,0,0,0
+58,"1:30 PM","Les Athletes Du Vin Pinot Noir",1,26,0,0,0
+58,"1:30 PM","One Trick Pony - HONEY CRUNCH Peanut Butter",2,16.8,0,0,0
+58,"1:30 PM","VANDY - Herbs de Provence",3,48,0,0,0
+58,"1:30 PM","8 oz Chicken Salad",1,15,0,0,0
+58,"1:30 PM","Chocolate Mousse Trifles",3,18,0,0,0
+58,"1:30 PM","Bjorn Qorn CLASSIC",2,16,0,0,0
+58,"1:30 PM","rotating - tandem",3,60,0,0,0
+58,"1:30 PM","Mummy Surprize Ball",1,15,0,0,0
+58,"1:30 PM","one trick pony - popcorn",1,8,0,0,0
+58,"1:30 PM","Table Runner ""dinner party""",1,35,0,0,0
+58,"1:30 PM","Pumpkin Surprize Ball",2,48,0,0,0
+58,"1:30 PM","Meatloaf with Brussels",1,36,0,0,0
+58,"1:30 PM","Gingerbread Man",2,16,0,0,0
+58,"1:30 PM","Santa's Camper - Maeve",3,44,0,0,0
+58,"1:30 PM","Peanut Butter Banana Bar Maeve",6,45,0,0,0
+58,"1:30 PM","Cherry Surprise Ball",2,26,0,0,0
+58,"1:30 PM","Fraise Chocolate Bar",1,13,0,0,0
+58,"1:30 PM","Turkey Sandwich",10,130,0,0,0
+58,"1:30 PM","Ham & Brie",13,167.7,0,0,0
+58,"1:30 PM","Whipped Honey",1,18,0,0,0
+58,"1:30 PM","Cheerwine Soda",2,6,0,0,0
+58,"1:30 PM","Strawberry Juice",1,8,0,0,0
+58,"1:30 PM","Orange Juice",1,8,0,0,0
+58,"1:30 PM","A&W Rootbeer",1,3,0,0,0
+58,"1:30 PM","Peach Soda",1,3,0,0,0
+58,"1:30 PM","Sm Saratoga Water",9,36,0,0,0
+58,"1:30 PM","Rotating Sandwich",11,143,0,0,0
+58,"1:30 PM","Peches Soda",1,3,0,0,0
+58,"1:30 PM","Hopscotch Soda",1,3,0,0,0
+58,"1:30 PM","Roast Chicken Sandwich",11,143,0,0,0
+58,"1:30 PM","VANDY - Original",2,32,0,0,0
+58,"1:30 PM","Vandy Smokehouse BBQ",1,16,0,0,0
+58,"1:30 PM","Sweet potato chorizo",2,28,0,0,0
+58,"1:30 PM","English muffin 4-pack",1,12,0,0,0
+58,"1:30 PM","Tomato Soup small",1,12,0,0,0
+58,"1:30 PM","Ranger Station Candle",2,80,0,0,0
+58,"1:30 PM","Chicken Chili Small",2,28,0,0,0
+58,"1:30 PM","L'Alpage Chasselas",1,30,0,0,0
+58,"1:30 PM","Cookie Box Valentine",1,40,0,0,0
+58,"1:30 PM","Extra Large Pommery Mustard",1,29,0,0,0
+58,"1:30 PM","Birthday Truffle Bar Maeve",1,7,0,0,0
+58,"1:30 PM","Cinnamon Rolls",3,75,0,0,0
+58,"1:30 PM","Blueberry and Sunflower Butter Granola",2,36,0,0,0
+58,"1:30 PM","Tumeric and Super Seed Granola",1,18,0,0,0
+58,"1:30 PM","Merci t-shirt",1,24,0,0,0
+58,"1:30 PM","PM Sweatshirt",2,71,0,0,0
+58,"1:30 PM","Alpine Red California Red Wine",1,24,0,0,0
+58,"1:30 PM","Mini Sockerbit Flowers and bunnies",1,5,0,0,0
+58,"1:30 PM","Jolie-Laide Glou D'etat Red Blend",1,28,0,0,0
+58,"1:30 PM","SHARE Everything Crackers",3,36,0,0,0
+58,"1:30 PM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+58,"1:30 PM","Ve Ve Vinho Verde",1,22,0,0,0
+58,"1:30 PM","Date Better - HAZELNUT PRALINE",3,24,0,0,0
+58,"1:30 PM","Disciples Red Wine",1,90,0,0,0
+58,"1:30 PM","Disciples Sauvignon Blanc",1,80,0,0,0
+58,"1:30 PM","Ayoh Dill Pickle Mayo Sando Sauce",3,36,0,0,0
+58,"1:30 PM","Ayoh Hot Giardinayo Sando Sauce",1,12,0,0,0
+58,"1:30 PM","Lange Sea Salt Pure Flake",2,50,0,0,0
+58,"1:30 PM","MASA Tortilla Chips COBANERO",11,168,0,0,0
+58,"1:30 PM","Date Better - SNICKERDOODLE",1,8,0,0,0
+58,"1:30 PM","Kombucha Pear",3,19.5,0,0,0
+58,"1:30 PM","Focaccia",1,18,0,0,0
+58,"1:30 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+58,"1:30 PM","Bon bon SOUR Wild STRAWBERRY Fish Candy",4,31.2,0,0,0
+58,"1:30 PM","MASA Tortilla Chips Traditional",13,208,0,0,0
+58,"1:30 PM","Les Athletes du Vin Chardonnay",1,26,0,0,0
+58,"1:30 PM","Gummy Easter Sockerbit",3,46.4,0,0,0
+58,"1:30 PM","Card Amy Zhang",3,15,0,0,0
+59,"1:45 PM","Advantage Program",0,227.83,0,0,0
+59,"1:45 PM","POMMERY MUSTARD",1,25,0,0,0
+59,"1:45 PM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+59,"1:45 PM","Comptoir Du Cacao",2,24,0,0,0
+59,"1:45 PM","Open Food",16,284.41,0,0,0
+59,"1:45 PM","Open Beverage",1,4,0,0,0
+59,"1:45 PM","Open Wine",2,54,0,0,0
+59,"1:45 PM","Open Beer",1,22,0,0,0
+59,"1:45 PM","Focaccia - Petit",12,180,0,0,0
+59,"1:45 PM","Pimento Cheese",2,19.6,0,0,0
+59,"1:45 PM","Whipped ricotta",6,72,0,0,0
+59,"1:45 PM","Benton's Bacon",2,60,0,0,0
+59,"1:45 PM","MY DRAP LINEN Napkins, Natural, 50 Units",1,28,0,0,0
+59,"1:45 PM","Taper Candles Merida",1,12,0,0,0
+59,"1:45 PM","Baked Ziti W/ Meatballs",6,218,0,0,0
+59,"1:45 PM","Chocolate Chip Cookie",47,187.6,0,0,0
+59,"1:45 PM","Dog Treats",2,10,0,0,0
+59,"1:45 PM","Muffin",13,64.5,0,0,0
+59,"1:45 PM","Beef Stroganoff",5,190,0,0,0
+59,"1:45 PM","Cider",1,8,0,0,0
+59,"1:45 PM","Crunchy Pony Peanut Butter",1,4,0,0,0
+59,"1:45 PM","Chicken w Ratatouille",1,36,0,0,0
+59,"1:45 PM","SQIRL Strawberry Rhubarb Fruit Spread",2,32,0,0,0
+59,"1:45 PM","Butter - Maison Bordier Le Beurre Bordier",1,35,0,0,0
+59,"1:45 PM","Daily Salad",1,16,0,0,0
+59,"1:45 PM","Olive Tapenade",1,10,0,0,0
+59,"1:45 PM","Masa Tortilla Chips White",1,16,0,0,0
+59,"1:45 PM","Resin Napkin Rings",10,70,0,0,0
+59,"1:45 PM","Moonstruck Black Cat Bar Dark Chocolate",1,8,0,0,0
+59,"1:45 PM","Moonstruck Love Spell Bar Milk Chocolate",2,16,0,0,0
+59,"1:45 PM","Dozen Eggs",2,24,0,0,0
+59,"1:45 PM","Taper Candles Color Block",1,17,0,0,0
+59,"1:45 PM","Chucktown Acres - Bacon",1,15,0,0,0
+59,"1:45 PM","Golden Milk Lattee",1,7,0,0,0
+59,"1:45 PM","Cappuccino",15,82.5,0,0,0
+59,"1:45 PM","Matcha Latte",30,220.4,0,0,0
+59,"1:45 PM","Chai Latte",4,23.4,0,0,0
+59,"1:45 PM","Cortado",8,35.1,0,0,0
+59,"1:45 PM","Espresso",5,14.7,0,0,0
+59,"1:45 PM","Latte",51,297.6,0,0,0
+59,"1:45 PM","Tea",1,4,0,0,0
+59,"1:45 PM","Add Syrup",50,49.4,0,1,1
+59,"1:45 PM","Americano",4,16,0,0,0
+59,"1:45 PM","Le Fluffernut",1,8,0,0,0
+59,"1:45 PM","Cold Brew",4,25.35,0,0,0
+59,"1:45 PM","Open Retail",2,21,0,0,0
+59,"1:45 PM","Pm tumbler",1,20,0,0,0
+59,"1:45 PM","OG Legally Addictive",2,22,0,0,0
+59,"1:45 PM","Brownie",1,6,0,0,0
+59,"1:45 PM","Cookie Asst.",15,59.6,0,0,0
+59,"1:45 PM","Thai Beef Curry",5,190,0,0,0
+59,"1:45 PM","Rotating Salad",4,72,0,0,0
+59,"1:45 PM","Pound Cake",1,5,0,0,0
+59,"1:45 PM","Chicken Picata",1,32,0,0,0
+59,"1:45 PM","Chicken and Broccoli",1,36,0,0,0
+59,"1:45 PM","EDISTO - HONEY",1,18,0,0,0
+59,"1:45 PM","Pecans Roasted and Salted Zorro",1,19,0,0,0
+59,"1:45 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+59,"1:45 PM","One Trick Pony Crunchy Peanut Butter",2,16.5,0,0,0
+59,"1:45 PM","Sorgente Prosecco",1,30,0,0,0
+59,"1:45 PM","Fuso Jonas Seckinger Glas Riesling Trocken New",1,18,0,0,0
+59,"1:45 PM","Calcite Pouilly Fume",1,36,0,0,0
+59,"1:45 PM","GIDDY UP NUTS - Rosemary Garlic",1,19,0,0,0
+59,"1:45 PM","Monte Rio Cellars Zinfandel",1,16,0,0,0
+59,"1:45 PM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,12,0,0,0
+59,"1:45 PM","VANDY - Herbs de Provence",3,46.4,0,0,0
+59,"1:45 PM","Happy Hour Snacks",1,24.99,0,0,0
+59,"1:45 PM","SALT & TWINE - Prosciutto",1,3.6,0,0,0
+59,"1:45 PM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+59,"1:45 PM","Bjorn Qorn TRUFFLE",1,8,0,0,0
+59,"1:45 PM","Butternut Squash Soup LARGE",2,44,0,0,0
+59,"1:45 PM","Butternut Squash Soup SMALL",1,10.8,0,0,0
+59,"1:45 PM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+59,"1:45 PM","rotating - tandem",1,20,0,0,0
+59,"1:45 PM","Happy Birthday BIRD - Isatopia Card",1,6.3,0,0,0
+59,"1:45 PM","Meatloaf 2",1,28,0,0,0
+59,"1:45 PM","Drink Ticket - House of Gleason",1,48,0,0,0
+59,"1:45 PM","Meatloaf with Brussels",1,36,0,0,0
+59,"1:45 PM","Gingerbread Man",3,23.2,0,0,0
+59,"1:45 PM","Turkey Sandwich",9,117,0,0,0
+59,"1:45 PM","Ham & Brie",10,128.7,0,0,0
+59,"1:45 PM","EDISTO - HOT HONEY",1,18,0,0,0
+59,"1:45 PM","Card Just Saying Hi",1,6,0,0,0
+59,"1:45 PM","Lg Flat Water - Saratoga",1,4,0,0,0
+59,"1:45 PM","Orange Juice",1,8,0,1,8
+59,"1:45 PM","A&W Rootbeer",1,3,0,0,0
+59,"1:45 PM","Sparkling Apple Juice",1,5,0,0,0
+59,"1:45 PM","Sm Saratoga Water",2,8,0,0,0
+59,"1:45 PM","Aqua Panna",2,12,0,0,0
+59,"1:45 PM","Rotating Sandwich",1,13,0,0,0
+59,"1:45 PM","Peches Soda",1,3,0,0,0
+59,"1:45 PM","Roast Chicken Sandwich",7,91,0,0,0
+59,"1:45 PM","VANDY - Original",3,38.4,0,0,0
+59,"1:45 PM","Vandy Smokehouse BBQ",1,16,0,0,0
+59,"1:45 PM","Sweet potato chorizo",2,26.6,0,0,0
+59,"1:45 PM","Soellner Gruner Toni Veltliner",1,24,0,0,0
+59,"1:45 PM","Tomato Soup small",3,36,0,0,0
+59,"1:45 PM","JK Carriere Pinot Noir",2,80,0,0,0
+59,"1:45 PM","Walter Scott Pinot Noir",2,152,0,0,0
+59,"1:45 PM","Ranger Station Candle",3,120,0,0,0
+59,"1:45 PM","Charcoal Brioche",1,15,0,0,0
+59,"1:45 PM","Cantina Marilina Sikele",1,30,0,0,0
+59,"1:45 PM","Zorro Pecan Bark",1,19,0,0,0
+59,"1:45 PM","Buffalo Chicken Dip",4,64,0,0,0
+59,"1:45 PM","Notelet Archivist card",2,10,0,0,0
+59,"1:45 PM","Cookie Box Valentine",2,80,0,0,0
+59,"1:45 PM","Extra Large Pommery Mustard",1,11.6,0,0,0
+59,"1:45 PM","Tea Tin Fete de Versailles",1,22,0,0,0
+59,"1:45 PM","Roast Beef Sandwich",1,13,0,0,0
+59,"1:45 PM","Birthday Truffle Bar Maeve",1,7,0,0,0
+59,"1:45 PM","Trillium Fort Point IPA",1,20,0,0,0
+59,"1:45 PM","Sirloin Chucktown Acres",1,42,0,0,0
+59,"1:45 PM","Chucktown Acres - Bone-in Pork Chops",1,28,0,0,0
+59,"1:45 PM","Bizzarro Strawberry Yuzu Spritz",1,16,0,0,0
+59,"1:45 PM","Merci t-shirt",1,24,0,0,0
+59,"1:45 PM","PM Sweatshirt",1,63.9,0,0,0
+59,"1:45 PM","Tea Tin Marie Antoinette",1,32,0,0,0
+59,"1:45 PM","Mini Sockerbit Flowers and bunnies",1,14,0,0,0
+59,"1:45 PM","Date Better - ROYAL CINNAMON BAKLAVA",1,8,0,0,0
+59,"1:45 PM","SHARE Everything Crackers",1,12,0,0,0
+59,"1:45 PM","Trillium Melcher Street IPA",1,20,0,0,0
+59,"1:45 PM","Mandarin Soda Maine Root",1,3,0,0,0
+59,"1:45 PM","Date Better - PEANUT BUTTER CRUNCH",3,24,0,0,0
+59,"1:45 PM","Bon bon Sour BLACKBERRY Fish Candy",4,32,0,0,0
+59,"1:45 PM","Sausage - Blueberry",1,30,0,0,0
+59,"1:45 PM","Poggio Anima Montepulciano D'Abruzzo",1,22,0,0,0
+59,"1:45 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+59,"1:45 PM","Bon Bon Sour PEACH Swedish Fish",4,26.4,0,0,0
+59,"1:45 PM","MASA Tortilla Chips COBANERO",2,32,0,0,0
+59,"1:45 PM","Beef Broth",1,22,0,0,0
+59,"1:45 PM","Hot Girl Pickles Original Dill",3,42,0,0,0
+59,"1:45 PM","TLO Matcha Lemonade",1,7,0,0,0
+59,"1:45 PM","Kombucha Pear",1,6.5,0,0,0
+59,"1:45 PM","Focaccia",1,18,0,0,0
+59,"1:45 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+59,"1:45 PM","MASA Tortilla Chips Traditional",1,16,0,0,0
+59,"1:45 PM","Francois Villard L'Appel des Sereines",2,56,0,0,0
+59,"1:45 PM","Les Athletes du Vin Chardonnay",1,26,0,0,0
+59,"1:45 PM","Gummy Easter Sockerbit",1,14,0,0,0
+59,"1:45 PM","Card Amy Zhang",5,25,0,0,0
+60,"2:00 PM","Advantage Program",0,196.36,0,0,0
+60,"2:00 PM","Date Better - ALMOND JAVA CRUNCH",1,8,0,0,0
+60,"2:00 PM","Ayoh Tangy Dijonayo Sando Sauce",2,18,0,0,0
+60,"2:00 PM","Open Food",14,285.8,0,0,0
+60,"2:00 PM","Open Beverage",1,4,0,0,0
+60,"2:00 PM","Open Wine",2,48,0,0,0
+60,"2:00 PM","Open Beer",1,18,0,0,0
+60,"2:00 PM","Focaccia - Petit",3,45,0,0,0
+60,"2:00 PM","Pimento Cheese",1,14,0,0,0
+60,"2:00 PM","Whipped ricotta",6,64.8,0,0,0
+60,"2:00 PM","Playing Cards",1,15,0,0,0
+60,"2:00 PM","Baked Ziti W/ Meatballs",5,180,0,0,0
+60,"2:00 PM","Chocolate Chip Cookie",25,98,0,0,0
+60,"2:00 PM","Dog Treats",1,5,0,0,0
+60,"2:00 PM","Muffin",13,65,0,0,0
+60,"2:00 PM","Beef Stroganoff",1,34.2,0,0,0
+60,"2:00 PM","Crunchy Pony Peanut Butter",1,4,0,0,0
+60,"2:00 PM","Pop-Chips Truffle",2,12,0,0,0
+60,"2:00 PM","Olive Tapenade",1,10,0,0,0
+60,"2:00 PM","French Onion Dip",1,12,0,0,0
+60,"2:00 PM","Masison Marc Cornichons",1,18,0,0,0
+60,"2:00 PM","EDISTO - BLUEBERRY HONEY",2,36,0,0,0
+60,"2:00 PM","Shepherd's Pie",1,38,0,0,0
+60,"2:00 PM","Piecework - Birthday Cocktail Napkins",1,44,0,0,0
+60,"2:00 PM","Forx Farm Butter",1,22,0,0,0
+60,"2:00 PM","Large Guzzini Bowl",1,48,0,0,0
+60,"2:00 PM","A-Frame Bobon box - Maeve",1,25,0,0,0
+60,"2:00 PM","Greetings card",1,4,0,0,0
+60,"2:00 PM","Holly Berry Surprise Ball",1,12,0,0,0
+60,"2:00 PM","Lady Joseph Crackers",1,11,0,0,0
+60,"2:00 PM","Thank you card",1,6,0,0,0
+60,"2:00 PM","Animal Menagerie Stationary",1,30,0,0,0
+60,"2:00 PM","Advent Calendar - Maeve",3,144,0,0,0
+60,"2:00 PM","Animal Crackers",5,80,0,0,0
+60,"2:00 PM","Eifel Tower Ornament",1,20,0,0,0
+60,"2:00 PM","Placemats Gingerbread",1,33,0,0,0
+60,"2:00 PM","Golden Milk Lattee",1,7,0,0,0
+60,"2:00 PM","Cappuccino",6,33,0,0,0
+60,"2:00 PM","Matcha Latte",9,64,0,0,0
+60,"2:00 PM","Chai Latte",2,12,0,0,0
+60,"2:00 PM","Cortado",5,22.05,0,0,0
+60,"2:00 PM","Latte",45,263.4,0,0,0
+60,"2:00 PM","Tea",1,3.6,0,0,0
+60,"2:00 PM","Add Syrup",39,38.9,0,0,0
+60,"2:00 PM","Americano",7,28,0,0,0
+60,"2:00 PM","Lemonade",1,5,0,0,0
+60,"2:00 PM","Le Fluffernut",3,24,0,0,0
+60,"2:00 PM","Cold Brew",2,13,0,0,0
+60,"2:00 PM","Open Retail",4,48,0,0,0
+60,"2:00 PM","Pm tumbler",1,40,0,0,0
+60,"2:00 PM","Pumpkin Spice Maple Syrup",1,16,0,0,0
+60,"2:00 PM","OG Legally Addictive",1,9,0,0,0
+60,"2:00 PM","Sockerbit SPOOKY Gummy Mix",1,12,0,0,0
+60,"2:00 PM","Cookie Asst.",20,78,0,0,0
+60,"2:00 PM","Thai Beef Curry",2,76,0,0,0
+60,"2:00 PM","Rotating Salad",1,18,0,0,0
+60,"2:00 PM","Coffee Cake",1,6,0,0,0
+60,"2:00 PM","Chicken and Broccoli",1,36,0,0,0
+60,"2:00 PM","French Butter Biscuits - IN TIN",1,18,0,0,0
+60,"2:00 PM","MASA - Tortilla Chips LIME",1,16,0,0,0
+60,"2:00 PM","Pecans Milk Chocolate Covered Zorro",1,19,0,0,0
+60,"2:00 PM","Pecans Roasted and Salted Zorro",2,38,0,0,0
+60,"2:00 PM","Granola Strawberry and Salty Peanut Sweet Delivera",1,16,0,0,0
+60,"2:00 PM","Pecans Toffee Zorro",1,19,0,0,0
+60,"2:00 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",1,11,0,0,0
+60,"2:00 PM","One Trick Pony Crunchy Peanut Butter",1,11,0,0,0
+60,"2:00 PM","Guzzini Cereal/Soup Bowl - BLUE",1,17,0,0,0
+60,"2:00 PM","Domaine de Fontsainte",1,30,0,0,0
+60,"2:00 PM","Monte Rio Cellars Zinfandel",1,32,0,0,0
+60,"2:00 PM","Paolo Scavino Vino Rosso",1,40,0,0,0
+60,"2:00 PM","VANDY - Herbs de Provence",2,32,0,0,0
+60,"2:00 PM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+60,"2:00 PM","Chocolate Mousse Trifles",1,6,0,0,0
+60,"2:00 PM","Bjorn Qorn CLASSIC",1,8,0,0,0
+60,"2:00 PM","Butternut Squash Soup SMALL",1,12,0,0,0
+60,"2:00 PM","CLOCK COCKTAIL TIME - cocktail napkins - gleason",1,48,0,0,0
+60,"2:00 PM","Safety Matches",1,21,0,0,0
+60,"2:00 PM","swimmer matches",1,13,0,0,0
+60,"2:00 PM","one trick pony - popcorn",1,8,0,0,0
+60,"2:00 PM","Placecards Hester & Cook",2,24,0,0,0
+60,"2:00 PM","Table Runner ""dinner party""",1,35,0,0,0
+60,"2:00 PM","Meatloaf 2",2,56,0,0,0
+60,"2:00 PM","Drink Ticket - House of Gleason",1,48,0,0,0
+60,"2:00 PM","Meatloaf with Brussels",3,90,0,0,0
+60,"2:00 PM","Merry Christmas Card",1,4,0,0,0
+60,"2:00 PM","Sugar plum surprise ball",13,182,0,0,0
+60,"2:00 PM","Palette Card",1,6,0,0,0
+60,"2:00 PM","Frosty",1,8,0,0,0
+60,"2:00 PM","Gingerbread Man",2,16,0,0,0
+60,"2:00 PM","Peppermint Pad - Maeve",2,28,0,0,0
+60,"2:00 PM","Santa's Camper - Maeve",1,16,0,0,0
+60,"2:00 PM","Turkey Sandwich",7,91,0,0,0
+60,"2:00 PM","Ham & Brie",10,130,0,0,0
+60,"2:00 PM","Achillée Alsace",1,30,0,0,0
+60,"2:00 PM","Lg Saratoga Water",1,4,0,0,0
+60,"2:00 PM","Orange Juice",1,8,0,0,0
+60,"2:00 PM","A&W Rootbeer",1,3,0,0,0
+60,"2:00 PM","Sm Saratoga Water",8,32,0,0,0
+60,"2:00 PM","Sm Sparkling - Saratoga",1,4,0,0,0
+60,"2:00 PM","Rotating Sandwich",3,39,0,0,0
+60,"2:00 PM","Sm Sparkling Saratoga",2,8,0,0,0
+60,"2:00 PM","Peches Soda",1,3,0,0,0
+60,"2:00 PM","Roast Chicken Sandwich",5,65,0,0,0
+60,"2:00 PM","Vandy Smokehouse BBQ",1,16,0,0,0
+60,"2:00 PM","Sweet potato chorizo",1,14,0,0,0
+60,"2:00 PM","Chicken Curry",2,50,0,0,0
+60,"2:00 PM","Marine Layer Pinot Noir",1,76,0,0,0
+60,"2:00 PM","Gail Wines Doris Cabernet Sauvignon",2,60,0,0,0
+60,"2:00 PM","Le Bon Garcon - Classic Sea Salt Caramels",2,56,0,0,0
+60,"2:00 PM","Chicken Chili Small",1,14,0,0,0
+60,"2:00 PM","Bang Matches",1,21,0,0,0
+60,"2:00 PM","Cookie Box Valentine",1,40,0,0,0
+60,"2:00 PM","Tea Tin Fete de Versailles",1,22,0,0,0
+60,"2:00 PM","Birthday Truffle Bar Maeve",3,21,0,0,0
+60,"2:00 PM","Cinnamon Rolls",2,50,0,0,0
+60,"2:00 PM","Tahini Date & Cacao Nib Granola - Sweet Deliveranc",1,18,0,0,0
+60,"2:00 PM","Roasted Chicken for two",2,53,0,0,0
+60,"2:00 PM","Maeve Spring Mix",1,25,0,0,0
+60,"2:00 PM","Bon bon Sour BLACKBERRY Fish Candy",2,16,0,0,0
+60,"2:00 PM","Dilenquente-Weeping Juan",1,30,0,0,0
+60,"2:00 PM","Sausage - Blueberry",2,60,0,0,0
+60,"2:00 PM","Ayoh Hot Giardinayo Sando Sauce",2,24,0,0,0
+60,"2:00 PM","Bon Bon Sour PEACH Swedish Fish",1,8,0,0,0
+60,"2:00 PM","MASA Tortilla Chips COBANERO",1,16,0,0,0
+60,"2:00 PM","Date Better - SNICKERDOODLE",1,8,0,0,0
+60,"2:00 PM","TLO Matcha Lemonade",1,7,0,0,0
+60,"2:00 PM","Bon Bon SWEET Wild STRAWBERRY Swedish Fish",3,24,0,0,0
+60,"2:00 PM","MASA Tortilla Chips Traditional",1,16,0,0,0
+60,"2:00 PM","TLO Pandan Coconut",1,7,0,0,0
+60,"2:00 PM","Card Amy Zhang",1,5,0,0,0
+61,"2:15 PM","Advantage Program",0,87.24,0,0,0
+61,"2:15 PM","Ayoh Tangy Dijonayo Sando Sauce",1,12,0,0,0
+61,"2:15 PM","Open Food",5,30.81,0,0,0
+61,"2:15 PM","Open Wine",1,40,0,0,0
+61,"2:15 PM","Open Beer",1,20,0,0,0
+61,"2:15 PM","Focaccia - Petit",2,21,0,0,0
+61,"2:15 PM","Pimento Cheese",2,28,0,0,0
+61,"2:15 PM","Whipped ricotta",3,36,0,0,0
+61,"2:15 PM","Benton's Ham",1,18,0,0,0
+61,"2:15 PM","Baked Ziti W/ Meatballs",3,88.4,0,0,0
+61,"2:15 PM","Chocolate Chip Cookie",19,75.2,0,0,0
+61,"2:15 PM","Dog Treats",2,10,0,0,0
+61,"2:15 PM","Muffin",2,10,0,0,0
+61,"2:15 PM","Beef Stroganoff",2,53.2,0,0,0
+61,"2:15 PM","Jean Vesselle Reserve",1,80,0,0,0
+61,"2:15 PM","Corn Chowder",1,22,0,0,0
+61,"2:15 PM","Napkin Rings - ORANGE",1,21,0,0,0
+61,"2:15 PM","SHARE Zaatar Crackers",1,12,0,0,0
+61,"2:15 PM","Vegetable Minestrone",1,22,0,0,0
+61,"2:15 PM","Pop-Corn Truffle",2,16,0,0,0
+61,"2:15 PM","Shepherd's Pie",2,53.2,0,0,0
+61,"2:15 PM","Gris de Gris",1,38,0,0,0
+61,"2:15 PM","Pizza Kit",2,14.4,0,0,0
+61,"2:15 PM","Lady Joseph Crackers",1,11,0,0,0
+61,"2:15 PM","Golden Milk Lattee",1,7,0,0,0
+61,"2:15 PM","Matcha Latte",5,40,0,0,0
+61,"2:15 PM","Espresso",1,3,0,0,0
+61,"2:15 PM","Latte",9,54,0,0,0
+61,"2:15 PM","Add Syrup",11,11,0,0,0
+61,"2:15 PM","Le Fluffernut",1,7.2,0,0,0
+61,"2:15 PM","Cold Brew",2,13,0,0,0
+61,"2:15 PM","Open Retail",2,46,0,0,0
+61,"2:15 PM","Surprise Party Legally Addictive",1,9,0,0,0
+61,"2:15 PM","OG Legally Addictive",1,9,0,0,0
+61,"2:15 PM","Cookie Asst.",2,7.6,0,0,0
+61,"2:15 PM","Honey Wheat Loaf",1,14,0,0,0
+61,"2:15 PM","Thai Beef Curry",1,38,0,0,0
+61,"2:15 PM","Chicken and Broccoli",1,36,0,0,0
+61,"2:15 PM","Pecans Roasted and Salted Zorro",1,19,0,0,0
+61,"2:15 PM","One Trick Pony - Silky SMOOTH Natural Peanut Butte",2,22,0,0,0
+61,"2:15 PM","One Trick Pony Crunchy Peanut Butter",3,22,0,0,0
+61,"2:15 PM","Comptoir Caramelized Almonds",1,11,0,0,0
+61,"2:15 PM","Chucktown Acres - Chicken Breast",1,30,0,0,0
+61,"2:15 PM","One Trick Pony - HONEY CRUNCH Peanut Butter",1,6,0,0,0
+61,"2:15 PM","SALT & TWINE - Prosciutto",1,9,0,0,0
+61,"2:15 PM","SALT & TWINE - Salted Fennel",1,9,0,0,0
+61,"2:15 PM","Butternut Squash Soup LARGE",2,44,0,0,0
+61,"2:15 PM","Butternut Squash Soup SMALL",4,33.6,0,0,0
+61,"2:15 PM","rotating - tandem",1,20,0,0,0
+61,"2:15 PM","maine beer - woods and waters",1,6,0,0,0
+61,"2:15 PM","Turkey Sandwich",4,44.2,0,0,0
+61,"2:15 PM","Ham & Brie",5,65,0,0,0
+61,"2:15 PM","Sm Saratoga Water",5,20,0,0,0
+61,"2:15 PM","Sm Sparkling - Saratoga",2,8,0,0,0
+61,"2:15 PM","Rotating Sandwich",1,13,0,0,0
+61,"2:15 PM","Peches Soda",2,4.5,0,0,0
+61,"2:15 PM","Roast Chicken Sandwich",3,39,0,0,0
+61,"2:15 PM","VANDY - Original",1,8,0,0,0
+61,"2:15 PM","Sweet potato chorizo",1,14,0,0,0
+61,"2:15 PM","English muffin 4-pack",1,12,0,0,0
+61,"2:15 PM","Soellner Gruner Toni Veltliner",1,24,0,0,0
+61,"2:15 PM","Sweet Enough: a Dessert Cookbook by Alison Roman",1,35,0,0,0
+61,"2:15 PM","Le Bon Garcon - Strawberry Sakura Caramels",1,28,0,0,0
+61,"2:15 PM","Fattoria di Sammontana Chianti",1,28,0,0,0
+61,"2:15 PM","Trillium Congress Street IPA",2,16,0,0,0
+61,"2:15 PM","Mini Sockerbit Flowers and bunnies",3,15,0,0,0
+61,"2:15 PM","Biscuits",1,16,0,0,0
+61,"2:15 PM","Jolie-Laide Glou D'etat Red Blend",3,102,0,0,0
+61,"2:15 PM","SHARE Everything Crackers",2,24,0,0,0
+61,"2:15 PM","Sausage - Blueberry",2,60,0,0,0
+61,"2:15 PM","Poggio Anima Montepulciano D'Abruzzo",1,22,0,0,0
+61,"2:15 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,12,0,0,0
+61,"2:15 PM","Bon Bon Sour PEACH Swedish Fish",2,16,0,0,0
+61,"2:15 PM","Date Better - SNICKERDOODLE",1,8,0,0,0
+61,"2:15 PM","Mini Strawberry sockerbit",2,6.75,0,0,0
+61,"2:15 PM","TLO Matcha Lemonade",1,7,0,0,0
+61,"2:15 PM","Focaccia",1,8.1,0,0,0
+61,"2:15 PM","Lorenza Rosé",1,30,0,0,0
+61,"2:15 PM","Borgo Savaian Aransat",1,28,0,0,0
+61,"2:15 PM","Card Amy Zhang",4,17.5,0,0,0
+62,"2:30 PM","Advantage Program",0,3.61,0,0,0
+62,"2:30 PM","Chocolate Chip Cookie",1,4,0,0,0
+62,"2:30 PM","Chicken Soup",1,11,0,0,0
+62,"2:30 PM","Turkey Sandwich",1,5.2,0,0,0
+62,"2:30 PM","Cheerwine Soda",1,1.5,0,0,0
+62,"2:30 PM","Tumeric and Super Seed Granola",1,9,0,0,0
+62,"2:30 PM","Roasted Chicken for two",1,28,0,0,0
+62,"2:30 PM","Poggio Anima Montepulciano D'Abruzzo",1,11,0,0,0
+62,"2:30 PM","Ayoh Dill Pickle Mayo Sando Sauce",1,6,0,0,0
+62,"2:30 PM","Hot Girl Pickles Original Dill",1,7,0,0,0
+63,"2:45 PM","Advantage Program",0,12.6,0,0,0
+63,"2:45 PM","Open Food",2,25,0,0,0
+63,"2:45 PM","Open Wine",1,14,0,0,0
+63,"2:45 PM","Pimento Cheese",1,14,0,0,0
+63,"2:45 PM","Chocolate Chip Cookie",1,2.8,0,0,0
+63,"2:45 PM","Chicken w Ratatouille",1,36,0,0,0
+63,"2:45 PM","Tomato Soup",1,22,0,0,0
+63,"2:45 PM","Sausage - Mild Pork",1,16.8,0,0,0
+63,"2:45 PM","Sausage - Jalapeno",1,12.6,0,0,0
+63,"2:45 PM","Pecans Roasted and Salted Zorro",1,19,0,0,0
+63,"2:45 PM","One Trick Pony Crunchy Peanut Butter",1,5.5,0,0,0
+63,"2:45 PM","Domaine Breton-La Dilettante Blanc",1,25,0,0,0
+63,"2:45 PM","Birthday Cake Card",1,2,0,0,0
+63,"2:45 PM","Coeurs Pink Heart Chocolate Bar",1,13,0,0,0
+63,"2:45 PM","Orange Juice",1,8,0,0,0
+63,"2:45 PM","Hopscotch Soda",1,1.5,0,0,0
+63,"2:45 PM","Le Bon Garcon - Honey Lavender Caramels",1,28,0,0,0
+63,"2:45 PM","Notelet Archivist card",1,5,0,0,0
+63,"2:45 PM","Birthday Truffle Bar Maeve",1,3.5,0,0,0
+63,"2:45 PM","Biscuits",1,16,0,0,0
+63,"2:45 PM","Bon bon Sour BLACKBERRY Fish Candy",1,8,0,0,0
+63,"2:45 PM","Root Beer Maine Root Soda",1,1.5,0,0,0
+63,"2:45 PM","Card Amy Zhang",1,5,0,0,0
+64,"3:00 PM","Advantage Program",0,8.44,0,0,0
+64,"3:00 PM","Whipped ricotta",1,6,0,0,0
+64,"3:00 PM","Cider",1,4,0,0,0
+64,"3:00 PM","Cowboy Christmas - Ranger Station",1,20,0,0,0
+64,"3:00 PM","Open Retail",2,36,0,0,0
+64,"3:00 PM","Collazzi Chianti Classico 2024",2,64,0,0,0
+64,"3:00 PM","Famille Gras Les Vieilles Vignes",2,60,0,0,0
+65,"3:15 PM","Masa Tortilla Chips White",1,16,0,0,0
+66,"3:30 PM","Advantage Program",0,2.13,0,0,0
+66,"3:30 PM","Focaccia - Petit",2,30,0,0,0
+66,"3:30 PM","Focaccia",1,18,0,0,0
+67,"3:45 PM","Advantage Program",0,0.36,0,0,0
+67,"3:45 PM","VANDY - Herbs de Provence",1,8,0,0,0
+68,"4:00 PM","Advantage Program",0,2.89,0,0,0
+68,"4:00 PM","Open Food",1,65,0,0,0
+70,"4:30 PM","Advantage Program",0,0.88,0,0,0
+70,"4:30 PM","Leomade",2,10,0,0,0
+70,"4:30 PM","rotating - tandem",1,10,0,0,0
+71,"4:45 PM","Advantage Program",0,6.22,0,0,0
+71,"4:45 PM","Cookie",1,4,0,0,0
+71,"4:45 PM","Leomade",5,25,0,0,0
+71,"4:45 PM","Cake",1,7,0,0,0
+71,"4:45 PM","Grilled Cheese",4,56,0,0,0
+71,"4:45 PM","Caviar",1,12,0,0,0
+71,"4:45 PM","Picnic",2,36,0,0,0
+72,"5:00 PM","Advantage Program",0,12.18,0,0,0
+72,"5:00 PM","Focaccia - Petit",2,30,0,0,0
+72,"5:00 PM","Cookie",4,16,0,0,0
+72,"5:00 PM","Leomade",2,10,0,0,0
+72,"5:00 PM","Cake",2,14,0,0,0
+72,"5:00 PM","Jambon Sand",2,36,0,0,0
+72,"5:00 PM","Grilled Cheese",3,42,0,0,0
+72,"5:00 PM","Picnic",5,90,0,0,0
+72,"5:00 PM","Roast Beef",2,36,0,0,0
+73,"5:15 PM","Advantage Program",0,20.5,0,0,0
+73,"5:15 PM","Focaccia - Petit",2,30,0,0,0
+73,"5:15 PM","Leomade",4,20,0,0,0
+73,"5:15 PM","Jambon Sand",2,36,0,0,0
+73,"5:15 PM","Tomato",8,128,0,0,0
+73,"5:15 PM","Grilled Cheese",4,56,0,0,0
+73,"5:15 PM","Caviar",4,48,0,0,0
+73,"5:15 PM","Picnic",2,36,0,0,0
+73,"5:15 PM","Roast Beef",6,108,0,0,0
+74,"5:30 PM","Advantage Program",0,35.05,0,0,0
+74,"5:30 PM","---2---",1,0,0,0,0
+74,"5:30 PM","Open Food",1,3.5,0,0,0
+74,"5:30 PM","Cookie",2,8,0,0,0
+74,"5:30 PM","Leomade",4,20,0,0,0
+74,"5:30 PM","Snack",1,5,0,0,0
+74,"5:30 PM","Jambon Sand",5,90,0,0,0
+74,"5:30 PM","Tomato",6,96,0,0,0
+74,"5:30 PM","Grilled Cheese",11,154,0,0,0
+74,"5:30 PM","Caviar",1,12,0,0,0
+74,"5:30 PM","Picnic",2,36,0,0,0
+74,"5:30 PM","Roast Beef",10,180,0,0,0
+74,"5:30 PM","---1---",1,0,0,0,0
+74,"5:30 PM","Razor Clams",1,22,0,0,0
+74,"5:30 PM","Ratatouille",1,24,0,0,0
+74,"5:30 PM","Spring Pea",1,24,0,0,0
+74,"5:30 PM","Wellington",1,115,0,0,0
+75,"5:45 PM","Advantage Program",0,12.74,0,0,0
+75,"5:45 PM","Cookie",1,4,0,0,0
+75,"5:45 PM","Leomade",4,20,0,0,0
+75,"5:45 PM","Cake",1,7,0,0,0
+75,"5:45 PM","Jambon Sand",1,18,0,0,0
+75,"5:45 PM","Tomato",1,16,0,0,0
+75,"5:45 PM","Grilled Cheese",3,42,0,0,0
+75,"5:45 PM","Roast Beef",10,180,0,0,0
+76,"6:00 PM","Advantage Program",0,9.64,0,0,0
+76,"6:00 PM","Cookie",5,20,0,0,0
+76,"6:00 PM","Leomade",1,5,0,0,0
+76,"6:00 PM","Jambon Sand",2,36,0,0,0
+76,"6:00 PM","Tomato",3,48,0,0,0
+76,"6:00 PM","Grilled Cheese",3,42,0,0,0
+76,"6:00 PM","Caviar",1,12,0,0,0
+76,"6:00 PM","Roast Beef",3,54,0,0,0
+77,"6:15 PM","Advantage Program",0,6.98,0,0,0
+77,"6:15 PM","Focaccia - Petit",1,15,0,0,0
+77,"6:15 PM","Cookie",2,8,0,0,0
+77,"6:15 PM","Snack",2,10,0,0,0
+77,"6:15 PM","Jambon Sand",2,36,0,0,0
+77,"6:15 PM","Tomato",1,16,0,0,0
+77,"6:15 PM","Picnic",2,36,0,0,0
+77,"6:15 PM","Roast Beef",2,36,0,0,0
+78,"6:30 PM","Advantage Program",0,6.93,0,0,0
+78,"6:30 PM","Cookie",2,8,0,0,0
+78,"6:30 PM","Leomade",1,5,0,0,0
+78,"6:30 PM","Jambon Sand",1,18,0,0,0
+78,"6:30 PM","Grilled Cheese",2,28,0,0,0
+78,"6:30 PM","Roast Beef",5,90,0,0,0
+78,"6:30 PM","Baguette",1,7,0,0,0
+79,"6:45 PM","Advantage Program",0,0.18,0,0,0
+79,"6:45 PM","Cookie",1,4,0,0,0
+81,"7:15 PM","Advantage Program",0,0.24,0,0,0
+81,"7:15 PM","Latte",1,5.4,0,0,0
+81,"7:15 PM","Open Retail",0,0,0,1,0.08
+84,"8:00 PM","PM Sweatshirt",1,0,0,0,0
