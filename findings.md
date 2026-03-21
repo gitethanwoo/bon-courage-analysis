@@ -170,11 +170,125 @@ The data reveals a structural shift mid-period:
 
 ---
 
+## 14. College of Charleston Impact
+
+CofC is located adjacent to Petit Merci. Academic calendar 2025-2026:
+- Fall classes: Aug 19 – Dec 1. Fall break Oct 13-14. Thanksgiving Nov 26-30. Finals Dec 3-8.
+- Winter break: Dec 9 – Jan 3.
+- Spring classes: Jan 7 – Apr 22. Spring break Mar 1-8.
+
+**Finding: Students drive foot traffic, NOT revenue (r = -0.071, p = 0.42, not significant).**
+
+| Period | Tickets/Day | Revenue/Day | Avg Ticket |
+|---|---|---|---|
+| Classes in session | 52.7 | $1,547 | $29.38 |
+| Students off campus | 48.1 | $1,663 | $34.55 |
+
+Students bring +9% more customers but spend -18% less per ticket. Net revenue impact is a wash.
+
+**Calendar events that DO matter:**
+- **Thanksgiving Eve (Nov 26):** $4,779 — 2nd best day ever. Holiday entertaining/gifting.
+- **Pre-Christmas (Dec 10-23):** $2,365/day — best sustained stretch, zero students on campus.
+- **Move-in Saturday (Aug 16):** $2,637 — families exploring the neighborhood.
+- **Fall finals week:** $2,620/day avg but only 44 tickets (parents visiting, gift-buying).
+- **Spring break:** Only -5% dip. Barely noticeable.
+
+**Seasonal revenue ranking (avg daily):**
+Fall Finals $2,620 > Thanksgiving $2,440 > Move-in $2,005 > Winter Break $1,758 > Fall Classes $1,532 > Summer $1,499 > Spring Classes $1,421 > Spring Break $1,323.
+
+**Verdict:** Petit Merci is not a student-dependent business. It's a locals + tourists + seasonal gifting business.
+
+*Evidence: CofC 2025-2026 academic calendar from charleston.edu/registrar, daily revenue from ticket-detail-all.csv*
+
+## 15. Weather Impact
+
+Weather data from Open-Meteo archive API for Charleston, SC (CHS) merged with daily sales.
+
+**Finding: Weather is not a primary revenue driver.**
+
+- **Rain vs dry:** $1,556 vs $1,513 avg daily revenue. No significant difference (t-test p = 0.74).
+- **Temperature vs revenue:** r = 0.042 (p = 0.63) — no linear correlation.
+- **Temperature vs ticket count:** r = 0.385 (p < 0.0001) — warmer days bring more people.
+- **Temperature vs avg ticket value:** r = -0.255 (p = 0.003) — cooler days drive higher spend per visit.
+- Net effect: hot days = more people who spend less; cold days = fewer people who spend more. Cancels out.
+
+**Temperature bands:**
+
+| Band | Days | Avg Revenue | Avg Tickets | Avg Ticket $ |
+|---|---|---|---|---|
+| 40-50F | 6 | $953 | 25.7 | $30.42 |
+| **50-60F** | **27** | **$1,666** | **42.4** | **$40.04** |
+| 60-70F | 32 | $1,424 | 44.2 | $32.43 |
+| 70-80F | 38 | $1,644 | 58.2 | $28.54 |
+| 80-90F | 30 | $1,503 | 56.4 | $27.89 |
+| 90F+ | 4 | $1,316 | 48.5 | $27.57 |
+
+- **Below 50F is the only danger zone** — foot traffic drops enough to meaningfully hurt ($953/day).
+- **50-60F is the sweet spot** — highest revenue because ticket values peak at $40/ticket.
+- Rain shifts product mix toward prepared food (+2.8pp), pastries (+0.9pp), and retail/gifts (+1.5pp).
+
+**Verdict:** Seasonality and day-of-week matter 10x more than weather. Don't cancel promotions for rain.
+
+*Evidence: Open-Meteo historical API, merged dataset at daily-sales-weather.csv*
+
+## 16. Competitor Impact — Babas on Wentworth
+
+**Babas Charleston** (https://babascharleston.com/) opened their third location at 115½ Wentworth St — one block from Petit Merci — on **December 16, 2025** (not October as initially estimated).
+
+**Babas profile:**
+- European-inspired neighborhood cafe chain, 3 Charleston locations
+- 24K Instagram followers, press in Conde Nast Traveler, Forbes, Charleston Magazine
+- Hours: Tue-Thu 7a-8p, Fri-Sat 7a-10p, Sun 7a-6p
+- Menu: espresso ($2), pastries, sandwiches (turkey, ham & butter), salads ($10-14), cocktails, wine
+- Rating: ~4.6-4.7/5 across platforms
+- **Near-total competitive overlap** on coffee, pastries, and sandwiches
+
+**Revenue impact (controlling for PM's wholesale-to-retail pivot, retail-only orders <$100):**
+
+| Metric | Pre-Babas (before Dec 16) | Post-Babas | Change |
+|---|---|---|---|
+| Avg daily revenue | $1,129 | $958 | **-15.2%** |
+| Avg daily tickets | ~50 | ~39 | **-20%** |
+
+**Categories hit hardest:**
+- Sandwiches: **-32.4%** (-$92/day) — direct menu overlap
+- Coffee/Espresso: **-20.0%** (-$52/day) — Babas undercuts on price ($2 espresso)
+- Matcha Latte: **-37%** — Babas known for matcha with house-made peanut milk
+- Turkey Sandwich: **-33%**, Ham & Brie: **-24%** — identical items on Babas menu
+- Chocolate Chip Cookie: **-29%**
+
+**Category GROWING despite Babas:**
+- **Retail/Market goods: +98.4%** (+$42/day) — candles, cards, specialty food. Babas does not sell retail.
+
+**Monthly trajectory:**
+- January 2026 was the shock month ($1,155/day, worst month) — first full month after Babas opened.
+- February 2026 recovered to $1,560/day — customers settling into visiting both, not fully defecting.
+
+**Verdict:** Babas is stealing cafe traffic (coffee, sandwiches) but cannot compete on the market/retail side. Petit Merci's moat is the curated retail experience.
+
+*Evidence: Babas website, Post and Courier opening announcement, Yelp reviews, daily revenue split from ticket-detail-all.csv*
+
+---
+
+## Revised Priority Actions
+
+| # | Action | Rationale | Impact |
+|---|---|---|---|
+| 1 | **Double down on retail/market** | +98% growth, Babas-proof. This is the moat. | +$10-15K/yr |
+| 2 | **Differentiate food menu from Babas** | They're stealing sandwiches and matcha. Compete on items they DON'T have (frozen meals, specialty retail food, French-specific items). | Defend $30K+/yr |
+| 3 | **Own the holiday/gifting calendar** | Dec is 2.2x normal revenue and student-independent. Thanksgiving Eve = $4,779. Plan 5-6 seasonal moments/year. | +$15-20K/yr |
+| 4 | **Food upsell on coffee tickets** | 64% leave without food. Prompt at register. | +$15K/yr |
+| 5 | **Price test staples** | Matcha $6→$8 worked. Babas charges $2 for espresso so don't compete on price — compete on experience + quality. | +$3-5K/yr |
+| 6 | **Prune 150+ zombie SKUs** | 50% of catalog = 7% of revenue. Free shelf space for retail winners. | Save $5-9K/yr |
+
+---
+
 ## Next Investigations
 
-- [ ] **Nearby college schedule** — does CofC academic calendar correlate with traffic?
-- [ ] **Weather data** — rain/temperature impact on daily revenue
 - [ ] **Instagram posting** — do posts/stories correlate with next-day or same-day traffic?
+- [x] ~~College schedule~~ — not a significant driver (Section 14)
+- [x] ~~Weather~~ — not a significant driver (Section 15)
+- [x] ~~Competitor (Babas)~~ — significant impact on coffee/sandwiches (Section 16)
 
 ---
 
@@ -183,6 +297,7 @@ The data reveals a structural shift mid-period:
 | File | Description |
 |---|---|
 | `ticket-detail-all.csv` | 18,638 item rows, every transaction Jul 2025–Mar 2026 |
+| `daily-sales-weather.csv` | Daily revenue merged with weather data (137 days) |
 | `skytab-items-by-timeslot.csv` | Item sales by 15-min time slot (full period aggregate) |
 | `hourly-sales-1774127383705.csv` | Hourly revenue by date |
 | `sales-summary-combined.csv` | Item summaries with Period column (2025 / 2026 YTD) |
