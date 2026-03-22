@@ -141,11 +141,42 @@ The data reveals a structural shift mid-period:
 
 - Revenue per operating day is **flat** over 9 months (~-$9/month trend)
 - But ticket count is growing at +5.1 tickets/day/month
-- Retail Merch is the fastest growing category (+95%)
 - Rising stars: Cookie Asst. (+171%), Card Amy Zhang (+223%), Ranger Station Candle (new, $1,080)
 - Fading: Open Retail declining (good — more items properly categorized)
 
-*Evidence: monthly aggregation from ticket-detail-all.csv, period comparison from sales-summary-combined.csv*
+### Retail Merch Growth: Corrected Analysis
+
+Earlier analysis claimed +98% retail merch growth post-Babas. **This is misleading.** Deep dive reveals:
+
+**Core merch (excluding 5 breakout products) by phase:**
+
+| Phase | Core Merch $/day | Breakout $/day | Total Merch $/day | Merch % of Total |
+|---|---|---|---|---|
+| Summer (Jul-Sep) | $90 | $0 | $90 | 6.8% |
+| Oct (pre-Babas) | $124 | $0 | $124 | 8.3% |
+| Nov (pre-Babas) | $215 | $0 | $215 | 16.3% |
+| Dec (Babas opens mid-month) | $219 | $37 | $255 | 13.7% |
+| Jan (post-holiday) | **$51** | $60 | $111 | 10.3% |
+| Feb | $109 | $68 | $177 | 13.0% |
+| Mar (partial) | $92 | $71 | $163 | 14.4% |
+
+**What's actually driving the growth:**
+
+1. **Seasonality is the primary driver.** Core merch surged Oct-Nov ($124→$215/day) BEFORE Babas opened, driven by holiday gift buying. January crashed to $51/day. This is a seasonal curve, not structural growth.
+
+2. **Five breakout products mask the decline.** These items contribute $60-71/day post-Babas:
+   - Ranger Station Candle: $1,080 (brand new, 27 units)
+   - Card Amy Zhang: $655 (brand new, 131 units)
+   - PM Tumbler: +$500 increase ($120→$620)
+   - Merci t-shirt: +$388 increase ($24→$412)
+   - PM Sweatshirt: $383 (new in post period)
+   Without these, post-Babas merch would look *worse* than Oct-Nov baseline.
+
+3. **Merch share of total IS genuinely rising** (6.8% summer → 13-14% Feb-Mar). But partly because coffee and sandwiches are shrinking (Babas stealing those), not because merch is booming organically.
+
+**Corrected interpretation:** The "retail is the moat" thesis is still directionally right — it's the one category Babas can't touch. But the growth engine is **new product introductions**, not organic demand for existing products. The implication: keep launching new merch aggressively (that's what works), but don't assume the existing catalog will grow on its own.
+
+*Evidence: item-level phase analysis from ticket-detail-all.csv, controlling for 5 breakout items and seasonal patterns*
 
 ## 13. Operational Notes
 
@@ -258,7 +289,7 @@ Weather data from Open-Meteo archive API for Charleston, SC (CHS) merged with da
 - Chocolate Chip Cookie: **-29%**
 
 **Category GROWING despite Babas:**
-- **Retail/Market goods: +98.4%** (+$42/day) — candles, cards, specialty food. Babas does not sell retail.
+- **Retail/Market goods:** merch share of total revenue rose from 6.8% → 13-14%. However, this is driven primarily by 5 breakout product introductions (Ranger Station Candle, Card Amy Zhang, PM Tumbler, Merci t-shirt, PM Sweatshirt) and seasonal holiday buying — not organic growth of existing merch. Core merch (excluding breakouts) fell from $215/day in Nov to $51-109/day in Jan-Mar. See Section 12 for full corrected analysis. Babas does not sell retail goods.
 
 **Monthly trajectory:**
 - January 2026 was the shock month ($1,155/day, worst month) — first full month after Babas opened.
@@ -274,12 +305,12 @@ Weather data from Open-Meteo archive API for Charleston, SC (CHS) merged with da
 
 | # | Action | Rationale | Impact |
 |---|---|---|---|
-| 1 | **Double down on retail/market** | +98% growth, Babas-proof. This is the moat. | +$10-15K/yr |
-| 2 | **Differentiate food menu from Babas** | They're stealing sandwiches and matcha. Compete on items they DON'T have (frozen meals, specialty retail food, French-specific items). | Defend $30K+/yr |
-| 3 | **Own the holiday/gifting calendar** | Dec is 2.2x normal revenue and student-independent. Thanksgiving Eve = $4,779. Plan 5-6 seasonal moments/year. | +$15-20K/yr |
+| 1 | **Accelerate new merch launches** | Core merch doesn't grow organically — growth comes entirely from new product introductions (Ranger Station Candle, Card Amy Zhang, PM Tumbler drove $2,700+ combined). Keep the pipeline moving: new candles, cards, branded items every 4-6 weeks. | +$10-15K/yr |
+| 2 | **Differentiate food menu from Babas** | Babas is stealing sandwiches (-32%) and coffee (-20%). Compete on items they DON'T have: frozen meals, specialty retail food, French-specific items. Stop trying to win on commodity coffee/sandwiches. | Defend $30K+/yr |
+| 3 | **Own the holiday/gifting calendar** | Dec is 2.2x normal revenue and student-independent. Thanksgiving Eve = $4,779. Nov merch was $215/day vs $90/day in summer — holiday buying is real and repeatable. Plan 5-6 seasonal moments/year. January is a cliff ($51/day core merch) — plan a post-holiday promotion. | +$15-20K/yr |
 | 4 | **Food upsell on coffee tickets** | 64% leave without food. Prompt at register. | +$15K/yr |
 | 5 | **Price test staples** | Matcha $6→$8 worked. Babas charges $2 for espresso so don't compete on price — compete on experience + quality. | +$3-5K/yr |
-| 6 | **Prune 150+ zombie SKUs** | 50% of catalog = 7% of revenue. Free shelf space for retail winners. | Save $5-9K/yr |
+| 6 | **Prune 150+ zombie SKUs** | 50% of catalog = 7% of revenue. Free shelf space for new merch launches (the actual growth engine). | Save $5-9K/yr |
 
 ---
 
