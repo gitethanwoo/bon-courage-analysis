@@ -8,15 +8,7 @@
   
 <style>
   @page { margin: 0.75in; }
-  body {
-    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 11pt;
-    line-height: 1.6;
-    color: #1a1a1a;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 40px;
-  }
+  body { font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11pt; line-height: 1.6; color: #1a1a1a; max-width: 800px; margin: 0 auto; padding: 40px; }
   h1 { font-size: 24pt; font-weight: 700; border-bottom: 2px solid #333; padding-bottom: 12px; margin-top: 0; }
   h2 { font-size: 15pt; font-weight: 600; margin-top: 32px; border-bottom: 1px solid #ccc; padding-bottom: 6px; }
   h3 { font-size: 12pt; font-weight: 600; margin-top: 20px; }
@@ -29,10 +21,7 @@
   li { margin: 4px 0; }
   code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 9.5pt; }
   hr { border: none; border-top: 1px solid #ddd; margin: 24px 0; }
-  @media print {
-    body { padding: 0; }
-    table { page-break-inside: avoid; }
-  }
+  @media print { body { padding: 0; } table { page-break-inside: avoid; } }
 </style>
 
   <link rel="stylesheet" href="/dev/null" />
@@ -78,64 +67,90 @@ roughly flat through this transformation</p>
 ticket-detail-all.csv</em></p>
 <h2 id="revenue-breakdown-by-category">3. Revenue Breakdown by
 Category</h2>
+<p>Categorized to reflect Petit Merci’s identity as a provisions
+store:</p>
 <table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
 <thead>
 <tr>
 <th>Category</th>
 <th>Revenue</th>
 <th>% of Total</th>
+<th>SKUs</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Coffee/Espresso</td>
-<td>~$34,500</td>
-<td>17.2%</td>
+<td>Prepared Food &amp; Bakery</td>
+<td>$49,303</td>
+<td>27.0%</td>
+<td>68</td>
 </tr>
 <tr>
-<td>Retail Food &amp; Pantry</td>
-<td>~$24,000</td>
-<td>12.0%</td>
+<td><strong>Provisions — Food &amp; Merchandise</strong></td>
+<td><strong>$41,103</strong></td>
+<td><strong>22.5%</strong></td>
+<td><strong>332</strong></td>
 </tr>
 <tr>
-<td>Frozen/Prepared Meals</td>
-<td>~$21,700</td>
-<td>10.9%</td>
+<td>Coffee Program</td>
+<td>$37,928</td>
+<td>20.7%</td>
+<td>24</td>
 </tr>
 <tr>
-<td>Bakery (Focaccia, Cookies, Muffins)</td>
-<td>~$21,300</td>
-<td>10.7%</td>
+<td>Frozen Meals</td>
+<td>$14,799</td>
+<td>8.1%</td>
+<td>16</td>
 </tr>
 <tr>
-<td>Sandwiches</td>
-<td>~$18,900</td>
-<td>9.4%</td>
+<td>Open Items (uncategorized)</td>
+<td>$13,419</td>
+<td>7.3%</td>
+<td>5</td>
 </tr>
 <tr>
-<td>Wine &amp; Beer</td>
-<td>~$13,600</td>
+<td>Surcharges &amp; Gift Cards</td>
+<td>$12,523</td>
 <td>6.8%</td>
+<td>53</td>
 </tr>
 <tr>
-<td>Retail Merchandise</td>
-<td>~$11,700</td>
-<td>5.8%</td>
+<td>Provisions — Wine</td>
+<td>$10,302</td>
+<td>5.6%</td>
+<td>92</td>
 </tr>
 <tr>
-<td>Surcharges/Dual Pricing</td>
-<td>~$8,300</td>
-<td>4.1%</td>
+<td>Provisions — Beverages</td>
+<td>$2,473</td>
+<td>1.4%</td>
+<td>30</td>
 </tr>
 <tr>
-<td>Gift Cards</td>
-<td>~$6,000</td>
-<td>3.0%</td>
+<td>Provisions — Beer</td>
+<td>$661</td>
+<td>0.4%</td>
+<td>15</td>
 </tr>
 </tbody>
 </table>
-<p><em>Evidence: item categorization from skytab-items-by-timeslot.csv
-(full-period aggregate)</em></p>
+<p><strong>All provisions combined</strong> (food, merchandise, wine,
+beer, beverages, frozen meals) = <strong>$69,737 or 38.1%</strong> of
+total revenue. This is the core business. Add frozen meals and it’s
+46.2%.</p>
+<p>Provisions includes: Benton’s Bacon, MASA chips, Bon Bons, Edisto
+Honey, Date Better bars, Ranger Station Candle, Card Amy Zhang, Vandy
+chips, sauces, crackers, eggs, sausage, branded merch (PM tumbler,
+t-shirts), wine, and 300+ other SKUs.</p>
+<p><em>Evidence: item-level categorization from
+ticket-detail-all.csv</em></p>
 <h2 id="peak-hours-time-blocks">4. Peak Hours &amp; Time Blocks</h2>
 <table>
 <thead>

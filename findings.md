@@ -29,19 +29,25 @@ The data reveals a structural shift mid-period:
 
 ## 3. Revenue Breakdown by Category
 
-| Category | Revenue | % of Total |
-|---|---|---|
-| Coffee/Espresso | ~$34,500 | 17.2% |
-| Retail Food & Pantry | ~$24,000 | 12.0% |
-| Frozen/Prepared Meals | ~$21,700 | 10.9% |
-| Bakery (Focaccia, Cookies, Muffins) | ~$21,300 | 10.7% |
-| Sandwiches | ~$18,900 | 9.4% |
-| Wine & Beer | ~$13,600 | 6.8% |
-| Retail Merchandise | ~$11,700 | 5.8% |
-| Surcharges/Dual Pricing | ~$8,300 | 4.1% |
-| Gift Cards | ~$6,000 | 3.0% |
+Categorized to reflect Petit Merci's identity as a provisions store:
 
-*Evidence: item categorization from skytab-items-by-timeslot.csv (full-period aggregate)*
+| Category | Revenue | % of Total | SKUs |
+|---|---|---|---|
+| Prepared Food & Bakery | $49,303 | 27.0% | 68 |
+| **Provisions — Food & Merchandise** | **$41,103** | **22.5%** | **332** |
+| Coffee Program | $37,928 | 20.7% | 24 |
+| Frozen Meals | $14,799 | 8.1% | 16 |
+| Open Items (uncategorized) | $13,419 | 7.3% | 5 |
+| Surcharges & Gift Cards | $12,523 | 6.8% | 53 |
+| Provisions — Wine | $10,302 | 5.6% | 92 |
+| Provisions — Beverages | $2,473 | 1.4% | 30 |
+| Provisions — Beer | $661 | 0.4% | 15 |
+
+**All provisions combined** (food, merchandise, wine, beer, beverages, frozen meals) = **$69,737 or 38.1%** of total revenue. This is the core business. Add frozen meals and it's 46.2%.
+
+Provisions includes: Benton's Bacon, MASA chips, Bon Bons, Edisto Honey, Date Better bars, Ranger Station Candle, Card Amy Zhang, Vandy chips, sauces, crackers, eggs, sausage, branded merch (PM tumbler, t-shirts), wine, and 300+ other SKUs.
+
+*Evidence: item-level categorization from ticket-detail-all.csv*
 
 ## 4. Peak Hours & Time Blocks
 
