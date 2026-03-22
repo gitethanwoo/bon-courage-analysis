@@ -139,14 +139,14 @@ Petit Merci uses a simple **100% markup on all products** (buy at $30, sell at $
 | Category | Revenue | Est. COGS | Gross Profit | GP % |
 |---|---|---|---|---|
 | All products (100% markup) | $131,829 | $65,915 | $65,915 | 50% |
-| Coffee (margin est.) | $37,638 | ~$9,410 | ~$28,229 | ~75% |
+| Coffee (**margin unknown**) | $37,638 | ? | ? | ? |
 | Beer (60% markup) | $921 | $575 | $345 | 37.5% |
 | Surcharges/Gift Cards | $12,523 | $0 | $12,523 | 100% |
-| **Total** | **$182,911** | | **~$107,011** | **~58.5%** |
+| **Total** | **$182,911** | | **$78,783 + coffee** | |
 
-**Annualized gross profit: ~$162K** (208 operating days/yr). This means every $1 of incremental revenue from provisions is worth $0.50 in gross profit, while every $1 from coffee is worth ~$0.75.
+**Known gross profit (excluding coffee): ~$78,783** over the period, ~$120K annualized. Coffee adds $37,638 in revenue on top of that, but we don't know the margin — it depends on bean cost, milk, cups, labor intensity. Worth calculating: Diana knows what she pays per bag of beans and per gallon of milk, so the per-drink COGS is straightforward to estimate.
 
-**Strategic implication of the margin structure:** The 100% markup is clean and simple, but it means **coffee is actually the highest-margin category** despite being the traffic driver, not the core business. A $6 latte likely generates more gross profit ($4.50) than a $30 bottle of wine ($15). The highest-profit transaction is a coffee customer who also buys provisions — they're getting ~75% margin on the coffee plus 50% margin on everything else.
+**What we do know:** Every $1 of incremental provisions revenue is worth $0.50 in gross profit. Surcharges and gift cards are pure margin. Beer is the worst margin at 37.5%.
 
 ### Discounts
 - Total discounts: ~$3,000 (1.62% of gross) — disciplined
