@@ -126,16 +126,37 @@ The data reveals a structural shift mid-period:
 
 *Evidence: monthly revenue from ticket-detail-all.csv, seasonal item analysis from sales-summary CSVs*
 
-## 11. Pricing & Discounts
+## 11. Pricing, Margins & Discounts
 
+### Margin Structure
+Petit Merci uses a simple **100% markup on all products** (buy at $30, sell at $60) except:
+- **Beer:** ~60% markup ($5 cost → $8 retail)
+- **Coffee:** margin unknown (likely ~70-80% gross margin, industry standard for espresso drinks)
+- **Surcharges/gift cards:** 100% margin (no COGS)
+
+### Estimated Gross Profit
+
+| Category | Revenue | Est. COGS | Gross Profit | GP % |
+|---|---|---|---|---|
+| All products (100% markup) | $131,829 | $65,915 | $65,915 | 50% |
+| Coffee (margin est.) | $37,638 | ~$9,410 | ~$28,229 | ~75% |
+| Beer (60% markup) | $921 | $575 | $345 | 37.5% |
+| Surcharges/Gift Cards | $12,523 | $0 | $12,523 | 100% |
+| **Total** | **$182,911** | | **~$107,011** | **~58.5%** |
+
+**Annualized gross profit: ~$162K** (208 operating days/yr). This means every $1 of incremental revenue from provisions is worth $0.50 in gross profit, while every $1 from coffee is worth ~$0.75.
+
+**Strategic implication of the margin structure:** The 100% markup is clean and simple, but it means **coffee is actually the highest-margin category** despite being the traffic driver, not the core business. A $6 latte likely generates more gross profit ($4.50) than a $30 bottle of wine ($15). The highest-profit transaction is a coffee customer who also buys provisions — they're getting ~75% margin on the coffee plus 50% margin on everything else.
+
+### Discounts
 - Total discounts: ~$3,000 (1.62% of gross) — disciplined
 - Discount rate tightened from 1.9% (2025) → 1.0% (2026 YTD)
-- PM Merchandise (t-shirts, sweatshirts, tumblers) has highest discount rate at 21–37%
+- PM Merchandise (t-shirts, sweatshirts, tumblers) has highest discount rate at 21–37% — at 50% base margin, a 20% discount wipes out nearly half the gross profit on these items
 - **No menu prices changed between periods** — all improvement is operational
 - 18 of top 20 items have never been price-tested
 - Matcha Latte $6→$8 is the one natural experiment — it worked
 
-*Evidence: discount fields in ticket-detail-all.csv, price comparison across sales-summary CSVs*
+*Evidence: margin structure confirmed by owner, discount fields in ticket-detail-all.csv, price comparison across sales-summary CSVs*
 
 ## 12. Growth Trends
 
