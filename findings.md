@@ -1,7 +1,7 @@
 # Petit Merci — Analysis Findings
 
 **Business:** Petit Merci, provisions store on Montagu St in Charleston, SC (retail-first — no seating, no cafe permit)
-**Data:** 18,638 item-level transaction rows, 6,809 tickets, 137 operating days (Jul 2025 – Mar 2026)
+**Data:** 21,100 item-level transaction rows, 7,624 tickets, 173 operating days (Jul 2025 – Mar 2026)
 **Source:** Shift4 Lighthouse API, ticket-detail-closed endpoint
 **Primary data file:** `ticket-detail-all.csv`
 
@@ -9,12 +9,12 @@
 
 ## 1. Business Profile
 
-- **Operating days:** Wed–Sat (Tuesdays added Nov 2025, limited data so far)
+- **Operating days:** Tue–Sat (Tuesdays added Nov 2025)
 - **Hours:** ~7:45am–3:30pm (virtually zero transactions after 4pm on this POS)
-- **Total revenue (period):** ~$183K across 137 days
-- **Annualized run rate:** ~$278K (based on 4-day operating week)
-- **Average revenue/operating day:** ~$1,335
-- **Revenue by day (median):** Sat $1,685 > Fri $1,617 > Wed $1,389 > Thu $1,212
+- **Total revenue (period):** ~$258K across 173 days
+- **Annualized run rate:** ~$398K (52 Tuesdays + 208 Wed-Sat)
+- **Average revenue/operating day:** Tue $1,218 / Wed-Sat $1,610
+- **Revenue by day (median):** Sat $1,725 > Fri $1,655 > Wed $1,317 > Thu $1,264 > Tue $780
 - **POS login:** Single employee code ("Bryan") used for all transactions — does not reflect actual staffing
 
 ## 2. Business Model Pivot
@@ -66,7 +66,7 @@ Provisions includes: Benton's Bacon, MASA chips, Bon Bons, Edisto Honey, Date Be
 
 ## 5. Product Concentration
 
-- **22 items (3.4% of 639 SKUs) = 50% of revenue**
+- **22 items (2.9% of 753 SKUs) = 50% of revenue**
 - 143 items = 80% of revenue
 - Bottom 320 items (50% of catalog) = only 7.4% of revenue ($13,556)
 - **162 items sold exactly once** over the entire period
@@ -149,9 +149,9 @@ Petit Merci uses a simple **100% markup on all products** (buy at $30, sell at $
 | Coffee (75-83% margin) | $37,638 | ~$5,600 | ~$32,000 | 75-83% |
 | Beer (60% markup) | $921 | $575 | $345 | 37.5% |
 | Surcharges/Gift Cards | $12,523 | $0 | $12,523 | 100% |
-| **Total** | **$182,911** | **~$72,000** | **~$111,000** | **~61%** |
+| **Total** | **$258,103** | **~$101,000** | **~$157,000** | **~61%** |
 
-**Annualized gross profit: ~$168K** (208 operating days/yr).
+**Annualized gross profit: ~$243K** (260 operating days/yr: 52 Tue + 208 Wed-Sat).
 
 ### Coffee COGS Breakdown
 
