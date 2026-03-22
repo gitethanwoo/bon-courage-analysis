@@ -332,7 +332,7 @@ Controlling for day-of-week and seasonality, weather explains essentially none o
 | # | Action | Rationale | Impact |
 |---|---|---|---|
 | 1 | **Accelerate new merch launches** | Growth comes from new product introductions, not existing catalog. Keep the pipeline moving every 4-6 weeks. | +$10-15K/yr |
-| 2 | **Differentiate food menu from Babas** | They're stealing sandwiches (-32%) and coffee (-20%). Compete on items they DON'T have: frozen meals, specialty retail food, French-specific items. | Defend $30K+/yr |
+| 2 | **Differentiate food menu from Babas** | They're stealing coffee (-$99/day) and sandwiches (-$20/day). Total revenue loss ~$25K/yr, ~$18.5K in profit (coffee is 80% margin). Compete on items they DON'T have: frozen meals, specialty retail food, French-specific items. | Defend ~$25K/yr revenue |
 | 3 | **Own the holiday/gifting calendar** | Dec is 2.2x normal revenue. Thanksgiving Eve = $4,779. Plan 5-6 seasonal moments/year. January is a cliff — plan a post-holiday promotion. | +$15-20K/yr |
 | 4 | **Food upsell on coffee tickets** | 64% leave without food. Prompt at register. | +$15K/yr |
 | 5 | **Price test staples** | Matcha $6→$8 worked. Don't compete on price with Babas — compete on experience + quality. | +$3-5K/yr |
