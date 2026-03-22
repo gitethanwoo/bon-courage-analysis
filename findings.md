@@ -139,14 +139,27 @@ Petit Merci uses a simple **100% markup on all products** (buy at $30, sell at $
 | Category | Revenue | Est. COGS | Gross Profit | GP % |
 |---|---|---|---|---|
 | All products (100% markup) | $131,829 | $65,915 | $65,915 | 50% |
-| Coffee (**margin unknown**) | $37,638 | ? | ? | ? |
+| Coffee (75-83% margin) | $37,638 | ~$5,600 | ~$32,000 | 75-83% |
 | Beer (60% markup) | $921 | $575 | $345 | 37.5% |
 | Surcharges/Gift Cards | $12,523 | $0 | $12,523 | 100% |
-| **Total** | **$182,911** | | **$78,783 + coffee** | |
+| **Total** | **$182,911** | **~$72,000** | **~$111,000** | **~61%** |
 
-**Known gross profit (excluding coffee): ~$78,783** over the period, ~$120K annualized. Coffee adds $37,638 in revenue on top of that, but we don't know the margin — it depends on bean cost, milk, cups, labor intensity. Worth calculating: Diana knows what she pays per bag of beans and per gallon of milk, so the per-drink COGS is straightforward to estimate.
+**Annualized gross profit: ~$168K** (208 operating days/yr).
 
-**What we do know:** Every $1 of incremental provisions revenue is worth $0.50 in gross profit. Surcharges and gift cards are pure margin. Beer is the worst margin at 37.5%.
+### Coffee COGS Breakdown
+
+Bean cost is known: $68 for a 5lb bag, 18g per double shot = **$0.54 per drink in beans**. Milk adds $0.27-$0.78 depending on type (10oz for a latte, 7oz for a cappuccino). Cup/lid ~$0.15.
+
+| Drink | COGS | Sale Price | Gross Margin |
+|---|---|---|---|
+| Latte | $0.96–$1.47 | $6.00 | 75–84% |
+| Cappuccino | $0.88–$1.24 | $5.50 | 78–84% |
+| Espresso/Americano | $0.69 | $3–4 | 77–83% |
+| Add Syrup | ~$0.12 | $1.00 | ~88% |
+
+Coffee is the highest-margin category at 75-83%, vs 50% on provisions and 37.5% on beer. Every $1 of provisions revenue is worth $0.50 in gross profit; every $1 of coffee is worth $0.75-$0.83.
+
+*Evidence: bean cost ($68/5lb bag) and pour weight (18g/shot) confirmed by owner. Milk cost estimated across scenarios ($3.50-$10/gallon).*
 
 ### Discounts
 - Total discounts: ~$3,000 (1.62% of gross) — disciplined

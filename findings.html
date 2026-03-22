@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Petit Merci — Sales Analysis &amp; Strategic Findings</title>
+  
+<style>
+  @page { margin: 0.75in; }
+  body {
+    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  h1 { font-size: 24pt; font-weight: 700; border-bottom: 2px solid #333; padding-bottom: 12px; margin-top: 0; }
+  h2 { font-size: 15pt; font-weight: 600; margin-top: 32px; border-bottom: 1px solid #ccc; padding-bottom: 6px; }
+  h3 { font-size: 12pt; font-weight: 600; margin-top: 20px; }
+  p { margin: 8px 0; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 10pt; }
+  th { background-color: #333; color: white; padding: 8px 12px; text-align: left; font-weight: 600; }
+  td { padding: 6px 12px; border-bottom: 1px solid #ddd; }
+  tr:nth-child(even) { background-color: #f5f5f5; }
+  ul, ol { padding-left: 24px; }
+  li { margin: 4px 0; }
+  code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 9.5pt; }
+  hr { border: none; border-top: 1px solid #ddd; margin: 24px 0; }
+  @media print {
+    body { padding: 0; }
+    table { page-break-inside: avoid; }
+  }
+</style>
+
+  <link rel="stylesheet" href="/dev/null" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Petit Merci — Sales Analysis &amp; Strategic
+Findings</h1>
+</header>
+<h1 id="petit-merci-analysis-findings">Petit Merci — Analysis
+Findings</h1>
+<p><strong>Business:</strong> Petit Merci, provisions store on Montagu
+St in Charleston, SC (retail-first — no seating, no cafe permit)
+<strong>Data:</strong> 18,638 item-level transaction rows, 6,809
+tickets, 137 operating days (Jul 2025 – Mar 2026)
+<strong>Source:</strong> Shift4 Lighthouse API, ticket-detail-closed
+endpoint <strong>Primary data file:</strong>
+<code>ticket-detail-all.csv</code></p>
+<hr />
+<h2 id="business-profile">1. Business Profile</h2>
+<ul>
+<li><strong>Operating days:</strong> Wed–Sat only (Mon/Tue/Sun
+closed)</li>
+<li><strong>Hours:</strong> ~7:45am–3:30pm (virtually zero transactions
+after 4pm on this POS)</li>
+<li><strong>Total revenue (period):</strong> ~$183K across 137 days</li>
+<li><strong>Annualized run rate:</strong> ~$278K (based on 4-day
+operating week)</li>
+<li><strong>Average revenue/operating day:</strong> ~$1,335</li>
+<li><strong>Revenue by day (median):</strong> Sat $1,685 &gt; Fri $1,617
+&gt; Wed $1,389 &gt; Thu $1,212</li>
+<li><strong>POS login:</strong> Single employee code (“Bryan”) used for
+all transactions — does not reflect actual staffing</li>
+</ul>
+<h2 id="business-model-pivot">2. Business Model Pivot</h2>
+<p>The data reveals a structural shift mid-period: - <strong>Early
+months (Jul–Sep 2025):</strong> ~10.5 tickets/day at ~$160/ticket
+(bulk/wholesale-style) - <strong>Recent months (Jan–Mar 2026):</strong>
+~42 tickets/day at ~$28/ticket (individual retail customers) - Traffic
+grew ~300% while ticket values dropped ~82% - Daily revenue stayed
+roughly flat through this transformation</p>
+<p><em>Evidence: ticket count and avg ticket value by month from
+ticket-detail-all.csv</em></p>
+<h2 id="revenue-breakdown-by-category">3. Revenue Breakdown by
+Category</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Revenue</th>
+<th>% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Coffee/Espresso</td>
+<td>~$34,500</td>
+<td>17.2%</td>
+</tr>
+<tr>
+<td>Retail Food &amp; Pantry</td>
+<td>~$24,000</td>
+<td>12.0%</td>
+</tr>
+<tr>
+<td>Frozen/Prepared Meals</td>
+<td>~$21,700</td>
+<td>10.9%</td>
+</tr>
+<tr>
+<td>Bakery (Focaccia, Cookies, Muffins)</td>
+<td>~$21,300</td>
+<td>10.7%</td>
+</tr>
+<tr>
+<td>Sandwiches</td>
+<td>~$18,900</td>
+<td>9.4%</td>
+</tr>
+<tr>
+<td>Wine &amp; Beer</td>
+<td>~$13,600</td>
+<td>6.8%</td>
+</tr>
+<tr>
+<td>Retail Merchandise</td>
+<td>~$11,700</td>
+<td>5.8%</td>
+</tr>
+<tr>
+<td>Surcharges/Dual Pricing</td>
+<td>~$8,300</td>
+<td>4.1%</td>
+</tr>
+<tr>
+<td>Gift Cards</td>
+<td>~$6,000</td>
+<td>3.0%</td>
+</tr>
+</tbody>
+</table>
+<p><em>Evidence: item categorization from skytab-items-by-timeslot.csv
+(full-period aggregate)</em></p>
+<h2 id="peak-hours-time-blocks">4. Peak Hours &amp; Time Blocks</h2>
+<table>
+<thead>
+<tr>
+<th>Time Block</th>
+<th>% of Revenue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lunch (11am–1pm)</td>
+<td>33.0%</td>
+</tr>
+<tr>
+<td>Morning (9am–11am)</td>
+<td>32.6%</td>
+</tr>
+<tr>
+<td>Afternoon (1pm–4pm)</td>
+<td>27.4%</td>
+</tr>
+<tr>
+<td>Early morning (before 9am)</td>
+<td>7.0%</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>10am–12pm</strong> is a flat revenue plateau generating
+53.4% of daily revenue</li>
+<li><strong>8am hour</strong> runs at less than half the peak rate</li>
+<li><strong>After 2pm</strong> drops off steeply</li>
+</ul>
+<p><em>Evidence: skytab-items-by-timeslot.csv time slot aggregates,
+hourly-sales CSV</em></p>
+<h2 id="product-concentration">5. Product Concentration</h2>
+<ul>
+<li><strong>22 items (3.4% of 639 SKUs) = 50% of revenue</strong></li>
+<li>143 items = 80% of revenue</li>
+<li>Bottom 320 items (50% of catalog) = only 7.4% of revenue
+($13,556)</li>
+<li><strong>162 items sold exactly once</strong> over the entire
+period</li>
+<li>8 daily staples appear 80%+ of operating days: Latte, Add Syrup,
+Chocolate Chip Cookie, Matcha Latte, Cappuccino, Turkey Sandwich, Ham
+&amp; Brie, Americano</li>
+</ul>
+<p><em>Evidence: item frequency and revenue analysis from
+ticket-detail-all.csv</em></p>
+<h2 id="top-items">6. Top Items</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Revenue</th>
+<th>Daily Velocity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Latte</td>
+<td>~$17,540</td>
+<td>~21 units/day</td>
+</tr>
+<tr>
+<td>Surcharges/Dual Pricing</td>
+<td>~$8,300</td>
+<td>auto</td>
+</tr>
+<tr>
+<td>Turkey Sandwich</td>
+<td>~$6,700</td>
+<td>consistent</td>
+</tr>
+<tr>
+<td>Baked Ziti W/ Meatballs</td>
+<td>~$5,100</td>
+<td>take-home</td>
+</tr>
+<tr>
+<td>Matcha Latte</td>
+<td>~$4,300</td>
+<td>~3 units/day</td>
+</tr>
+<tr>
+<td>Focaccia - Petit</td>
+<td>~$3,100</td>
+<td>~2/day</td>
+</tr>
+<tr>
+<td>Chocolate Chip Cookie</td>
+<td>~$3,100</td>
+<td>~8/day</td>
+</tr>
+<tr>
+<td>Ham &amp; Brie</td>
+<td>~$3,000</td>
+<td>consistent</td>
+</tr>
+</tbody>
+</table>
+<p><em>Evidence: ticket-detail-all.csv item aggregation</em></p>
+<h2 id="coffee-program">7. Coffee Program</h2>
+<ul>
+<li>5,851 coffee drinks sold, avg $5.89/drink</li>
+<li><strong>Latte = 51% of all coffee revenue</strong></li>
+<li>Syrup attach rate: <strong>45.1%</strong> (Add Syrup on same ticket
+as coffee)</li>
+<li>Peak coffee hour: 9–10am</li>
+<li>Matcha Latte successfully repriced from $6 → $8 with minimal volume
+loss — <strong>proves price elasticity tolerance</strong></li>
+</ul>
+<p><em>Evidence: ticket-detail-all.csv co-occurrence analysis, price
+history from item records</em></p>
+<h2 id="basket-analysis">8. Basket Analysis</h2>
+<ul>
+<li><strong>64.4% of coffee tickets have NO food item</strong></li>
+<li>When food IS added to a coffee ticket, avg ticket jumps from $14.57
+→ $38.96 (+$24.40)</li>
+<li>30% of all tickets are drinks-only, averaging $7.91</li>
+<li>Only 4.9% of tickets include a take-home frozen meal, but those
+tickets average $95.62 (3.1x store average)</li>
+<li>73% of sandwich tickets have no cookie/dessert</li>
+</ul>
+<p><em>Evidence: ticket-detail-all.csv basket co-occurrence, ticket
+composition analysis</em></p>
+<h2 id="customer-segments-inferred-from-ticket-composition">9. Customer
+Segments (inferred from ticket composition)</h2>
+<table>
+<thead>
+<tr>
+<th>Segment</th>
+<th>% of Tickets</th>
+<th>% of Revenue</th>
+<th>Avg Ticket</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quick Grab (drinks only)</td>
+<td>~30%</td>
+<td>~6%</td>
+<td>$7.91</td>
+</tr>
+<tr>
+<td>Moderate (coffee + 1-2 items)</td>
+<td>~30%</td>
+<td>~13%</td>
+<td>~$17</td>
+</tr>
+<tr>
+<td>Big Basket (meal + retail)</td>
+<td>~27%</td>
+<td>~30%</td>
+<td>~$40</td>
+</tr>
+<tr>
+<td>Premium (events/bulk/gifting)</td>
+<td>~11%</td>
+<td>~51%</td>
+<td>~$150+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Two transaction profiles:</strong> quick coffee/snack grab
+(majority of tickets, minority of revenue) vs intentional provisions
+shopping trip (minority of tickets, majority of revenue). The data
+confirms the provisions store model — coffee drives foot traffic, but
+retail is the business.</li>
+</ul>
+<p><em>Evidence: ticket value distribution clustering from
+ticket-detail-all.csv</em></p>
+<h2 id="seasonal-patterns">10. Seasonal Patterns</h2>
+<ul>
+<li><strong>December</strong> is peak: $1,682/day avg (2.2x normal).
+Week of Dec 15 hit $10,276.</li>
+<li><strong>Valentine’s 2026</strong> was a deliberate, successful
+seasonal push: 1 SKU/$317 (2025) → 16 SKUs/$1,991</li>
+<li>Gift cards spike in December (24 of 50 total loads)</li>
+<li>Christmas/Fall seasonal items generated ~$5,300 in 2025</li>
+<li>Seasonal coffee drinks (Frosty, Gingerbread Man, Le Fluffernut)
+contributed ~$2,500</li>
+</ul>
+<p><em>Evidence: monthly revenue from ticket-detail-all.csv, seasonal
+item analysis from sales-summary CSVs</em></p>
+<h2 id="pricing-margins-discounts">11. Pricing, Margins &amp;
+Discounts</h2>
+<h3 id="margin-structure">Margin Structure</h3>
+<p>Petit Merci uses a simple <strong>100% markup on all
+products</strong> (buy at $30, sell at $60) except: -
+<strong>Beer:</strong> ~60% markup ($5 cost → $8 retail) -
+<strong>Coffee:</strong> margin unknown (likely ~70-80% gross margin,
+industry standard for espresso drinks) - <strong>Surcharges/gift
+cards:</strong> 100% margin (no COGS)</p>
+<h3 id="estimated-gross-profit">Estimated Gross Profit</h3>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Revenue</th>
+<th>Est. COGS</th>
+<th>Gross Profit</th>
+<th>GP %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All products (100% markup)</td>
+<td>$131,829</td>
+<td>$65,915</td>
+<td>$65,915</td>
+<td>50%</td>
+</tr>
+<tr>
+<td>Coffee (75-83% margin)</td>
+<td>$37,638</td>
+<td>~$5,600</td>
+<td>~$32,000</td>
+<td>75-83%</td>
+</tr>
+<tr>
+<td>Beer (60% markup)</td>
+<td>$921</td>
+<td>$575</td>
+<td>$345</td>
+<td>37.5%</td>
+</tr>
+<tr>
+<td>Surcharges/Gift Cards</td>
+<td>$12,523</td>
+<td>$0</td>
+<td>$12,523</td>
+<td>100%</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$182,911</strong></td>
+<td><strong>~$72,000</strong></td>
+<td><strong>~$111,000</strong></td>
+<td><strong>~61%</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Annualized gross profit: ~$168K</strong> (208 operating
+days/yr).</p>
+<h3 id="coffee-cogs-breakdown">Coffee COGS Breakdown</h3>
+<p>Bean cost is known: $68 for a 5lb bag, 18g per double shot =
+<strong>$0.54 per drink in beans</strong>. Milk adds $0.27-$0.78
+depending on type (10oz for a latte, 7oz for a cappuccino). Cup/lid
+~$0.15.</p>
+<table>
+<thead>
+<tr>
+<th>Drink</th>
+<th>COGS</th>
+<th>Sale Price</th>
+<th>Gross Margin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Latte</td>
+<td>$0.96–$1.47</td>
+<td>$6.00</td>
+<td>75–84%</td>
+</tr>
+<tr>
+<td>Cappuccino</td>
+<td>$0.88–$1.24</td>
+<td>$5.50</td>
+<td>78–84%</td>
+</tr>
+<tr>
+<td>Espresso/Americano</td>
+<td>$0.69</td>
+<td>$3–4</td>
+<td>77–83%</td>
+</tr>
+<tr>
+<td>Add Syrup</td>
+<td>~$0.12</td>
+<td>$1.00</td>
+<td>~88%</td>
+</tr>
+</tbody>
+</table>
+<p>Coffee is the highest-margin category at 75-83%, vs 50% on provisions
+and 37.5% on beer. Every $1 of provisions revenue is worth $0.50 in
+gross profit; every $1 of coffee is worth $0.75-$0.83.</p>
+<p><em>Evidence: bean cost ($68/5lb bag) and pour weight (18g/shot)
+confirmed by owner. Milk cost estimated across scenarios
+($3.50-$10/gallon).</em></p>
+<h3 id="discounts">Discounts</h3>
+<ul>
+<li>Total discounts: ~$3,000 (1.62% of gross) — disciplined</li>
+<li>Discount rate tightened from 1.9% (2025) → 1.0% (2026 YTD)</li>
+<li>PM Merchandise (t-shirts, sweatshirts, tumblers) has highest
+discount rate at 21–37% — at 50% base margin, a 20% discount wipes out
+nearly half the gross profit on these items</li>
+<li><strong>No menu prices changed between periods</strong> — all
+improvement is operational</li>
+<li>18 of top 20 items have never been price-tested</li>
+<li>Matcha Latte $6→$8 is the one natural experiment — it worked</li>
+</ul>
+<p><em>Evidence: margin structure confirmed by owner, discount fields in
+ticket-detail-all.csv, price comparison across sales-summary
+CSVs</em></p>
+<h2 id="growth-trends">12. Growth Trends</h2>
+<ul>
+<li>Revenue per operating day is <strong>flat</strong> over 9 months
+(~-$9/month trend)</li>
+<li>But ticket count is growing at +5.1 tickets/day/month</li>
+<li>Rising stars: Cookie Asst. (+171%), Card Amy Zhang (+223%), Ranger
+Station Candle (new, $1,080)</li>
+<li>Fading: Open Retail declining (good — more items properly
+categorized)</li>
+</ul>
+<h3 id="retail-merch-growth-corrected-analysis">Retail Merch Growth:
+Corrected Analysis</h3>
+<p>Earlier analysis claimed +98% retail merch growth post-Babas.
+<strong>This is misleading.</strong> Deep dive reveals:</p>
+<p><strong>Core merch (excluding 5 breakout products) by
+phase:</strong></p>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Core Merch $/day</th>
+<th>Breakout $/day</th>
+<th>Total Merch $/day</th>
+<th>Merch % of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Summer (Jul-Sep)</td>
+<td>$90</td>
+<td>$0</td>
+<td>$90</td>
+<td>6.8%</td>
+</tr>
+<tr>
+<td>Oct (pre-Babas)</td>
+<td>$124</td>
+<td>$0</td>
+<td>$124</td>
+<td>8.3%</td>
+</tr>
+<tr>
+<td>Nov (pre-Babas)</td>
+<td>$215</td>
+<td>$0</td>
+<td>$215</td>
+<td>16.3%</td>
+</tr>
+<tr>
+<td>Dec (Babas opens mid-month)</td>
+<td>$219</td>
+<td>$37</td>
+<td>$255</td>
+<td>13.7%</td>
+</tr>
+<tr>
+<td>Jan (post-holiday)</td>
+<td><strong>$51</strong></td>
+<td>$60</td>
+<td>$111</td>
+<td>10.3%</td>
+</tr>
+<tr>
+<td>Feb</td>
+<td>$109</td>
+<td>$68</td>
+<td>$177</td>
+<td>13.0%</td>
+</tr>
+<tr>
+<td>Mar (partial)</td>
+<td>$92</td>
+<td>$71</td>
+<td>$163</td>
+<td>14.4%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What’s actually driving the growth:</strong></p>
+<ol type="1">
+<li><p><strong>Seasonality is the primary driver.</strong> Core merch
+surged Oct-Nov ($124→$215/day) BEFORE Babas opened, driven by holiday
+gift buying. January crashed to $51/day. This is a seasonal curve, not
+structural growth.</p></li>
+<li><p><strong>Five breakout products mask the decline.</strong> These
+items contribute $60-71/day post-Babas:</p>
+<ul>
+<li>Ranger Station Candle: $1,080 (brand new, 27 units)</li>
+<li>Card Amy Zhang: $655 (brand new, 131 units)</li>
+<li>PM Tumbler: +$500 increase ($120→$620)</li>
+<li>Merci t-shirt: +$388 increase ($24→$412)</li>
+<li>PM Sweatshirt: $383 (new in post period) Without these, post-Babas
+merch would look <em>worse</em> than Oct-Nov baseline.</li>
+</ul></li>
+<li><p><strong>Merch share of total IS genuinely rising</strong> (6.8%
+summer → 13-14% Feb-Mar). But partly because coffee and sandwiches are
+shrinking (Babas stealing those), not because merch is booming
+organically.</p></li>
+</ol>
+<p><strong>Corrected interpretation:</strong> The “retail is the moat”
+thesis is still directionally right — it’s the one category Babas can’t
+touch. But the growth engine is <strong>new product
+introductions</strong>, not organic demand for existing products. The
+implication: keep launching new merch aggressively (that’s what works),
+but don’t assume the existing catalog will grow on its own.</p>
+<p><em>Evidence: item-level phase analysis from ticket-detail-all.csv,
+controlling for 5 breakout items and seasonal patterns</em></p>
+<h2 id="operational-notes">13. Operational Notes</h2>
+<ul>
+<li>Void rate: 0.72% — exemplary, no waste/training issue</li>
+<li>“Open” items (Open Food, Open Retail, etc.) declining from 11.5% →
+5.7% of revenue — better POS discipline</li>
+<li>Surcharge/dual pricing steady at ~4% of revenue, avg surcharge
+rising ($1.14 → $1.23)</li>
+</ul>
+<p><em>Evidence: item_status field in ticket-detail-all.csv, Open item
+trends from sales-summary CSVs</em></p>
+<hr />
+<h2 id="priority-actions-ranked">Priority Actions (ranked)</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Action</th>
+<th>Projected Impact</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Food upsell prompt on coffee tickets (64% have no food)</td>
+<td>+$15K/yr</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Seasonal product drops (replicate Valentine’s playbook 4-5x/yr)</td>
+<td>+$15-20K/yr</td>
+<td>Inventory</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Price test $0.50 increases on 8 daily staples</td>
+<td>+$3-5K/yr</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Prune 150+ zombie SKUs (50% of catalog = 7% of revenue)</td>
+<td>Save $5-9K/yr</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Expand Retail Merch (fastest growing category, high margin)</td>
+<td>+$5-10K/yr</td>
+<td>Inventory</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Investigate Thursday gap ($473/day below Saturday median)</td>
+<td>TBD</td>
+<td>TBD</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="college-of-charleston-impact">14. College of Charleston
+Impact</h2>
+<p>CofC is located adjacent to Petit Merci. Academic calendar 2025-2026:
+- Fall classes: Aug 19 – Dec 1. Fall break Oct 13-14. Thanksgiving Nov
+26-30. Finals Dec 3-8. - Winter break: Dec 9 – Jan 3. - Spring classes:
+Jan 7 – Apr 22. Spring break Mar 1-8.</p>
+<p><strong>Finding: Students drive foot traffic, NOT revenue (r =
+-0.071, p = 0.42, not significant).</strong></p>
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>Tickets/Day</th>
+<th>Revenue/Day</th>
+<th>Avg Ticket</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Classes in session</td>
+<td>52.7</td>
+<td>$1,547</td>
+<td>$29.38</td>
+</tr>
+<tr>
+<td>Students off campus</td>
+<td>48.1</td>
+<td>$1,663</td>
+<td>$34.55</td>
+</tr>
+</tbody>
+</table>
+<p>Students bring +9% more customers but spend -18% less per ticket. Net
+revenue impact is a wash.</p>
+<p><strong>Calendar events that DO matter:</strong> -
+<strong>Thanksgiving Eve (Nov 26):</strong> $4,779 — 2nd best day ever.
+Holiday entertaining/gifting. - <strong>Pre-Christmas (Dec
+10-23):</strong> $2,365/day — best sustained stretch, zero students on
+campus. - <strong>Move-in Saturday (Aug 16):</strong> $2,637 — families
+exploring the neighborhood. - <strong>Fall finals week:</strong>
+$2,620/day avg but only 44 tickets (parents visiting, gift-buying). -
+<strong>Spring break:</strong> Only -5% dip. Barely noticeable.</p>
+<p><strong>Seasonal revenue ranking (avg daily):</strong> Fall Finals
+$2,620 &gt; Thanksgiving $2,440 &gt; Move-in $2,005 &gt; Winter Break
+$1,758 &gt; Fall Classes $1,532 &gt; Summer $1,499 &gt; Spring Classes
+$1,421 &gt; Spring Break $1,323.</p>
+<p><strong>Verdict:</strong> Petit Merci is not a student-dependent
+business. It’s a provisions store serving locals, tourists, and seasonal
+gift shoppers.</p>
+<p><em>Evidence: CofC 2025-2026 academic calendar from
+charleston.edu/registrar, daily revenue from
+ticket-detail-all.csv</em></p>
+<h2 id="weather-impact">15. Weather Impact</h2>
+<p>Weather data from Open-Meteo archive API for Charleston, SC (CHS)
+merged with daily sales.</p>
+<p><strong>Finding: Weather is not a primary revenue
+driver.</strong></p>
+<ul>
+<li><strong>Rain vs dry:</strong> $1,556 vs $1,513 avg daily revenue. No
+significant difference (t-test p = 0.74).</li>
+<li><strong>Temperature vs revenue:</strong> r = 0.042 (p = 0.63) — no
+linear correlation.</li>
+<li><strong>Temperature vs ticket count:</strong> r = 0.385 (p &lt;
+0.0001) — warmer days bring more people.</li>
+<li><strong>Temperature vs avg ticket value:</strong> r = -0.255 (p =
+0.003) — cooler days drive higher spend per visit.</li>
+<li>Net effect: hot days = more people who spend less; cold days = fewer
+people who spend more. Cancels out.</li>
+</ul>
+<p><strong>Temperature bands:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Band</th>
+<th>Days</th>
+<th>Avg Revenue</th>
+<th>Avg Tickets</th>
+<th>Avg Ticket $</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>40-50F</td>
+<td>6</td>
+<td>$953</td>
+<td>25.7</td>
+<td>$30.42</td>
+</tr>
+<tr>
+<td><strong>50-60F</strong></td>
+<td><strong>27</strong></td>
+<td><strong>$1,666</strong></td>
+<td><strong>42.4</strong></td>
+<td><strong>$40.04</strong></td>
+</tr>
+<tr>
+<td>60-70F</td>
+<td>32</td>
+<td>$1,424</td>
+<td>44.2</td>
+<td>$32.43</td>
+</tr>
+<tr>
+<td>70-80F</td>
+<td>38</td>
+<td>$1,644</td>
+<td>58.2</td>
+<td>$28.54</td>
+</tr>
+<tr>
+<td>80-90F</td>
+<td>30</td>
+<td>$1,503</td>
+<td>56.4</td>
+<td>$27.89</td>
+</tr>
+<tr>
+<td>90F+</td>
+<td>4</td>
+<td>$1,316</td>
+<td>48.5</td>
+<td>$27.57</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Below 50F is the only danger zone</strong> — foot traffic
+drops enough to meaningfully hurt ($953/day).</li>
+<li><strong>50-60F is the sweet spot</strong> — highest revenue because
+ticket values peak at $40/ticket.</li>
+<li>Rain shifts product mix toward prepared food (+2.8pp), pastries
+(+0.9pp), and retail/gifts (+1.5pp).</li>
+</ul>
+<p><strong>Verdict:</strong> Seasonality and day-of-week matter 10x more
+than weather. Don’t cancel promotions for rain.</p>
+<p><em>Evidence: Open-Meteo historical API, merged dataset at
+daily-sales-weather.csv</em></p>
+<h2 id="competitor-impact-babas-on-wentworth">16. Competitor Impact —
+Babas on Wentworth</h2>
+<p><strong>Babas Charleston</strong> (https://babascharleston.com/)
+opened their third location at 115½ Wentworth St — one block from Petit
+Merci — on <strong>December 16, 2025</strong> (not October as initially
+estimated).</p>
+<p><strong>Babas profile:</strong> - European-inspired neighborhood cafe
+chain, 3 Charleston locations - 24K Instagram followers, press in Conde
+Nast Traveler, Forbes, Charleston Magazine - Hours: Tue-Thu 7a-8p,
+Fri-Sat 7a-10p, Sun 7a-6p - Menu: espresso ($2), pastries, sandwiches
+(turkey, ham &amp; butter), salads ($10-14), cocktails, wine - Rating:
+~4.6-4.7/5 across platforms - <strong>Near-total competitive
+overlap</strong> on coffee, pastries, and sandwiches</p>
+<p><strong>Revenue impact (controlling for PM’s wholesale-to-retail
+pivot, retail-only orders &lt;$100):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Pre-Babas (before Dec 16)</th>
+<th>Post-Babas</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Avg daily revenue</td>
+<td>$1,129</td>
+<td>$958</td>
+<td><strong>-15.2%</strong></td>
+</tr>
+<tr>
+<td>Avg daily tickets</td>
+<td>~50</td>
+<td>~39</td>
+<td><strong>-20%</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Categories hit hardest:</strong> - Sandwiches:
+<strong>-32.4%</strong> (-$92/day) — direct menu overlap -
+Coffee/Espresso: <strong>-20.0%</strong> (-$52/day) — Babas undercuts on
+price ($2 espresso) - Matcha Latte: <strong>-37%</strong> — Babas known
+for matcha with house-made peanut milk - Turkey Sandwich:
+<strong>-33%</strong>, Ham &amp; Brie: <strong>-24%</strong> — identical
+items on Babas menu - Chocolate Chip Cookie: <strong>-29%</strong></p>
+<p><strong>Category GROWING despite Babas:</strong> -
+<strong>Retail/Market goods:</strong> merch share of total revenue rose
+from 6.8% → 13-14%. However, this is driven primarily by 5 breakout
+product introductions (Ranger Station Candle, Card Amy Zhang, PM
+Tumbler, Merci t-shirt, PM Sweatshirt) and seasonal holiday buying — not
+organic growth of existing merch. Core merch (excluding breakouts) fell
+from $215/day in Nov to $51-109/day in Jan-Mar. See Section 12 for full
+corrected analysis. Babas does not sell retail goods.</p>
+<p><strong>Monthly trajectory:</strong> - January 2026 was the shock
+month ($1,155/day, worst month) — first full month after Babas opened. -
+February 2026 recovered to $1,560/day — customers settling into visiting
+both, not fully defecting.</p>
+<p><strong>Verdict:</strong> Babas is stealing coffee and sandwich
+traffic but cannot compete on provisions — curated retail food,
+merchandise, frozen meals, wine. That’s Petit Merci’s core business and
+moat.</p>
+<p><em>Evidence: Babas website, Post and Courier opening announcement,
+Yelp reviews, daily revenue split from ticket-detail-all.csv</em></p>
+<hr />
+<h2 id="revised-priority-actions">Revised Priority Actions</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Action</th>
+<th>Rationale</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Accelerate new merch launches</strong></td>
+<td>Core merch doesn’t grow organically — growth comes entirely from new
+product introductions (Ranger Station Candle, Card Amy Zhang, PM Tumbler
+drove $2,700+ combined). Keep the pipeline moving: new candles, cards,
+branded items every 4-6 weeks.</td>
+<td>+$10-15K/yr</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Differentiate food menu from Babas</strong></td>
+<td>Babas is stealing sandwiches (-32%) and coffee (-20%). Compete on
+items they DON’T have: frozen meals, specialty retail food,
+French-specific items. Stop trying to win on commodity
+coffee/sandwiches.</td>
+<td>Defend $30K+/yr</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Own the holiday/gifting calendar</strong></td>
+<td>Dec is 2.2x normal revenue and student-independent. Thanksgiving Eve
+= $4,779. Nov merch was $215/day vs $90/day in summer — holiday buying
+is real and repeatable. Plan 5-6 seasonal moments/year. January is a
+cliff ($51/day core merch) — plan a post-holiday promotion.</td>
+<td>+$15-20K/yr</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Food upsell on coffee tickets</strong></td>
+<td>64% leave without food. Prompt at register.</td>
+<td>+$15K/yr</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Price test staples</strong></td>
+<td>Matcha $6→$8 worked. Babas charges $2 for espresso so don’t compete
+on price — compete on experience + quality.</td>
+<td>+$3-5K/yr</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Prune 150+ zombie SKUs</strong></td>
+<td>50% of catalog = 7% of revenue. Free shelf space for new merch
+launches (the actual growth engine).</td>
+<td>Save $5-9K/yr</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="next-investigations">Next Investigations</h2>
+<ul class="task-list">
+<li><label><input type="checkbox" /><strong>Instagram posting</strong> —
+do posts/stories correlate with next-day or same-day
+traffic?</label></li>
+<li><label><input type="checkbox" checked="" /><del>College
+schedule</del> — not a significant driver (Section 14)</label></li>
+<li><label><input type="checkbox" checked="" /><del>Weather</del> — not
+a significant driver (Section 15)</label></li>
+<li><label><input type="checkbox" checked="" /><del>Competitor
+(Babas)</del> — significant impact on coffee/sandwiches (Section
+16)</label></li>
+</ul>
+<hr />
+<h2 id="data-files">Data Files</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>File</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ticket-detail-all.csv</code></td>
+<td>18,638 item rows, every transaction Jul 2025–Mar 2026</td>
+</tr>
+<tr>
+<td><code>daily-sales-weather.csv</code></td>
+<td>Daily revenue merged with weather data (137 days)</td>
+</tr>
+<tr>
+<td><code>skytab-items-by-timeslot.csv</code></td>
+<td>Item sales by 15-min time slot (full period aggregate)</td>
+</tr>
+<tr>
+<td><code>hourly-sales-1774127383705.csv</code></td>
+<td>Hourly revenue by date</td>
+</tr>
+<tr>
+<td><code>sales-summary-combined.csv</code></td>
+<td>Item summaries with Period column (2025 / 2026 YTD)</td>
+</tr>
+<tr>
+<td><code>sales-summary-by-item-1774126612429.csv</code></td>
+<td>2025 full year item summary</td>
+</tr>
+<tr>
+<td><code>sales-summary-by-item-1774126787960.csv</code></td>
+<td>2026 YTD item summary</td>
+</tr>
+<tr>
+<td><code>sales-summary-by-item-1774127740940.csv</code></td>
+<td>Combined period item summary</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
