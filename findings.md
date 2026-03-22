@@ -1,6 +1,6 @@
 # Petit Merci — Analysis Findings
 
-**Business:** Petit Merci, cafe/market in Charleston, SC
+**Business:** Petit Merci, provisions store on Montagu St in Charleston, SC (retail-first — no seating, no cafe permit)
 **Data:** 18,638 item-level transaction rows, 6,809 tickets, 137 operating days (Jul 2025 – Mar 2026)
 **Source:** Shift4 Lighthouse API, ticket-detail-closed endpoint
 **Primary data file:** `ticket-detail-all.csv`
@@ -21,7 +21,7 @@
 
 The data reveals a structural shift mid-period:
 - **Early months (Jul–Sep 2025):** ~10.5 tickets/day at ~$160/ticket (bulk/wholesale-style)
-- **Recent months (Jan–Mar 2026):** ~42 tickets/day at ~$28/ticket (retail cafe)
+- **Recent months (Jan–Mar 2026):** ~42 tickets/day at ~$28/ticket (individual retail customers)
 - Traffic grew ~300% while ticket values dropped ~82%
 - Daily revenue stayed roughly flat through this transformation
 
@@ -112,7 +112,7 @@ The data reveals a structural shift mid-period:
 | Big Basket (meal + retail) | ~27% | ~30% | ~$40 |
 | Premium (events/bulk/gifting) | ~11% | ~51% | ~$150+ |
 
-- **Two businesses in one:** daily neighborhood cafe (majority of tickets, minority of revenue) vs curated market/gift destination (minority of tickets, majority of revenue)
+- **Two transaction profiles:** quick coffee/snack grab (majority of tickets, minority of revenue) vs intentional provisions shopping trip (minority of tickets, majority of revenue). The data confirms the provisions store model — coffee drives foot traffic, but retail is the business.
 
 *Evidence: ticket value distribution clustering from ticket-detail-all.csv*
 
@@ -227,7 +227,7 @@ Students bring +9% more customers but spend -18% less per ticket. Net revenue im
 **Seasonal revenue ranking (avg daily):**
 Fall Finals $2,620 > Thanksgiving $2,440 > Move-in $2,005 > Winter Break $1,758 > Fall Classes $1,532 > Summer $1,499 > Spring Classes $1,421 > Spring Break $1,323.
 
-**Verdict:** Petit Merci is not a student-dependent business. It's a locals + tourists + seasonal gifting business.
+**Verdict:** Petit Merci is not a student-dependent business. It's a provisions store serving locals, tourists, and seasonal gift shoppers.
 
 *Evidence: CofC 2025-2026 academic calendar from charleston.edu/registrar, daily revenue from ticket-detail-all.csv*
 
@@ -295,7 +295,7 @@ Weather data from Open-Meteo archive API for Charleston, SC (CHS) merged with da
 - January 2026 was the shock month ($1,155/day, worst month) — first full month after Babas opened.
 - February 2026 recovered to $1,560/day — customers settling into visiting both, not fully defecting.
 
-**Verdict:** Babas is stealing cafe traffic (coffee, sandwiches) but cannot compete on the market/retail side. Petit Merci's moat is the curated retail experience.
+**Verdict:** Babas is stealing coffee and sandwich traffic but cannot compete on provisions — curated retail food, merchandise, frozen meals, wine. That's Petit Merci's core business and moat.
 
 *Evidence: Babas website, Post and Courier opening announcement, Yelp reviews, daily revenue split from ticket-detail-all.csv*
 
