@@ -1,6 +1,6 @@
-# Petit Merci — Analysis Findings
+# Bon Courage — Analysis Findings
 
-**Business:** Petit Merci, provisions store on Montagu St in Charleston, SC (retail-first — no seating, no cafe permit)
+**Business:** Bon Courage, provisions store on Habersham St in Savannah, GA (retail-first — no seating, no cafe permit)
 **Data:** 21,100 item-level transaction rows, 7,624 tickets, 173 operating days (Jul 2025 – Mar 2026)
 **Source:** Shift4 Lighthouse API, ticket-detail-closed endpoint
 **Primary data file:** `ticket-detail-all.csv`
@@ -29,7 +29,7 @@ The data reveals a structural shift mid-period:
 
 ## 3. Revenue Breakdown by Category
 
-Categorized to reflect Petit Merci's identity as a provisions store:
+Categorized to reflect Bon Courage's identity as a provisions store:
 
 | Category | Revenue | % of Total | SKUs |
 |---|---|---|---|
@@ -136,7 +136,7 @@ Provisions includes: Benton's Bacon, MASA chips, Bon Bons, Edisto Honey, Date Be
 
 ### Margin Structure
 
-Petit Merci uses a simple **100% markup on all products** (buy at $30, sell at $60) except:
+Bon Courage uses a simple **100% markup on all products** (buy at $30, sell at $60) except:
 - **Beer:** ~60% markup ($5 cost → $8 retail)
 - **Coffee:** 75-83% gross margin (see COGS breakdown below)
 - **Surcharges/gift cards:** 100% margin (no COGS)
@@ -203,35 +203,35 @@ A few items show newly increased discounting post-manager (Cirelli wine 100% dis
 
 ### Provisions Growth: Corrected Analysis
 
-Earlier analysis claimed +98% retail merch growth post-Babas. **This is misleading.** Deep dive reveals:
+Earlier analysis claimed +98% retail merch growth post-Nana's. **This is misleading.** Deep dive reveals:
 
 **Core merch (excluding 5 breakout products) by phase:**
 
 | Phase | Core Merch $/day | Breakout $/day | Total Merch $/day | Merch % of Total |
 |---|---|---|---|---|
 | Summer (Jul-Sep) | $90 | $0 | $90 | 6.8% |
-| Oct (pre-Babas) | $124 | $0 | $124 | 8.3% |
-| Nov (pre-Babas) | $215 | $0 | $215 | 16.3% |
-| Dec (Babas opens mid-month) | $219 | $37 | $255 | 13.7% |
+| Oct (pre-Nana's) | $124 | $0 | $124 | 8.3% |
+| Nov (pre-Nana's) | $215 | $0 | $215 | 16.3% |
+| Dec (Nana's opens mid-month) | $219 | $37 | $255 | 13.7% |
 | Jan (post-holiday) | **$51** | $60 | $111 | 10.3% |
 | Feb | $109 | $68 | $177 | 13.0% |
 | Mar (partial) | $92 | $71 | $163 | 14.4% |
 
 **What's actually driving the growth:**
 
-1. **Seasonality is the primary driver.** Core merch surged Oct-Nov ($124→$215/day) BEFORE Babas opened, driven by holiday gift buying. January crashed to $51/day. This is a seasonal curve, not structural growth.
+1. **Seasonality is the primary driver.** Core merch surged Oct-Nov ($124→$215/day) BEFORE Nana's opened, driven by holiday gift buying. January crashed to $51/day. This is a seasonal curve, not structural growth.
 
-2. **Five breakout products mask the decline.** These items contribute $60-71/day post-Babas:
+2. **Five breakout products mask the decline.** These items contribute $60-71/day post-Nana's:
    - Ranger Station Candle: $1,080 (brand new, 27 units)
    - Card Amy Zhang: $655 (brand new, 131 units)
    - PM Tumbler: +$500 increase ($120→$620)
    - Merci t-shirt: +$388 increase ($24→$412)
    - PM Sweatshirt: $383 (new in post period)
-   Without these, post-Babas merch would look *worse* than Oct-Nov baseline.
+   Without these, post-Nana's merch would look *worse* than Oct-Nov baseline.
 
-3. **Merch share of total IS genuinely rising** (6.8% summer → 13-14% Feb-Mar). But partly because coffee and sandwiches are shrinking (Babas stealing those), not because merch is booming organically.
+3. **Merch share of total IS genuinely rising** (6.8% summer → 13-14% Feb-Mar). But partly because coffee and sandwiches are shrinking (Nana's stealing those), not because merch is booming organically.
 
-**Corrected interpretation:** The "retail is the moat" thesis is still directionally right — it's the one category Babas can't touch. But the growth engine is **new product introductions**, not organic demand for existing products. Keep launching new merch aggressively — that's what works.
+**Corrected interpretation:** The "retail is the moat" thesis is still directionally right — it's the one category Nana's can't touch. But the growth engine is **new product introductions**, not organic demand for existing products. Keep launching new merch aggressively — that's what works.
 
 *Evidence: item-level phase analysis from ticket-detail-all.csv, controlling for 5 breakout items and seasonal patterns*
 
@@ -245,9 +245,9 @@ Earlier analysis claimed +98% retail merch growth post-Babas. **This is misleadi
 
 *Evidence: item_status field in ticket-detail-all.csv, Open item trends from sales-summary CSVs*
 
-## 14. College of Charleston Impact
+## 14. Savannah College of Art and Design Impact
 
-CofC is located adjacent to Petit Merci. Academic calendar 2025-2026:
+SCAD is located adjacent to Bon Courage. Academic calendar 2025-2026:
 - Fall classes: Aug 19 – Dec 1. Fall break Oct 13-14. Thanksgiving Nov 26-30. Finals Dec 3-8.
 - Winter break: Dec 9 – Jan 3.
 - Spring classes: Jan 7 – Apr 22. Spring break Mar 1-8.
@@ -268,15 +268,15 @@ Students bring +9% more customers but spend -18% less per ticket. Net revenue im
 - **Fall finals week:** $2,620/day avg but only 44 tickets (parents visiting, gift-buying).
 - **Spring break:** Only -5% dip. Barely noticeable.
 
-**Verdict:** Petit Merci is not a student-dependent business. It's a provisions store serving locals, tourists, and seasonal gift shoppers.
+**Verdict:** Bon Courage is not a student-dependent business. It's a provisions store serving locals, tourists, and seasonal gift shoppers.
 
-*Evidence: CofC 2025-2026 academic calendar from charleston.edu/registrar, daily revenue from ticket-detail-all.csv*
+*Evidence: SCAD 2025-2026 academic calendar from scad.edu/registrar, daily revenue from ticket-detail-all.csv*
 
 ## 15. Weather Impact
 
-Weather data from Open-Meteo archive API for Charleston, SC (CHS) merged with daily sales.
+Weather data from Open-Meteo archive API for Savannah, GA (CHS) merged with daily sales.
 
-**Finding: Weather matters, but backwards from what you'd expect. Petit Merci is a bad-weather business.**
+**Finding: Weather matters, but backwards from what you'd expect. Bon Courage is a bad-weather business.**
 
 - **Rain has zero impact on revenue** (t-test p = 0.74). Rainy Saturdays actually outperform dry Saturdays ($1,815 vs $1,711).
 - **Clear/sunny days are the worst** ($1,336 avg) — people go to the beach, not the provisions store.
@@ -288,13 +288,13 @@ Controlling for day-of-week and seasonality, weather explains essentially none o
 
 *Evidence: Open-Meteo historical API, merged dataset at daily-sales-weather.csv*
 
-## 16. Competitor Impact — Babas on Wentworth
+## 16. Competitor Impact — Nana's on Jones St
 
-**Babas Charleston** (https://babascharleston.com/) opened their third location at 115½ Wentworth St — one block from Petit Merci — on **December 16, 2025**.
+**Nana's Savannah** (https://nanas-savannah.com/) opened their third location at 115½ Jones St — one block from Bon Courage — on **December 16, 2025**.
 
-**Babas profile:**
-- European-inspired neighborhood cafe chain, 3 Charleston locations
-- 24K Instagram followers, press in Conde Nast Traveler, Forbes, Charleston Magazine
+**Nana's profile:**
+- European-inspired neighborhood cafe chain, 3 Savannah locations
+- 24K Instagram followers, press in Conde Nast Traveler, Forbes, Savannah Magazine
 - Hours: Tue-Thu 7a-8p, Fri-Sat 7a-10p, Sun 7a-6p
 - Menu: espresso ($2), pastries, sandwiches (turkey, ham & butter), salads ($10-14), cocktails, wine
 - Rating: ~4.6-4.7/5 across platforms
@@ -302,28 +302,28 @@ Controlling for day-of-week and seasonality, weather explains essentially none o
 
 **Revenue impact (controlling for PM's wholesale-to-retail pivot, retail-only orders <$100):**
 
-| Metric | Pre-Babas (before Dec 16) | Post-Babas | Change |
+| Metric | Pre-Nana's (before Dec 16) | Post-Nana's | Change |
 |---|---|---|---|
 | Avg daily revenue | $1,129 | $958 | **-15.2%** |
 | Avg daily tickets | ~50 | ~39 | **-20%** |
 
 **Categories hit hardest:**
 - Sandwiches: **-32.4%** (-$92/day) — direct menu overlap
-- Coffee/Espresso: **-20.0%** (-$52/day) — Babas undercuts on price ($2 espresso)
-- Matcha Latte: **-37%** — Babas known for matcha with house-made peanut milk
-- Turkey Sandwich: **-33%**, Ham & Brie: **-24%** — identical items on Babas menu
+- Coffee/Espresso: **-20.0%** (-$52/day) — Nana's undercuts on price ($2 espresso)
+- Matcha Latte: **-37%** — Nana's known for matcha with house-made peanut milk
+- Turkey Sandwich: **-33%**, Ham & Brie: **-24%** — identical items on Nana's menu
 - Chocolate Chip Cookie: **-29%**
 
-**Category GROWING despite Babas:**
-- **Retail/Market goods:** merch share of total revenue rose from 6.8% → 13-14%. However, this is driven primarily by 5 breakout product introductions and seasonal holiday buying — not organic growth of existing merch. See Section 12 for corrected analysis. Babas does not sell retail goods.
+**Category GROWING despite Nana's:**
+- **Retail/Market goods:** merch share of total revenue rose from 6.8% → 13-14%. However, this is driven primarily by 5 breakout product introductions and seasonal holiday buying — not organic growth of existing merch. See Section 12 for corrected analysis. Nana's does not sell retail goods.
 
 **Monthly trajectory:**
-- January 2026 was the shock month ($1,155/day, worst month) — first full month after Babas opened.
+- January 2026 was the shock month ($1,155/day, worst month) — first full month after Nana's opened.
 - February 2026 recovered to $1,560/day — customers settling into visiting both, not fully defecting.
 
-**Verdict:** Babas is stealing coffee and sandwich traffic but cannot compete on provisions — curated retail food, merchandise, frozen meals, wine. That's Petit Merci's core business and moat.
+**Verdict:** Nana's is stealing coffee and sandwich traffic but cannot compete on provisions — curated retail food, merchandise, frozen meals, wine. That's Bon Courage's core business and moat.
 
-*Evidence: Babas website, Post and Courier opening announcement, Yelp reviews, daily revenue split from ticket-detail-all.csv*
+*Evidence: Nana's website, Post and Courier opening announcement, Yelp reviews, daily revenue split from ticket-detail-all.csv*
 
 ---
 
@@ -332,10 +332,10 @@ Controlling for day-of-week and seasonality, weather explains essentially none o
 | # | Action | Rationale | Impact |
 |---|---|---|---|
 | 1 | **Accelerate new merch launches** | Growth comes from new product introductions, not existing catalog. Keep the pipeline moving every 4-6 weeks. | +$10-15K/yr |
-| 2 | **Differentiate food menu from Babas** | They're stealing coffee (-$99/day) and sandwiches (-$20/day). Total revenue loss ~$25K/yr, ~$18.5K in profit (coffee is 80% margin). Compete on items they DON'T have: frozen meals, specialty retail food, French-specific items. | Defend ~$25K/yr revenue |
+| 2 | **Differentiate food menu from Nana's** | They're stealing coffee (-$99/day) and sandwiches (-$20/day). Total revenue loss ~$25K/yr, ~$18.5K in profit (coffee is 80% margin). Compete on items they DON'T have: frozen meals, specialty retail food, French-specific items. | Defend ~$25K/yr revenue |
 | 3 | **Own the holiday/gifting calendar** | Dec is 2.2x normal revenue. Thanksgiving Eve = $4,779. Plan 5-6 seasonal moments/year. January is a cliff — plan a post-holiday promotion. | +$15-20K/yr |
 | 4 | **Food upsell on coffee tickets** | 64% leave without food. Prompt at register. | +$15K/yr |
-| 5 | **Price test staples** | Matcha $6→$8 worked. Don't compete on price with Babas — compete on experience + quality. | +$3-5K/yr |
+| 5 | **Price test staples** | Matcha $6→$8 worked. Don't compete on price with Nana's — compete on experience + quality. | +$3-5K/yr |
 | 6 | **Prune 150+ zombie SKUs** | 50% of catalog = 7% of revenue. Free shelf space for new launches. | Save $5-9K/yr |
 
 ---
